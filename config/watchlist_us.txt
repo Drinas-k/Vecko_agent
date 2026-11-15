@@ -591,3 +591,9 @@ WAB
 # Wabtec – 8-K 2026-11-03, innehåll ej verifierat.
 ASTS
 # AST SpaceMobile – 8-K 2026-11-06, innehåll ej verifierat.
+
+# --- Bevakning scout-261115: Anthropic IPO ---
+ANT
+# Anthropic – IPO på Nasdaq Global Select, intervall 70–78 USD (RTTNews 2026-11-10);
+# handel väntas 19/11 enligt CNBC (källor). Ingen kurs förrän noterad – Yahoo-fel tills dess
+# är förväntat. Bevakning, inte köpbarhet (saknar MA200). Rensas enligt hygienregeln.
