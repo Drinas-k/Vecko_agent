@@ -1,18 +1,24 @@
 {
- "generatedAt": "2026-11-16T06:50:32.026Z",
+ "generatedAt": "2026-11-16T13:25:56.022Z",
  "horizons": [
   5,
   20
  ],
  "minN": 8,
  "counts": {
-  "decisions": 1151,
-  "measurable": 1149,
-  "missing": 2,
-  "pending": 82
+  "decisions": 1173,
+  "measurable": 1165,
+  "missing": 8,
+  "pending": 98
  },
  "missingSymbols": [
+  "BKNG",
+  "CHYM",
   "COFFEE-B.ST",
+  "DLB",
+  "INGM",
+  "IONQ",
+  "MCO",
   "TAGM-B.ST"
  ],
  "byHorizon": {
@@ -24686,6 +24692,232 @@
    "action": "AVVAKTA",
    "catalystType": "other",
    "sector": "Byggmaterial/sakerhet",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "CBOE",
+   "book": "us",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "Borser/finansiell infrastruktur",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "APP",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Adtech/mjukvara",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "NVDA",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Halvledare/AI",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "AMAT",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Halvledarutrustning",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "CSCO",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Natverk",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "DAL",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Flyg",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "AMZN",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "E-handel/moln",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "NET",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Mjukvara/natverk",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "ABNB",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Resor/plattform",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "AMD",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Halvledare/AI",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "AVGO",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Halvledare/AI",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "RKLB",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Rymd",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "ANET",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Natverk/AI",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "CIEN",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Optiskt natverk",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "CHYM",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "index",
+   "sector": "Fintech",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "INGM",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "index",
+   "sector": "IT-distribution",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "BKNG",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Resor/plattform",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "MCO",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Kreditbetyg/data",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "IONQ",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Kvantdatorer",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "DLB",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Ljud/licensiering",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "HD",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Detaljhandel/bygg",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "WMT",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Detaljhandel",
    "reconstructed": false,
    "fwd": {}
   }
