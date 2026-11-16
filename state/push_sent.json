@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T15:07:25.924Z",
+  "updatedAt": "2026-11-16T16:46:18.631Z",
   "keys": [
     "beslut|2026-08-03|nordic|XACT-OMXS30.ST|KÖP",
     "beslut|2026-08-03|us|AMZN|KÖP",
@@ -55,7 +55,8 @@
     "beslut|2026-11-09|nordic|BOOZT.ST|KÖP",
     "alert|U|KÖP|entry-villkor uppfyllt|49",
     "alert|MORLD.OL|KÖP|entry-villkor uppfyllt|26.4",
-    "beslut|2026-11-13|nordic|MORLD.OL|KÖP"
+    "beslut|2026-11-13|nordic|MORLD.OL|KÖP",
+    "beslut|2026-11-16|nordic|HNSA.ST|KÖP"
   ],
   "deliveries": {}
 }
