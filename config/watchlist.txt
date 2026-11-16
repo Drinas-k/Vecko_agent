@@ -426,3 +426,9 @@ AUTO.OL
 # AutoStore - aterkop av egna aktier (mfn 2026-11-02); beslut v46 utan kurs (punkt 6b).
 BIOA-B.ST
 # BioArctic - Novartis avslutar samarbetsavtal (mfn 2026-11-02); beslut v46 utan kurs (punkt 6b).
+ALIV-SDB.ST
+# Autoliv - hojd kvartalsutdelning (mfn 2026-11-09); bubblare v47 (L-2).
+TAGM-B.ST
+# TagMaster - forvarv Kapsch 915MHz-verksamhet (mfn 2026-11-10); beslut v47 utan kurs (punkt 6b).
+COFFEE-B.ST
+# Coffee Stain - forvarv av IP Chronicles: Medieval (mfn 2026-11-13); beslut v47 utan kurs (punkt 6b).
