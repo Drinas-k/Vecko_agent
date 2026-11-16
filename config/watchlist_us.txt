@@ -597,3 +597,17 @@ ANT
 # Anthropic – IPO på Nasdaq Global Select, intervall 70–78 USD (RTTNews 2026-11-10);
 # handel väntas 19/11 enligt CNBC (källor). Ingen kurs förrän noterad – Yahoo-fel tills dess
 # är förväntat. Bevakning, inte köpbarhet (saknar MA200). Rensas enligt hygienregeln.
+
+# --- US-rotation v47 (us-veckorapport-261116): nyhetsflöde g0 utan kurs (L-2, punkt 6b) ---
+CHYM
+# Chime Financial – S&P MidCap 400-inklusion (PR Newswire 2026-11-13), L-8; ikraftträdande ej verifierat.
+INGM
+# Ingram Micro – S&P SmallCap 600-inklusion (PR Newswire 2026-11-11), L-8; ikraftträdande ej verifierat.
+BKNG
+# Booking Holdings – 8-K 2026-11-13, innehåll ej verifierat.
+MCO
+# Moody's – 8-K 2026-11-12, innehåll ej verifierat.
+IONQ
+# IonQ – 8-K 2026-11-13, innehåll ej verifierat.
+DLB
+# Dolby Laboratories – 8-K 2026-11-13, innehåll ej verifierat.

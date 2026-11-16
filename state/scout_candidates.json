@@ -2482,10 +2482,11 @@
       "sourceRef": "AppLovin 8-K ex. 99.1 (SEC 2026-11-04); MarketBeat + Investing.com 2026-11-13 (websok). Kurs: prices.json/Yahoo chart API.",
       "price": 409.1,
       "priceAsOf": "2026-11-13T21:00:01.000Z",
-      "status": "new",
+      "status": "rejected",
       "expiresAt": "2026-11-20",
-      "decidedBy": null,
-      "decidedAt": null
+      "decidedBy": "reports/us_weekly/us-veckorapport-261116.md",
+      "decidedAt": "2026-11-16",
+      "decisionReason": "grind 2 (teknik): volym 0,59x < 1,5x och EMA20 330,41 under EMA200 398,58; grind 3: katalysatorn 4/11 ligger 8 handelsdagar bak (>5)"
     }
   ]
 }
