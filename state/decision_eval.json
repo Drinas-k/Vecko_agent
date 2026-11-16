@@ -1,17 +1,20 @@
 {
- "generatedAt": "2026-11-13T21:37:40.481Z",
+ "generatedAt": "2026-11-16T06:50:32.026Z",
  "horizons": [
   5,
   20
  ],
  "minN": 8,
  "counts": {
-  "decisions": 1131,
-  "measurable": 1131,
-  "missing": 0,
-  "pending": 64
+  "decisions": 1151,
+  "measurable": 1149,
+  "missing": 2,
+  "pending": 82
  },
- "missingSymbols": [],
+ "missingSymbols": [
+  "COFFEE-B.ST",
+  "TAGM-B.ST"
+ ],
  "byHorizon": {
   "5": {
    "all": {
@@ -24481,6 +24484,208 @@
    "action": "AVVAKTA",
    "catalystType": "earnings",
    "sector": "Halvledarutrustning",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "HNSA.ST",
+   "book": "nordic",
+   "action": "KÖP",
+   "catalystType": "earnings",
+   "sector": "Bioteknik",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "BOOZT.ST",
+   "book": "nordic",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "E-handel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "MORLD.OL",
+   "book": "nordic",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "Oljeservice",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "NORBT.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Elektronik/sensorer",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "SUBC.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "order",
+   "sector": "Offshore/subsea",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "ALIV-SDB.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Fordonssakerhet",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "HSHP.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "order",
+   "sector": "Torrbulk",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "ALVO-SDB.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Biosimilarer",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "TAGM-B.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Trafikteknik",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "COFFEE-B.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Spel",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "SOBI.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Lakemedel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "LUG.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Guld",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "ORSTED.CO",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Fornybar energi",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "SAGA-B.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Fastigheter",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "AUTO.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "buyback",
+   "sector": "Lagerautomation",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "GRK.HE",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Bygg/infrastruktur",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "EMBRAC-B.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Spel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "AUSS.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Sjomat",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "SKA-B.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Bygg",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-16",
+   "ticker": "DOM.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Byggmaterial/sakerhet",
    "reconstructed": false,
    "fwd": {}
   }
