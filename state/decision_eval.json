@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T15:54:04.506Z",
+ "generatedAt": "2026-11-17T16:52:11.801Z",
  "horizons": [
   5,
   20
@@ -54,7 +54,7 @@
    "byBook": {
     "nordic": {
      "n": 581,
-     "meanAlphaPct": 0.23,
+     "meanAlphaPct": 0.22,
      "medianAlphaPct": 0.18,
      "meanPct": 0.35,
      "beatIndexPct": 50.95
@@ -164,7 +164,7 @@
     "nDates": 75,
     "effectiveN": 17,
     "meanAlphaPct": 0.54,
-    "clusterMeanAlphaPct": 1.06,
+    "clusterMeanAlphaPct": 1.05,
     "medianAlphaPct": 0.27,
     "beatIndexPct": 52.61
    },
@@ -174,7 +174,7 @@
     "nDates": 75,
     "effectiveN": 17,
     "meanAlphaPct": 0.54,
-    "clusterMeanAlphaPct": 1.06,
+    "clusterMeanAlphaPct": 1.05,
     "medianAlphaPct": 0.27,
     "beatIndexPct": 52.61,
     "verdict": "kandidatflödet slår index -- värdet kan ligga i urvalet AV kandidater, inte i grindarna"
@@ -195,7 +195,7 @@
      "nDates": 70,
      "effectiveN": 15,
      "meanAlphaPct": 0.55,
-     "clusterMeanAlphaPct": 1.05,
+     "clusterMeanAlphaPct": 1.04,
      "medianAlphaPct": 0.3,
      "beatIndexPct": 53.01
     },
@@ -367,7 +367,7 @@
     "nDates": 60,
     "effectiveN": 4,
     "meanAlphaPct": 0.81,
-    "clusterMeanAlphaPct": 1.46,
+    "clusterMeanAlphaPct": 1.47,
     "medianAlphaPct": 0.65,
     "beatIndexPct": 52.82,
     "insufficient": true,
@@ -380,7 +380,7 @@
     "nDates": 60,
     "effectiveN": 4,
     "meanAlphaPct": 0.81,
-    "clusterMeanAlphaPct": 1.46,
+    "clusterMeanAlphaPct": 1.47,
     "medianAlphaPct": 0.65,
     "beatIndexPct": 52.82,
     "insufficient": true,
@@ -407,7 +407,7 @@
      "nDates": 55,
      "effectiveN": 3,
      "meanAlphaPct": 0.83,
-     "clusterMeanAlphaPct": 1.27,
+     "clusterMeanAlphaPct": 1.28,
      "medianAlphaPct": 0.73,
      "beatIndexPct": 52.91,
      "insufficient": true,
@@ -21670,9 +21670,9 @@
      "toDate": "2026-10-27"
     },
     "20": {
-     "pct": -1.14,
-     "benchPct": 1.28,
-     "alphaPct": -2.42,
+     "pct": -0.67,
+     "benchPct": 1.51,
+     "alphaPct": -2.18,
      "toDate": "2026-11-17"
     }
    }
@@ -24836,8 +24836,8 @@
    "fwd": {
     "5": {
      "pct": -1.89,
-     "benchPct": -1.43,
-     "alphaPct": -0.45,
+     "benchPct": -1.21,
+     "alphaPct": -0.68,
      "toDate": "2026-11-17"
     }
    }
@@ -24853,8 +24853,8 @@
    "fwd": {
     "5": {
      "pct": 0.57,
-     "benchPct": -1.43,
-     "alphaPct": 2,
+     "benchPct": -1.21,
+     "alphaPct": 1.78,
      "toDate": "2026-11-17"
     }
    }
