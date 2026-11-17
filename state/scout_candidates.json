@@ -2487,6 +2487,24 @@
       "decidedBy": "reports/us_weekly/us-veckorapport-261116.md",
       "decidedAt": "2026-11-16",
       "decisionReason": "grind 2 (teknik): volym 0,59x < 1,5x och EMA20 330,41 under EMA200 398,58; grind 3: katalysatorn 4/11 ligger 8 handelsdagar bak (>5)"
+    },
+    {
+      "id": "261117-BIIB",
+      "date": "2026-11-17",
+      "ticker": "BIIB",
+      "book": "us",
+      "source": "scout",
+      "catalystType": "other",
+      "catalystDate": "2026-11-16",
+      "confirmed": true,
+      "thesis": "Femarsdata Clarity AD-forlangning for Leqembi presenterad pa CTAD 16/11 23:00 UTC (Biogen; BioArctic: okande nytta over tid). Hel trendstack: 251,65 = 22,4 % over MA200 205,51. Pre-event-kurs ⇒ price null. Bear: oppen studie utan placebo, studiesiffror ej verifierade, Eisai leder, lag volym.",
+      "sourceRef": "Biogen PR Newswire + mfn 2026-11-16T23:00Z, BioArctic mfn 2026-11-16T23:05Z (state/news_feed.json); brodtext ej hamtbar. Stangning 16/11 21:00Z ar FORE katalysatorn.",
+      "price": null,
+      "priceAsOf": null,
+      "status": "new",
+      "expiresAt": "2026-11-24",
+      "decidedBy": null,
+      "decidedAt": null
     }
   ]
 }
