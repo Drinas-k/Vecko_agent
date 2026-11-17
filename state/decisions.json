@@ -29337,6 +29337,69 @@
       "sector": "Indexsleeve",
       "rsi": null,
       "reason": "Kapitalparkering 62,5 pct, orord. +0,94 pct mot entry 494,60. Regim PA: ^OMX 3341,95 > MA200 3173,93 (+5,29 pct)."
+    },
+    {
+      "date": "2026-11-17",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-3"
+      ],
+      "weight": 0.875,
+      "entry": 773.26,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "ticker": "SPY",
+      "action": "BEHÅLL",
+      "price": 739.95,
+      "catalystType": "index",
+      "sector": "Indexsleeve",
+      "rsi": 40.4,
+      "reason": "Sleeve 87,5 pct oforandrad. 739,95 (16/11 21:00Z), -4,31 pct mot entry. Inget aktiekop/-salj kravde omviktning. Filtreras bort ur urvalsstatistiken."
+    },
+    {
+      "date": "2026-11-17",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-3"
+      ],
+      "weight": 0.125,
+      "entry": 335.53,
+      "stop": 351.5,
+      "target": 382.5,
+      "rr": 2.41,
+      "ticker": "CBOE",
+      "action": "BEHÅLL",
+      "price": 377.5,
+      "catalystType": "earnings",
+      "sector": "Borser/finansiell infrastruktur",
+      "rsi": 75.4,
+      "reason": "Ben 1 12,5 pct. 377,50 (16/11 21:00Z), +12,51 pct mot entry. Dagslagsta 372,05 over stop 351,50, dagshogsta 379,76 under mal 382,50. Tes intakt (Q3 30/10). Stop/mal oforandrade."
+    },
+    {
+      "date": "2026-11-17",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-4"
+      ],
+      "weight": 0,
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "ticker": "BIIB",
+      "action": "AVVAKTA",
+      "price": null,
+      "catalystType": "other",
+      "sector": "Bioteknik",
+      "rsi": 57.1,
+      "reason": "Scout 261117-BIIB. Sparr (b): kurs ej verifierbar - stangning 251,65 (16/11 21:00Z) fore katalysatorn (CTAD 23:00Z). Aven grind 2: volym 0,69x, MACD-histogram fallande."
     }
   ]
 }

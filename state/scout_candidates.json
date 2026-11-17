@@ -2501,10 +2501,11 @@
       "sourceRef": "Biogen PR Newswire + mfn 2026-11-16T23:00Z, BioArctic mfn 2026-11-16T23:05Z (state/news_feed.json); brodtext ej hamtbar. Stangning 16/11 21:00Z ar FORE katalysatorn.",
       "price": null,
       "priceAsOf": null,
-      "status": "new",
+      "status": "rejected",
       "expiresAt": "2026-11-24",
-      "decidedBy": null,
-      "decidedAt": null
+      "decidedBy": "reports/us_daily/us-daglig-261117.md",
+      "decidedAt": "2026-11-17",
+      "decisionReason": "kurs ej verifierbar – stängningen 251,65 (2026-11-16T21:00Z) ligger före katalysatorn (CTAD 2026-11-16T23:00Z), ingen daterad förbörskurs; dessutom grind 2: volym 0,69×, MACD-histogram fallande"
     }
   ]
 }
