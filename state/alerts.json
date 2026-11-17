@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T15:07:25.427Z",
-  "checkedAt": "2026-11-17T00:39:15.509Z",
+  "generatedAt": "2026-11-17T16:42:15.184Z",
+  "checkedAt": "2026-11-17T16:42:15.184Z",
   "watched": [
     "BOOZT.ST",
     "MORLD.OL",
@@ -9,7 +9,19 @@
     "CBOE",
     "NORBT.OL"
   ],
-  "active": [],
+  "active": [
+    {
+      "ticker": "NORBT.OL",
+      "type": "KÖP",
+      "reason": "entry-villkor uppfyllt",
+      "level": 174,
+      "price": 166.7,
+      "currency": "NOK",
+      "marketTime": "2026-11-17T15:29:37.000Z",
+      "basis": "price",
+      "hitPrice": 166.7
+    }
+  ],
   "history": [
     {
       "ticker": "MORLD.OL",
