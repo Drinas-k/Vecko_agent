@@ -29250,6 +29250,93 @@
         "L-9"
       ],
       "reason": "Veckans radar. Spärr 2e: rapport 19/11 (isEstimate false). Grind 2: volym 0,76x, histogram negativt (-0,12). Provas om efter reaktionen (L-9)."
+    },
+    {
+      "date": "2026-11-17",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "BOOZT.ST",
+      "action": "BEHÅLL",
+      "price": 173.9,
+      "currency": "SEK",
+      "weight": 0.125,
+      "entry": 169.2,
+      "stop": 163,
+      "target": 189.5,
+      "rr": 3.27,
+      "catalystType": "earnings",
+      "sector": "E-handel",
+      "rsi": 65.7,
+      "horizonDays": 20,
+      "reason": "Tes intakt (Q3 3/11). 173,90 (16/11 16:29Z), +2,78 pct mot entry. Dagslagsta 172,10 over stop 163. RSI 65,7, MACD-hist sjunkande, volym 0,48x. Under +5 pct-gransen - stop orord."
+    },
+    {
+      "date": "2026-11-17",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "MORLD.OL",
+      "action": "BEHÅLL",
+      "price": 27,
+      "currency": "NOK",
+      "weight": 0.125,
+      "entry": 26.4,
+      "stop": 25.3,
+      "target": 29.6,
+      "rr": 2.91,
+      "catalystType": "earnings",
+      "sector": "Oljeservice",
+      "rsi": 68.2,
+      "horizonDays": 20,
+      "reason": "Tes intakt (Q3 5/11). 27,00 (16/11 15:25Z), +2,27 pct. Dagslagsta 26,95 over stop 25,30 och ben 2 <=26,00 (ej triggad, t.o.m. 19/11). RSI 68,2."
+    },
+    {
+      "date": "2026-11-17",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "HNSA.ST",
+      "action": "BEHÅLL",
+      "price": 49.56,
+      "currency": "SEK",
+      "weight": 0.125,
+      "entry": 46.84,
+      "stop": 44.5,
+      "target": 52.5,
+      "rr": 2.42,
+      "catalystType": "earnings",
+      "sector": "Bioteknik",
+      "rsi": 76,
+      "horizonDays": 20,
+      "reason": "Tes intakt (Q3 11/11). 49,56 (16/11 16:29Z), +5,81 pct, volym 2,81x, dagshogsta 51,65 under mal 52,50. Stop kvar 44,50 - ben 2 <=45,00 ligger kvar t.o.m. 20/11. FDA 19/12 utanfor 2 dagar."
+    },
+    {
+      "date": "2026-11-17",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "XACT-OMXS30.ST",
+      "action": "BEHÅLL",
+      "price": 499.25,
+      "currency": "SEK",
+      "weight": 0.625,
+      "entry": 494.6,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "catalystType": "index",
+      "sector": "Indexsleeve",
+      "rsi": null,
+      "reason": "Kapitalparkering 62,5 pct, orord. +0,94 pct mot entry 494,60. Regim PA: ^OMX 3341,95 > MA200 3173,93 (+5,29 pct)."
     }
   ]
 }
