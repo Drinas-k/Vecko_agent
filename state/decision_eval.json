@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-17T16:52:11.801Z",
+ "generatedAt": "2026-11-18T06:45:11.468Z",
  "horizons": [
   5,
   20
  ],
  "minN": 8,
  "counts": {
-  "decisions": 1178,
-  "measurable": 1178,
+  "decisions": 1182,
+  "measurable": 1182,
   "missing": 0,
-  "pending": 68
+  "pending": 72
  },
  "missingSymbols": [],
  "byHorizon": {
@@ -25516,6 +25516,46 @@
    "action": "AVVAKTA",
    "catalystType": "other",
    "sector": "Bioteknik",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-18",
+   "ticker": "BOOZT.ST",
+   "book": "nordic",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "E-handel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-18",
+   "ticker": "MORLD.OL",
+   "book": "nordic",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "Oljeservice",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-18",
+   "ticker": "HNSA.ST",
+   "book": "nordic",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "Bioteknik",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-18",
+   "ticker": "NORBT.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Elektronik/sensorer",
    "reconstructed": false,
    "fwd": {}
   }
