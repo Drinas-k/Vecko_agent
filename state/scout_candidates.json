@@ -2520,10 +2520,11 @@
       "sourceRef": "NVIDIA pressmeddelande 2026-11-17 (via Morningstar/GlobeNewswire, websok); Investing.com + Yahoo Finance 2026-11-17. Brodtext ej hamtbar.",
       "price": null,
       "priceAsOf": null,
-      "status": "new",
+      "status": "rejected",
       "expiresAt": "2026-11-25",
-      "decidedBy": null,
-      "decidedAt": null
+      "decidedBy": "reports/us_daily/us-daglig-261118.md",
+      "decidedAt": "2026-11-18",
+      "decisionReason": "kurs ej verifierbar – stangning 155,46 (17/11 21:00Z) ar pre-event, ingen efterborskurs; aven regimen av (^GSPC 0,05 % under MA200) och kurs under MA200"
     }
   ]
 }

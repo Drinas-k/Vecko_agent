@@ -29506,6 +29506,90 @@
       "sector": "Elektronik/sensorer",
       "rsi": 50.1,
       "reason": "Bubblarplan <=174,00 TRIGGAD men AVFORD: stangning 166,70 (17/11 15:29Z) under planens stop 168,00 och stodet 168,80, volym 2,66x, kurs under EMA200 173,69. Grind 4: kop under stoppen."
+    },
+    {
+      "date": "2026-11-18",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-3"
+      ],
+      "weight": 0.875,
+      "entry": 773.26,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "ticker": "SPY",
+      "action": "BEHÅLL",
+      "price": 732.44,
+      "catalystType": "index",
+      "sector": "Indexsleeve",
+      "rsi": 37.5,
+      "reason": "Sleeve 87,5 pct oforandrad. 732,44 (17/11 21:00Z), -5,28 pct mot entry. Inget aktiekop/-salj kravde omviktning. Filtreras bort ur urvalsstatistiken."
+    },
+    {
+      "date": "2026-11-18",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-3"
+      ],
+      "weight": 0.125,
+      "entry": 335.53,
+      "stop": 351.5,
+      "target": 382.5,
+      "rr": 2.41,
+      "ticker": "CBOE",
+      "action": "BEHÅLL",
+      "price": 370.07,
+      "catalystType": "earnings",
+      "sector": "Borser/finansiell infrastruktur",
+      "rsi": 68.9,
+      "reason": "Ben 1 12,5 pct. 370,07 (17/11 21:00Z), +10,29 pct mot entry. Dagslagsta 367,92 over stop 351,50, dagshogsta 377,16 under mal 382,50. Tes intakt (Q3 30/10). Stop/mal oforandrade."
+    },
+    {
+      "date": "2026-11-18",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-4"
+      ],
+      "weight": 0,
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "ticker": "NVDA",
+      "action": "AVVAKTA",
+      "price": null,
+      "catalystType": "earnings",
+      "sector": "Halvledare",
+      "rsi": 22.5,
+      "reason": "Scout 261118-NVDA. Sparr (b): kurs ej verifierbar - 155,46 (17/11 21:00Z) ar fore rapporten (AMC), ingen efterborskurs. Aven (c) regim AV och kurs 23,7 pct under MA200."
+    },
+    {
+      "date": "2026-11-18",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-9"
+      ],
+      "weight": 0,
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "ticker": "HD",
+      "action": "AVVAKTA",
+      "price": 339.01,
+      "catalystType": "earnings",
+      "sector": "Detaljhandel/bygghandel",
+      "rsi": 55.3,
+      "reason": "L-9 efter Q3 17/11: -2,45 pct till 339,01 (17/11 21:00Z), volym 1,59x. Regim AV (^GSPC under MA200). Grind 2: MACD-histogram negativt (0,44->-0,61). Grind 3: negativ reaktion."
     }
   ]
 }
