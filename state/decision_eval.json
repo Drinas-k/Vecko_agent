@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-18T06:45:11.468Z",
+ "generatedAt": "2026-11-18T13:21:43.417Z",
  "horizons": [
   5,
   20
  ],
  "minN": 8,
  "counts": {
-  "decisions": 1182,
-  "measurable": 1182,
+  "decisions": 1185,
+  "measurable": 1185,
   "missing": 0,
-  "pending": 72
+  "pending": 75
  },
  "missingSymbols": [],
  "byHorizon": {
@@ -25556,6 +25556,36 @@
    "action": "AVVAKTA",
    "catalystType": "earnings",
    "sector": "Elektronik/sensorer",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-18",
+   "ticker": "CBOE",
+   "book": "us",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "Borser/finansiell infrastruktur",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-18",
+   "ticker": "NVDA",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Halvledare",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-18",
+   "ticker": "HD",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Detaljhandel/bygghandel",
    "reconstructed": false,
    "fwd": {}
   }
