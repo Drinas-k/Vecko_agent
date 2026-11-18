@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-17T16:42:15.184Z",
-  "checkedAt": "2026-11-17T23:45:01.703Z",
+  "generatedAt": "2026-11-18T16:12:16.471Z",
+  "checkedAt": "2026-11-18T16:12:16.471Z",
   "watched": [
     "BOOZT.ST",
     "MORLD.OL",
     "HNSA.ST",
     "SPY",
-    "CBOE",
-    "NORBT.OL"
+    "CBOE"
   ],
-  "active": [
+  "active": [],
+  "history": [
     {
       "ticker": "NORBT.OL",
       "type": "KÖP",
@@ -19,10 +19,9 @@
       "currency": "NOK",
       "marketTime": "2026-11-17T15:29:37.000Z",
       "basis": "price",
-      "hitPrice": 166.7
-    }
-  ],
-  "history": [
+      "hitPrice": 166.7,
+      "expiredAt": "2026-11-18T16:12:16.471Z"
+    },
     {
       "ticker": "MORLD.OL",
       "type": "KÖP",
