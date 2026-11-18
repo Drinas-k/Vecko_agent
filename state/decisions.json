@@ -29400,6 +29400,112 @@
       "sector": "Bioteknik",
       "rsi": 57.1,
       "reason": "Scout 261117-BIIB. Sparr (b): kurs ej verifierbar - stangning 251,65 (16/11 21:00Z) fore katalysatorn (CTAD 23:00Z). Aven grind 2: volym 0,69x, MACD-histogram fallande."
+    },
+    {
+      "date": "2026-11-18",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "BOOZT.ST",
+      "action": "BEHÅLL",
+      "price": 171.5,
+      "currency": "SEK",
+      "weight": 0.125,
+      "entry": 169.2,
+      "stop": 163,
+      "target": 189.5,
+      "rr": 3.27,
+      "catalystType": "earnings",
+      "sector": "E-handel",
+      "rsi": 61.6,
+      "horizonDays": 20,
+      "reason": "Tes intakt (Q3 3/11). 171,50 (17/11 16:29Z), +1,36 pct mot entry, -1,38 pct pa dagen med marknaden. Dagslagsta 170,70 over stop 163. RSI 61,6, MACD-hist sjunkande, volym 0,76x."
+    },
+    {
+      "date": "2026-11-18",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "MORLD.OL",
+      "action": "BEHÅLL",
+      "price": 26.65,
+      "currency": "NOK",
+      "weight": 0.125,
+      "entry": 26.4,
+      "stop": 25.3,
+      "target": 29.6,
+      "rr": 2.91,
+      "catalystType": "earnings",
+      "sector": "Oljeservice",
+      "rsi": 64.1,
+      "horizonDays": 20,
+      "reason": "Tes intakt (Q3 5/11). 26,65 (17/11 15:25Z), +0,95 pct. Dagslagsta 26,45 over stop 25,30 och ben 2 <=26,00 (ej triggad, t.o.m. 19/11). Over punkteringsnivan 25,40."
+    },
+    {
+      "date": "2026-11-18",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "HNSA.ST",
+      "action": "BEHÅLL",
+      "price": 48.18,
+      "currency": "SEK",
+      "weight": 0.125,
+      "entry": 46.84,
+      "stop": 44.5,
+      "target": 52.5,
+      "rr": 2.42,
+      "catalystType": "earnings",
+      "sector": "Bioteknik",
+      "rsi": 70.6,
+      "horizonDays": 20,
+      "reason": "Tes intakt (Q3 11/11). 48,18 (17/11 16:29Z), +2,86 pct, dagshogsta 49,76 under mal 52,50. Stop kvar 44,50 - ben 2 <=45,00 ligger kvar t.o.m. 20/11. FDA 19/12 utanfor 2 dagar."
+    },
+    {
+      "date": "2026-11-18",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "XACT-OMXS30.ST",
+      "action": "BEHÅLL",
+      "price": 490.75,
+      "currency": "SEK",
+      "weight": 0.625,
+      "entry": 494.6,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "catalystType": "index",
+      "sector": "Indexsleeve",
+      "rsi": null,
+      "reason": "Kapitalparkering 62,5 pct, orord. -0,78 pct mot entry 494,60. Regim PA: ^OMX 3287,48 > MA200 3174,94 (+3,54 pct)."
+    },
+    {
+      "date": "2026-11-18",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [],
+      "ticker": "NORBT.OL",
+      "action": "AVVAKTA",
+      "price": 166.7,
+      "currency": "NOK",
+      "weight": 0,
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "catalystType": "earnings",
+      "sector": "Elektronik/sensorer",
+      "rsi": 50.1,
+      "reason": "Bubblarplan <=174,00 TRIGGAD men AVFORD: stangning 166,70 (17/11 15:29Z) under planens stop 168,00 och stodet 168,80, volym 2,66x, kurs under EMA200 173,69. Grind 4: kop under stoppen."
     }
   ]
 }
