@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T23:14:54.206Z",
+  "generatedAt": "2026-11-19T23:16:56.908Z",
   "source": "Yahoo Finance chart API via GitHub Actions",
   "schemaVersion": "2026-08-02-prevclose",
   "wideAt": "2026-11-19T02:33:49.174Z",
@@ -664,15 +664,15 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 61903.62,
+      "price": 61989.68,
       "currency": "USD",
       "exchange": "CCC",
-      "marketTime": "2026-11-19T23:13:09.000Z",
+      "marketTime": "2026-11-19T23:15:35.000Z",
       "marketState": null,
       "previousClose": 62987.265625,
       "dayHigh": 63985.29,
       "dayLow": 61456.16,
-      "volume": 33442580480,
+      "volume": 33491271680,
       "source": "Yahoo Finance (chart API)"
     },
     "BWE.OL": {
@@ -1288,15 +1288,15 @@
     },
     "ETH-USD": {
       "symbol": "ETH-USD",
-      "price": 1751.29,
+      "price": 1756.36,
       "currency": "USD",
       "exchange": "CCC",
-      "marketTime": "2026-11-19T23:13:27.000Z",
+      "marketTime": "2026-11-19T23:15:51.000Z",
       "marketState": null,
       "previousClose": 1774.7491455078125,
       "dayHigh": 1811.701,
       "dayLow": 1736.3049,
-      "volume": 10944098304,
+      "volume": 10945227776,
       "source": "Yahoo Finance (chart API)"
     },
     "EVCM": {
@@ -3364,10 +3364,10 @@
     },
     "USDSEK=X": {
       "symbol": "USDSEK=X",
-      "price": 10.1881,
+      "price": 10.1842,
       "currency": "SEK",
       "exchange": "CCY",
-      "marketTime": "2026-11-19T23:14:42.000Z",
+      "marketTime": "2026-11-19T23:16:48.000Z",
       "marketState": null,
       "previousClose": 10.126500129699707,
       "dayHigh": 10.1927,
