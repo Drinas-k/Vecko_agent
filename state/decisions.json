@@ -29590,6 +29590,93 @@
       "sector": "Detaljhandel/bygghandel",
       "rsi": 55.3,
       "reason": "L-9 efter Q3 17/11: -2,45 pct till 339,01 (17/11 21:00Z), volym 1,59x. Regim AV (^GSPC under MA200). Grind 2: MACD-histogram negativt (0,44->-0,61). Grind 3: negativ reaktion."
+    },
+    {
+      "date": "2026-11-19",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "BOOZT.ST",
+      "action": "BEHÅLL",
+      "price": 172.9,
+      "currency": "SEK",
+      "weight": 0.125,
+      "entry": 169.2,
+      "stop": 163,
+      "target": 189.5,
+      "rr": 3.27,
+      "catalystType": "earnings",
+      "sector": "E-handel",
+      "rsi": 63,
+      "horizonDays": 20,
+      "reason": "Tes intakt (Q3 3/11). 172,90 (18/11 16:29Z), +2,19 pct mot entry, +0,82 pct pa dagen mot OMXS30 -0,95. Dagslagsta 171,40 over stop 163. RSI 63,0, MACD-hist sjunkande, volym 0,56x."
+    },
+    {
+      "date": "2026-11-19",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "MORLD.OL",
+      "action": "BEHÅLL",
+      "price": 26.85,
+      "currency": "NOK",
+      "weight": 0.125,
+      "entry": 26.4,
+      "stop": 25.3,
+      "target": 29.6,
+      "rr": 2.91,
+      "catalystType": "earnings",
+      "sector": "Oljeservice",
+      "rsi": 65.4,
+      "horizonDays": 20,
+      "reason": "Tes intakt (Q3 5/11). 26,85 (18/11 15:25Z), +1,70 pct. Dagslagsta 26,50 over stop 25,30 och ben 2 <=26,00 (ej triggad, sista dag 19/11). Over punkteringsnivan 25,40."
+    },
+    {
+      "date": "2026-11-19",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "HNSA.ST",
+      "action": "BEHÅLL",
+      "price": 47.88,
+      "currency": "SEK",
+      "weight": 0.125,
+      "entry": 46.84,
+      "stop": 44.5,
+      "target": 52.5,
+      "rr": 2.42,
+      "catalystType": "earnings",
+      "sector": "Bioteknik",
+      "rsi": 69.4,
+      "horizonDays": 20,
+      "reason": "Tes intakt (Q3 11/11). 47,88 (18/11 16:29Z), +2,22 pct, dagshogsta 49,90 under mal 52,50. Stop kvar 44,50 - ben 2 <=45,00 ligger kvar t.o.m. 20/11. FDA 19/12 utanfor 2 dagar."
+    },
+    {
+      "date": "2026-11-19",
+      "book": "nordic",
+      "mode": "B",
+      "lessonIds": [
+        "L-5"
+      ],
+      "ticker": "XACT-OMXS30.ST",
+      "action": "BEHÅLL",
+      "price": 487,
+      "currency": "SEK",
+      "weight": 0.625,
+      "entry": 494.6,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "catalystType": "index",
+      "sector": "Indexsleeve",
+      "rsi": null,
+      "reason": "Kapitalparkering 62,5 pct, orord. -1,54 pct mot entry 494,60. Regim PA: ^OMX 3256,21 > MA200 3175,63 (+2,54 pct)."
     }
   ]
 }
