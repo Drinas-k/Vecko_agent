@@ -29677,6 +29677,88 @@
       "sector": "Indexsleeve",
       "rsi": null,
       "reason": "Kapitalparkering 62,5 pct, orord. -1,54 pct mot entry 494,60. Regim PA: ^OMX 3256,21 > MA200 3175,63 (+2,54 pct)."
+    },
+    {
+      "date": "2026-11-19",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-3"
+      ],
+      "weight": 0.875,
+      "entry": 773.26,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "ticker": "SPY",
+      "action": "BEHÅLL",
+      "price": 730.2,
+      "catalystType": "index",
+      "sector": "Indexsleeve",
+      "rsi": 36.6,
+      "reason": "Sleeve 87,5 pct oforandrad. 730,20 (18/11 21:00Z), -5,57 pct mot entry. Inget aktiekop/-salj kravde omviktning. Filtreras bort ur urvalsstatistiken."
+    },
+    {
+      "date": "2026-11-19",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-3"
+      ],
+      "weight": 0.125,
+      "entry": 335.53,
+      "stop": 351.5,
+      "target": 382.5,
+      "rr": 2.41,
+      "ticker": "CBOE",
+      "action": "BEHÅLL",
+      "price": 359.91,
+      "catalystType": "earnings",
+      "sector": "Borser/finansiell infrastruktur",
+      "rsi": 61.1,
+      "reason": "Ben 1 12,5 pct. 359,91 (18/11 21:00Z), +7,27 pct mot entry. Dagslagsta 359,83 over stop 351,50, dagshogsta 369,91 under mal 382,50. Tes intakt (Q3 30/10). Stop/mal oforandrade."
+    },
+    {
+      "date": "2026-11-19",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [],
+      "weight": 0,
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "ticker": "TGT",
+      "action": "AVVAKTA",
+      "price": 165.93,
+      "catalystType": "earnings",
+      "sector": "Detaljhandel",
+      "rsi": 60.2,
+      "reason": "Scout 261119-TGT. Sparr (c): regim AV - ^GSPC 7323,63 under MA200 7346,53 (-0,31 pct). Q3 18/11 slagen, +4,01 pct till 165,93 (18/11 21:03Z), volym 3,14x."
+    },
+    {
+      "date": "2026-11-19",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-9"
+      ],
+      "weight": 0,
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "ticker": "NVDA",
+      "action": "AVVAKTA",
+      "price": 150.96,
+      "catalystType": "earnings",
+      "sector": "Halvledare",
+      "rsi": 21.1,
+      "reason": "L-9 efter Q3 17/11 AMC: -2,89 pct till 150,96 (18/11 21:00Z), volym 1,49x. Regim AV. Grind 2: 25,9 pct under MA200 203,72, under EMA20/50/200. Grind 3: negativ reaktion."
     }
   ]
 }

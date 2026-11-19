@@ -2539,10 +2539,11 @@
       "sourceRef": "CNBC 2026-11-18 (Target Q3 2026 earnings); Target 8-K ex. 99 (SEC 2026-11-18), websok. Kurs: prices.json/Yahoo chart API.",
       "price": 165.93,
       "priceAsOf": "2026-11-18T21:03:24.000Z",
-      "status": "new",
+      "status": "rejected",
       "expiresAt": "2026-11-27",
-      "decidedBy": null,
-      "decidedAt": null
+      "decidedBy": "reports/us_daily/us-daglig-261119.md",
+      "decidedAt": "2026-11-19",
+      "decisionReason": "Sparr (c): regimen av – inga nya positioner (^GSPC 7323,63 under MA200 7346,53)."
     }
   ]
 }
