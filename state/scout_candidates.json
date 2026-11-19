@@ -2525,6 +2525,24 @@
       "decidedBy": "reports/us_daily/us-daglig-261118.md",
       "decidedAt": "2026-11-18",
       "decisionReason": "kurs ej verifierbar – stangning 155,46 (17/11 21:00Z) ar pre-event, ingen efterborskurs; aven regimen av (^GSPC 0,05 % under MA200) och kurs under MA200"
+    },
+    {
+      "id": "261119-TGT",
+      "date": "2026-11-19",
+      "ticker": "TGT",
+      "book": "us",
+      "source": "scout",
+      "catalystType": "earnings",
+      "catalystDate": "2026-11-18",
+      "confirmed": true,
+      "thesis": "Bekraftad Q3 2026 (18/11 fore oppning): forsaljning 27,1 mdr (+7,1 %), jfb +5,6 %, just. EPS 2,65 mot 2,07 vantat, helarsguide hojd till ca +6 %. Stangde 165,93 (+4,01 %, 3,14x volym), 20,7 % over MA200. Bear: 0,50 USD av EPS ar tullaterbetalning; regim av.",
+      "sourceRef": "CNBC 2026-11-18 (Target Q3 2026 earnings); Target 8-K ex. 99 (SEC 2026-11-18), websok. Kurs: prices.json/Yahoo chart API.",
+      "price": 165.93,
+      "priceAsOf": "2026-11-18T21:03:24.000Z",
+      "status": "new",
+      "expiresAt": "2026-11-27",
+      "decidedBy": null,
+      "decidedAt": null
     }
   ]
 }
