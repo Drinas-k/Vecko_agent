@@ -611,3 +611,8 @@ IONQ
 # IonQ – 8-K 2026-11-13, innehåll ej verifierat.
 DLB
 # Dolby Laboratories – 8-K 2026-11-13, innehåll ej verifierat.
+
+# --- Bevakning scout-261120: L-5, rapportbolag utan rad ---
+INTU
+# Intuit – Q1 FY27 rapporterad 2026-11-19 efter stängning, Q2-guide under konsensus, ca −13 % efterbörs (CNBC 2026-11-19).
+# Bevakning för mätbar reaktion, inte köpbarhet. Rensas enligt hygienregeln.

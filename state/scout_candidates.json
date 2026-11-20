@@ -2544,6 +2544,25 @@
       "decidedBy": "reports/us_daily/us-daglig-261119.md",
       "decidedAt": "2026-11-19",
       "decisionReason": "Sparr (c): regimen av – inga nya positioner (^GSPC 7323,63 under MA200 7346,53)."
+    },
+    {
+      "id": "261120-WMT",
+      "date": "2026-11-20",
+      "ticker": "WMT",
+      "book": "us",
+      "source": "scout",
+      "catalystType": "earnings",
+      "catalystDate": "2026-11-19",
+      "confirmed": true,
+      "thesis": "Bekraftad Q3 FY27 (19/11 fore oppning): intakt 188,8 mdr (+5,2 %) mot 187,2 vantat, just. EPS 0,65 mot 0,64, e-handel +17 %, helarsguide hojd (EPS 2,84-2,89). Stangde 126,04 (-1,04 %, 1,43x volym), 5,9 % over MA200. Bear: litet slag, P/E ca 45, regim av.",
+      "sourceRef": "Proactive Investors, Supermarket News, Benzinga 2026-11-19 (Walmart Q3 FY27), websok. Kurs: prices.json/Yahoo chart API.",
+      "price": 126.04,
+      "priceAsOf": "2026-11-19T21:00:01.000Z",
+      "status": "new",
+      "expiresAt": "2026-11-30",
+      "decidedBy": null,
+      "decidedAt": null,
+      "decisionReason": null
     }
   ]
 }
