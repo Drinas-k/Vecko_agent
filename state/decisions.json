@@ -29846,6 +29846,69 @@
       "sector": "Indexsleeve",
       "rsi": null,
       "reason": "Kapitalparkering 62,5 pct, orord. -1,66 pct mot entry 494,60. Regim PA: ^OMX 3256,72 > MA200 3176,46 (+2,53 pct)."
+    },
+    {
+      "date": "2026-11-20",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-3"
+      ],
+      "weight": 0.875,
+      "entry": 773.26,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "ticker": "SPY",
+      "action": "BEHÅLL",
+      "price": 715.87,
+      "catalystType": "index",
+      "sector": "Indexsleeve",
+      "rsi": 31.6,
+      "reason": "Sleeve 87,5 pct oforandrad. 715,87 (19/11 21:00Z), -7,42 pct mot entry. Inget aktiekop/-salj kravde omviktning. Filtreras bort ur urvalsstatistiken."
+    },
+    {
+      "date": "2026-11-20",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-3"
+      ],
+      "weight": 0.125,
+      "entry": 335.53,
+      "stop": 351.5,
+      "target": 382.5,
+      "rr": 2.41,
+      "ticker": "CBOE",
+      "action": "BEHÅLL",
+      "price": 357.69,
+      "catalystType": "earnings",
+      "sector": "Borser/finansiell infrastruktur",
+      "rsi": 59.5,
+      "reason": "Ben 1 12,5 pct. 357,69 (19/11 21:00Z), +6,60 pct mot entry. Dagslagsta 354,08 over stop 351,50, dagshogsta 360,06 under mal 382,50. Tes intakt (Q3 30/10). MACD-hist 0,08->-1,09."
+    },
+    {
+      "date": "2026-11-20",
+      "book": "us",
+      "mode": "B",
+      "currency": "USD",
+      "lessonIds": [
+        "L-9"
+      ],
+      "weight": 0,
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "rr": null,
+      "ticker": "WMT",
+      "action": "AVVAKTA",
+      "price": 126.04,
+      "catalystType": "earnings",
+      "sector": "Detaljhandel",
+      "rsi": 59.8,
+      "reason": "Scout 261120-WMT + L-9, Q3 19/11: -1,04 pct till 126,04 (19/11 21:00Z), vol 1,43x. Sparr (c): regim AV, ^GSPC -2,34 pct under MA200. Grind 2: vol < 1,5x, MACD-hist fallande. Grind 3."
     }
   ]
 }
