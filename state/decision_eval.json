@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-20T06:46:25.122Z",
+ "generatedAt": "2026-11-20T13:22:36.620Z",
  "horizons": [
   5,
   20
  ],
  "minN": 8,
  "counts": {
-  "decisions": 1194,
-  "measurable": 1194,
+  "decisions": 1196,
+  "measurable": 1196,
   "missing": 0,
-  "pending": 71
+  "pending": 73
  },
  "missingSymbols": [],
  "byHorizon": {
@@ -25803,6 +25803,26 @@
    "action": "BEHÅLL",
    "catalystType": "earnings",
    "sector": "Bioteknik",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-20",
+   "ticker": "CBOE",
+   "book": "us",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "Borser/finansiell infrastruktur",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-20",
+   "ticker": "WMT",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Detaljhandel",
    "reconstructed": false,
    "fwd": {}
   }
