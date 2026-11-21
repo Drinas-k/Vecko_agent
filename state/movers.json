@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T13:29:55.247Z",
+ "generatedAt": "2026-11-21T14:38:36.459Z",
  "note": "Breddad rörelsedetektion för miss-retrons STEG 1. Rörelsen har REDAN inträffat – detta är bevakningsunderlag, inte köpsignaler.",
  "universeCount": 110,
  "okCount": 107,
@@ -13,30 +13,142 @@
   "dayPct": 6,
   "sessionsWeek": 5
  },
- "asOf": "2026-11-13",
+ "asOf": "2026-11-20",
  "movers": [
   {
-   "symbol": "HNSA.ST",
-   "lastClose": 46.84,
-   "lastDate": "2026-11-13",
-   "weekPct": 18.7,
-   "dayPct": 1.21,
+   "symbol": "VPLAY-B.ST",
+   "lastClose": 1.037,
+   "lastDate": "2026-11-20",
+   "weekPct": -14.72,
+   "dayPct": -4.42,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "DOM.ST",
+   "lastClose": 21.78,
+   "lastDate": "2026-11-20",
+   "weekPct": -11.82,
+   "dayPct": -5.55,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "NOKIA.HE",
+   "lastClose": 6.444,
+   "lastDate": "2026-11-20",
+   "weekPct": -11.65,
+   "dayPct": -8.88,
+   "trigger": "dag"
+  },
+  {
+   "symbol": "SINCH.ST",
+   "lastClose": 38.51,
+   "lastDate": "2026-11-20",
+   "weekPct": -11.19,
+   "dayPct": -4.54,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "VWS.CO",
+   "lastClose": 173.45,
+   "lastDate": "2026-11-20",
+   "weekPct": -10.85,
+   "dayPct": -4.62,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "BOL.ST",
+   "lastClose": 446.5,
+   "lastDate": "2026-11-20",
+   "weekPct": -10.77,
+   "dayPct": -3.21,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "NESTE.HE",
+   "lastClose": 24.68,
+   "lastDate": "2026-11-20",
+   "weekPct": -10.64,
+   "dayPct": -5.87,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "SAND.ST",
+   "lastClose": 324.3,
+   "lastDate": "2026-11-20",
+   "weekPct": -10.44,
+   "dayPct": -3.65,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "ALLEI.ST",
+   "lastClose": 84.6,
+   "lastDate": "2026-11-20",
+   "weekPct": -10.43,
+   "dayPct": -3.97,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "VOLCAR-B.ST",
+   "lastClose": 10.205,
+   "lastDate": "2026-11-20",
+   "weekPct": -10.36,
+   "dayPct": -3.73,
    "trigger": "vecka"
   },
   {
    "symbol": "EMBRAC-B.ST",
-   "lastClose": 104.6,
-   "lastDate": "2026-11-13",
-   "weekPct": 9.35,
-   "dayPct": 3.72,
+   "lastClose": 94.14,
+   "lastDate": "2026-11-20",
+   "weekPct": -10,
+   "dayPct": -5.16,
    "trigger": "vecka"
   },
   {
+   "symbol": "WRT1V.HE",
+   "lastClose": 23.58,
+   "lastDate": "2026-11-20",
+   "weekPct": -9.79,
+   "dayPct": -6.02,
+   "trigger": "dag"
+  },
+  {
    "symbol": "CTM.ST",
-   "lastClose": 3.17,
-   "lastDate": "2026-11-13",
-   "weekPct": 6.38,
-   "dayPct": 10.26,
+   "lastClose": 2.86,
+   "lastDate": "2026-11-20",
+   "weekPct": -9.78,
+   "dayPct": -2.05,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "ELUX-B.ST",
+   "lastClose": 29.92,
+   "lastDate": "2026-11-20",
+   "weekPct": -9.39,
+   "dayPct": -3.61,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "EQT.ST",
+   "lastClose": 288.1,
+   "lastDate": "2026-11-20",
+   "weekPct": -9.37,
+   "dayPct": -5.45,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "SBB-B.ST",
+   "lastClose": 2.088,
+   "lastDate": "2026-11-20",
+   "weekPct": -8.82,
+   "dayPct": -0.57,
+   "trigger": "vecka"
+  },
+  {
+   "symbol": "TRUE-B.ST",
+   "lastClose": 24.33,
+   "lastDate": "2026-11-20",
+   "weekPct": 4.56,
+   "dayPct": -6.75,
    "trigger": "dag"
   }
  ]
