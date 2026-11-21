@@ -2563,6 +2563,25 @@
       "decidedBy": "reports/us_daily/us-daglig-261120.md",
       "decidedAt": "2026-11-20",
       "decisionReason": "Sparr (c): regimen av – inga nya positioner (^GSPC 7175,83 under MA200 7347,99, -2,34 %). Dessutom grind 2 (volym 1,43x < 1,5x, fallande MACD-histogram) och grind 3 (negativ reaktion -1,04 %)."
+    },
+    {
+      "id": "261121-PAYO",
+      "date": "2026-11-21",
+      "ticker": "PAYO",
+      "book": "us",
+      "source": "scout",
+      "catalystType": "regulatory",
+      "catalystDate": "2026-11-20",
+      "confirmed": true,
+      "thesis": "OCC villkorat godkannande for stablecoin-trustbanken PAYO Digital Bank, N.A. (ansokan 2026-02-24), per Payoneers pressmeddelande 20/11 22:02 UTC, efter stangning. Pris null: PAYO saknas i prices.json, ingen post-event-kurs. Bear: villkorat, villkor ej lasta; regim av.",
+      "sourceRef": "Payoneer via PR Newswire 2026-11-20T22:02Z (state/news_feed.json, rubrik); ansokan: The Block 2026-02-24. Brodtext ej hamtbar (prnewswire.com 403).",
+      "price": null,
+      "priceAsOf": null,
+      "status": "new",
+      "expiresAt": "2026-11-30",
+      "decidedBy": null,
+      "decidedAt": null,
+      "decisionReason": null
     }
   ]
 }

@@ -616,3 +616,8 @@ DLB
 INTU
 # Intuit – Q1 FY27 rapporterad 2026-11-19 efter stängning, Q2-guide under konsensus, ca −13 % efterbörs (CNBC 2026-11-19).
 # Bevakning för mätbar reaktion, inte köpbarhet. Rensas enligt hygienregeln.
+
+# --- Bevakning scout-261121: kandidat 261121-PAYO ---
+PAYO
+# Payoneer – OCC villkorat godkännande av stablecoin-trustbank (PR Newswire 2026-11-20 22:02 UTC, efter stängning).
+# Saknade rad ⇒ ingen kurs. Bevakning för post-event-kurs, inte köpbarhet. Rensas enligt hygienregeln.
