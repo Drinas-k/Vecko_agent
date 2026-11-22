@@ -621,3 +621,12 @@ INTU
 PAYO
 # Payoneer – OCC villkorat godkännande av stablecoin-trustbank (PR Newswire 2026-11-20 22:02 UTC, efter stängning).
 # Saknade rad ⇒ ingen kurs. Bevakning för post-event-kurs, inte köpbarhet. Rensas enligt hygienregeln.
+
+# --- Bevakning scout-261122: L-5, rapportbolag inom 10 handelsdagar utan rad ---
+DELL
+# Dell Technologies – Q3 FY27 tis 2026-11-24 efter stängning (CMC Markets / Schaeffer's week ahead, 2026-11).
+HPQ
+# HP Inc. – Q4 FY26 tis 2026-11-24 efter stängning (CMC Markets / Schaeffer's week ahead, 2026-11).
+BBY
+# Best Buy – Q3 FY27 i Thanksgiving-veckan (StockTitan rapportkalender v. 2026-11-23); exakt datum EJ VERIFIERAT.
+# Bevakningsposter (punkt 8: köp aldrig inför rapport), inte köpbarhet. Rensas enligt hygienregeln.
