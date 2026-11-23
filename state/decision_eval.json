@@ -1,17 +1,20 @@
 {
- "generatedAt": "2026-11-20T22:40:15.382Z",
+ "generatedAt": "2026-11-23T06:46:55.628Z",
  "horizons": [
   5,
   20
  ],
  "minN": 8,
  "counts": {
-  "decisions": 1196,
-  "measurable": 1196,
-  "missing": 0,
-  "pending": 67
+  "decisions": 1214,
+  "measurable": 1212,
+  "missing": 2,
+  "pending": 83
  },
- "missingSymbols": [],
+ "missingSymbols": [
+  "BORR.OL",
+  "SAGA.OL"
+ ],
  "byHorizon": {
   "5": {
    "all": {
@@ -25883,6 +25886,188 @@
    "action": "AVVAKTA",
    "catalystType": "earnings",
    "sector": "Detaljhandel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "BOOZT.ST",
+   "book": "nordic",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "E-handel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "MORLD.OL",
+   "book": "nordic",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "Oljeservice",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "HNSA.ST",
+   "book": "nordic",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "Bioteknik",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "BORR.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Offshore/borrning",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "SAGA.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "buyback",
+   "sector": "Investment",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "CADLR.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Offshore vind",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "BIOA-B.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "regulatory",
+   "sector": "Bioteknik",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "SINCH.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "turnaround",
+   "sector": "Kommunikation/mjukvara",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "SUBC.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Offshore/subsea",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "FRO.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Tankrederi",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "HAFNI.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Produkttank",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "NIBE-B.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Varmepumpar",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "NORBT.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Elektronik",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "EMBRAC-B.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Spel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "ALIV-SDB.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Fordonssakerhet",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "AUTO.OL",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "buyback",
+   "sector": "Lasteknik",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "TRUE-B.ST",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Telekom",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "BAVA.CO",
+   "book": "nordic",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Bioteknik/vaccin",
    "reconstructed": false,
    "fwd": {}
   }
