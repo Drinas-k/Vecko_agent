@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:42:15.685Z",
+  "updatedAt": "2026-11-23T18:59:15.118Z",
   "keys": [
     "beslut|2026-08-03|nordic|XACT-OMXS30.ST|KÖP",
     "beslut|2026-08-03|us|AMZN|KÖP",
@@ -57,7 +57,8 @@
     "alert|MORLD.OL|KÖP|entry-villkor uppfyllt|26.4",
     "beslut|2026-11-13|nordic|MORLD.OL|KÖP",
     "beslut|2026-11-16|nordic|HNSA.ST|KÖP",
-    "alert|NORBT.OL|KÖP|entry-villkor uppfyllt|174"
+    "alert|NORBT.OL|KÖP|entry-villkor uppfyllt|174",
+    "alert|CBOE|SÄLJ|stop-loss träffad|351.5"
   ],
   "deliveries": {}
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T16:12:16.471Z",
-  "checkedAt": "2026-11-20T22:30:09.586Z",
+  "generatedAt": "2026-11-23T18:59:14.565Z",
+  "checkedAt": "2026-11-23T18:59:14.565Z",
   "watched": [
     "BOOZT.ST",
     "MORLD.OL",
@@ -8,7 +8,19 @@
     "SPY",
     "CBOE"
   ],
-  "active": [],
+  "active": [
+    {
+      "ticker": "CBOE",
+      "type": "SÄLJ",
+      "reason": "stop-loss träffad",
+      "level": 351.5,
+      "price": 355.235,
+      "currency": "USD",
+      "marketTime": "2026-11-23T18:59:10.000Z",
+      "basis": "intraday",
+      "hitPrice": 350.55
+    }
+  ],
   "history": [
     {
       "ticker": "NORBT.OL",
