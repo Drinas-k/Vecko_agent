@@ -1,19 +1,23 @@
 {
- "generatedAt": "2026-11-23T06:46:55.628Z",
+ "generatedAt": "2026-11-23T13:26:39.361Z",
  "horizons": [
   5,
   20
  ],
  "minN": 8,
  "counts": {
-  "decisions": 1214,
-  "measurable": 1212,
-  "missing": 2,
-  "pending": 83
+  "decisions": 1230,
+  "measurable": 1224,
+  "missing": 6,
+  "pending": 95
  },
  "missingSymbols": [
   "BORR.OL",
-  "SAGA.OL"
+  "PAYO",
+  "SAGA.OL",
+  "SITE",
+  "SNDK",
+  "TSN"
  ],
  "byHorizon": {
   "5": {
@@ -26068,6 +26072,170 @@
    "action": "AVVAKTA",
    "catalystType": "other",
    "sector": "Bioteknik/vaccin",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "CBOE",
+   "book": "us",
+   "action": "BEHÅLL",
+   "catalystType": "earnings",
+   "sector": "Borser/finansiell infrastruktur",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "ABNB",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Resor/plattform",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "AMD",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Halvledare",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "HD",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Detaljhandel/bygg",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "AMZN",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "E-handel/moln",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "TGT",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Detaljhandel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "WMT",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Detaljhandel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "PAYO",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "regulatory",
+   "sector": "Fintech/betalningar",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "INTU",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Mjukvara",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "TEVA",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Lakemedel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "BAC",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Bank",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "SITE",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "index",
+   "sector": "Grossist/landskap",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "SNDK",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Minne/lagring",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "TSN",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Livsmedel",
+   "reconstructed": false,
+   "fwd": {},
+   "missing": true
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "CBRL",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Restaurang",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-23",
+   "ticker": "S",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "other",
+   "sector": "Cybersakerhet",
    "reconstructed": false,
    "fwd": {}
   }
