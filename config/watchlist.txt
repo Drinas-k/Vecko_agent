@@ -432,3 +432,7 @@ TAGM-B.ST
 # TagMaster - forvarv Kapsch 915MHz-verksamhet (mfn 2026-11-10); beslut v47 utan kurs (punkt 6b).
 COFFEE-B.ST
 # Coffee Stain - forvarv av IP Chronicles: Medieval (mfn 2026-11-13); beslut v47 utan kurs (punkt 6b).
+BORR.OL
+# Borr Drilling - Q3-rapport (mfn 2026-11-18); beslut v48 utan kurs (punkt 6b).
+SAGA.OL
+# Saga Pure - aterkopsavtal och aterkopserbjudande (mfn 2026-11-19); beslut v48 utan kurs (punkt 6b).
