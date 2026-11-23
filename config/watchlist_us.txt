@@ -630,3 +630,15 @@ HPQ
 BBY
 # Best Buy – Q3 FY27 i Thanksgiving-veckan (StockTitan rapportkalender v. 2026-11-23); exakt datum EJ VERIFIERAT.
 # Bevakningsposter (punkt 8: köp aldrig inför rapport), inte köpbarhet. Rensas enligt hygienregeln.
+# --- Bevakning scout-261123: L-5, rapportbolag inom 10 handelsdagar utan rad ---
+ZM
+# Zoom Communications – kvartalsrapport mån 2026-11-23 efter stängning (Opening Bell Daily / StockTitan week of 2026-11-23).
+ADI
+# Analog Devices – Q4 FY26 tis 2026-11-24 före öppning (Kiplinger / KuCoin flash, 2026-11).
+ADSK
+# Autodesk – Q3 FY27 tis 2026-11-24 efter stängning (Opening Bell Daily, 2026-11-21).
+WDAY
+# Workday – Q3 FY27 tis 2026-11-24 efter stängning (Opening Bell Daily, 2026-11-21).
+MDT
+# Medtronic – Q2 FY27 tis 2026-11-24 före öppning (Kiplinger rapportkalender v. 2026-11-23).
+# Bevakningsposter (punkt 8: köp aldrig inför rapport), inte köpbarhet. Rensas enligt hygienregeln.
