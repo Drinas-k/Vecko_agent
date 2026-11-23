@@ -2577,11 +2577,11 @@
       "sourceRef": "Payoneer via PR Newswire 2026-11-20T22:02Z (state/news_feed.json, rubrik); ansokan: The Block 2026-02-24. Brodtext ej hamtbar (prnewswire.com 403).",
       "price": null,
       "priceAsOf": null,
-      "status": "new",
+      "status": "rejected",
       "expiresAt": "2026-11-30",
-      "decidedBy": null,
-      "decidedAt": null,
-      "decisionReason": null
+      "decidedBy": "reports/us_weekly/us-veckorapport-261123.md",
+      "decidedAt": "2026-11-23",
+      "decisionReason": "kurs ej verifierbar (PAYO saknas i prices.json); aven spärr c: regimen av - inga nya positioner. Tillfalligt datavillkor (L-4): provas om nar kurs finns."
     }
   ]
 }

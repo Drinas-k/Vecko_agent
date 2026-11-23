@@ -642,3 +642,10 @@ WDAY
 MDT
 # Medtronic – Q2 FY27 tis 2026-11-24 före öppning (Kiplinger rapportkalender v. 2026-11-23).
 # Bevakningsposter (punkt 8: köp aldrig inför rapport), inte köpbarhet. Rensas enligt hygienregeln.
+# --- us-veckorapport-261123: punkt 6b/L-2, beslutade symboler utan kurs (g0 nyhetsflöde) ---
+SITE
+# SiteOne Landscape Supply – till S&P SmallCap 600 (PR Newswire 2026-11-16), ikraftträdande ej verifierat (L-8).
+SNDK
+# Sandisk – 8-K 2026-11-19 (innehåll ej verifierat), AVVAKTA-rad i decisions.json.
+TSN
+# Tyson Foods – 8-K 2026-11-20 (innehåll ej verifierat), AVVAKTA-rad i decisions.json.
