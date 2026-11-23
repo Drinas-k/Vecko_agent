@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-16T13:28:00Z",
-  "week": "v 47",
-  "nordic": 0.65,
-  "us": 0.35,
-  "rationale": "Splitten flyttas fem procentenheter till 0,65/0,35. Avgörande är att case-läget inte längre är jämnt. Den nordiska boken har tre case à 12,5 %: BOOZT.ST, MORLD.OL och HNSA.ST ben 1, som köptes i dag efter Q3. Två ben 2-planer ligger i Pending (HNSA ≤ 45,00, MORLD ≤ 26,00), och sleeven har gått ned till 62,5 %. US-boken ligger kvar på 87,5 % SPY med bara CBOE (+11,89 %, stop upp till 351,50). Ingen av 21 kandidater passerade grindarna, och ingen plan är öppen. Makro pekar åt samma håll. ^OMX ligger +5,81 % över MA200 (+3,26 % förra veckan), med bred medvind i bank, bygg och biotech. ^GSPC har återhämtat sig till +3,02 % över MA200 men står under EMA20/50, och veckan är binär med NVDA-rapporten 17/11, FOMC-protokollet 18/11 och en 10-årsränta nära 5 % (ej verifierad). Flytten hålls till fem procentenheter eftersom Riksbankens höjning till 2,00 % fortfarande är en motvind för nordisk konsumtion. Skillnaden i ackumulerat utfall (−3,70 % mot −6,49 %) jagas inte."
+  "updatedAt": "2026-11-23T13:30:00Z",
+  "week": "v 48",
+  "nordic": 0.7,
+  "us": 0.3,
+  "rationale": "Splitten flyttas fem procentenheter till 0,70/0,30. Båda regimfiltren är nu AV, så ingen bok kan öppna nya positioner, men case-läget skiljer sig: den nordiska boken bär tre case à 12,5 % (BOOZT.ST, MORLD.OL, HNSA.ST) med 62,5 % i sleeven, medan US-boken ligger på 87,5 % SPY med bara CBOE (stop 1,77 % bort) och 15 av 15 kandidater avvisade. Makro väger åt samma håll: ^OMX ligger bara 0,05 % under MA200 och föll −5,42 % på veckan, medan ^GSPC ligger 5,96 % under MA200 efter −8,61 % i en AI-driven utförsäljning, med en väntad Fed-höjning i december och kortad Thanksgiving-vecka. Flytten hålls till fem procentenheter eftersom även den nordiska regimen är av och Riksbanken (besked 16/12) är en motvind; svagare krona (USD/SEK 10,22) och utfallsskillnaden (−3,70 % mot −6,49 %) jagas inte."
 }
