@@ -1,23 +1,24 @@
 {
- "generatedAt": "2026-11-23T16:05:16.957Z",
+ "generatedAt": "2026-11-24T03:21:18.195Z",
  "feeds": {
-  "globenewswire": "20 poster",
-  "globenewswire-earnings": "20 poster",
+  "globenewswire": "HTTP 403 – båda försöken (0.1 s)",
+  "globenewswire-earnings": "HTTP 403 – båda försöken (0.1 s)",
   "prnewswire": "20 poster",
   "mfn": "48 poster",
   "sec-8k": "40 poster",
   "fed-press": "20 poster"
  },
- "count": 915,
+ "count": 840,
  "window": {
   "tradingDays": 10,
-  "oldest": "2026-11-09",
-  "newest": "2026-11-23",
-  "distinctDays": 12,
+  "oldest": "2026-11-11",
+  "newest": "2026-11-24",
+  "distinctDays": 11,
   "tradingDaysCovered": 10,
   "missingDays": [],
   "perDay": {
-   "2026-11-23": 100,
+   "2026-11-24": 19,
+   "2026-11-23": 101,
    "2026-11-20": 109,
    "2026-11-19": 92,
    "2026-11-18": 91,
@@ -26,24 +27,496 @@
    "2026-11-14": 4,
    "2026-11-13": 91,
    "2026-11-12": 93,
-   "2026-11-11": 60,
-   "2026-11-10": 90,
-   "2026-11-09": 5
+   "2026-11-11": 60
   },
   "perSource": {
-   "mfn": 300,
+   "prnewswire": 284,
+   "mfn": 270,
+   "sec-8k": 240,
    "globenewswire": 20,
-   "prnewswire": 299,
-   "sec-8k": 270,
    "fed-press": 8,
    "globenewswire-earnings": 18
   }
  },
  "items": [
   {
-   "t": "Sleep Cycle: Becomes Spireo Group – founders join the board,SEK250m M&A mandate",
-   "u": "https://mfn.se/a/redeye/sleep-cycle-becomes-spireo-group-founders-join-the-board-sek250m-manda-mandate",
-   "d": "2026-11-23T16:05:00.000Z",
+   "t": "Plast Eurasia 2026 kapılarını açmaya hazırlanıyor: 20 Tayvanlı şirket Avrasya'daki iş fırsatlarını artırmak için Tayvan Pavyonu'nda buluşacak",
+   "u": "https://www.prnewswire.com/news-releases/plast-eurasia-2026-kaplarn-acmaya-hazrlanyor-20-tayvanl-irket-avrasyadaki-i-frsatlarn-artrmak-icin-tayvan-pavyonunda-buluacak-302948890.html",
+   "d": "2026-11-24T03:16:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "WuXi Biologics Again Honored with Frost & Sullivan's Global Customer Value Leadership Recognition",
+   "u": "https://www.prnewswire.com/news-releases/wuxi-biologics-again-honored-with-frost--sullivans-global-customer-value-leadership-recognition-302948893.html",
+   "d": "2026-11-24T03:16:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "CII Statement on Jensen Huang's Reappointment",
+   "u": "https://www.prnewswire.com/news-releases/cii-statement-on-jensen-huangs-reappointment-302948823.html",
+   "d": "2026-11-24T02:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Hormel Foods Corporation Announces Increase to Quarterly Dividend Marking 61st Consecutive Year with a Quarterly Increase",
+   "u": "https://www.prnewswire.com/news-releases/hormel-foods-corporation-announces-increase-to-quarterly-dividend-marking-61st-consecutive-year-with-a-quarterly-increase-302948795.html",
+   "d": "2026-11-24T02:00:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "YeePay presenteert one-stop betaalnetwerk en breidt strategische partnerschappen uit op Singapore FinTech Festival 2026",
+   "u": "https://www.prnewswire.com/news-releases/yeepay-presenteert-one-stop-betaalnetwerk-en-breidt-strategische-partnerschappen-uit-op-singapore-fintech-festival-2026-302948817.html",
+   "d": "2026-11-24T01:58:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "À l'occasion du Singapore FinTech Festival 2026, YeePay présente son réseau de paiement intégré et étend ses partenariats stratégiques",
+   "u": "https://www.prnewswire.com/news-releases/a-loccasion-du-singapore-fintech-festival-2026-yeepay-presente-son-reseau-de-paiement-integre-et-etend-ses-partenariats-strategiques-302948815.html",
+   "d": "2026-11-24T01:57:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "FondCircle Unveils New Physician-Co-Branded N1 Digital Otoscope at HLTH USA 2026",
+   "u": "https://www.prnewswire.com/news-releases/fondcircle-unveils-new-physician-co-branded-n1-digital-otoscope-at-hlth-usa-2026-302948796.html",
+   "d": "2026-11-24T01:28:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Bitmine Immersion Technologies (BMNR) maakt bekend dat zijn ETH-bezit 6,09 miljoen tokens bedraagt en dat de totale waarde van zijn cryptobezittingen, liquide middelen en verhandelbare effecten 11,1 miljard dollar bedraagt",
+   "u": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-maakt-bekend-dat-zijn-eth-bezit-6-09-miljoen-tokens-bedraagt-en-dat-de-totale-waarde-van-zijn-cryptobezittingen-liquide-middelen-en-verhandelbare-effecten-11-1-miljard-dollar-bedraagt-302948790.html",
+   "d": "2026-11-24T01:22:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "ICP DAS setzt Nachhaltigkeitsverpflichtungen in die Tat um: Förderung von Energieeffizienz, grüner Innovation und verantwortungsvollem Wirtschaften",
+   "u": "https://www.prnewswire.com/news-releases/icp-das-setzt-nachhaltigkeitsverpflichtungen-in-die-tat-um-forderung-von-energieeffizienz-gruner-innovation-und-verantwortungsvollem-wirtschaften-302932524.html",
+   "d": "2026-11-24T01:15:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "ICP DAS Turns Sustainability Commitments into Action: Advancing Energy Efficiency, Green Innovation and Responsible Business",
+   "u": "https://www.prnewswire.com/news-releases/icp-das-turns-sustainability-commitments-into-action-advancing-energy-efficiency-green-innovation-and-responsible-business-302931871.html",
+   "d": "2026-11-24T01:15:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "ICP DAS concrétise ses engagements en matière de développement durable : progression de l'efficacité énergétique, de l'innovation verte et des opérations responsables",
+   "u": "https://www.prnewswire.com/news-releases/icp-das-concretise-ses-engagements-en-matiere-de-developpement-durable--progression-de-lefficacite-energetique-de-linnovation-verte-et-des-operations-responsables-302932118.html",
+   "d": "2026-11-24T01:15:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "ICP DAS convierte los compromisos de sostenibilidad en acciones concretas",
+   "u": "https://www.prnewswire.com/news-releases/icp-das-convierte-los-compromisos-de-sostenibilidad-en-acciones-concretas-302932208.html",
+   "d": "2026-11-24T01:15:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Чэнду стремится стать ведущим центром развития нейроинтерфейсов в Западном Китае",
+   "u": "https://www.prnewswire.com/news-releases/----------302948785.html",
+   "d": "2026-11-24T01:04:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "West Virginia National Auto Insurance Company Names Insurance Veteran Stephen Peters, CPCU, CIC, ARe, CLCS, State Marketing Manager",
+   "u": "https://www.prnewswire.com/news-releases/west-virginia-national-auto-insurance-company-names-insurance-veteran-stephen-peters-cpcu-cic-are-clcs-state-marketing-manager-302948712.html",
+   "d": "2026-11-24T00:45:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Platinum Equity Completes Acquisition of EDP",
+   "u": "https://www.prnewswire.com/news-releases/platinum-equity-completes-acquisition-of-edp-302948762.html",
+   "d": "2026-11-24T00:30:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "MemorialCare Orthopedic & Spine Institute Receives 2025-2026 WebMD Patient Choice Award for Orthopedics in Orange County",
+   "u": "https://www.prnewswire.com/news-releases/memorialcare-orthopedic--spine-institute-receives-2025-2026-webmd-patient-choice-award-for-orthopedics-in-orange-county-302948768.html",
+   "d": "2026-11-24T00:26:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "MoneyMinder Solo Brings 23 Years of Simple Bookkeeping to Self-Employed Business Owners",
+   "u": "https://www.prnewswire.com/news-releases/moneyminder-solo-brings-23-years-of-simple-bookkeeping-to-self-employed-business-owners-302948758.html",
+   "d": "2026-11-24T00:11:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Rates Are Shifting: Gift a CD That Locks In At Least 5.10% APY Before Year-End",
+   "u": "https://www.prnewswire.com/news-releases/rates-are-shifting-gift-a-cd-that-locks-in-at-least-5-10-apy-before-year-end-302948752.html",
+   "d": "2026-11-24T00:04:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "$HAREHOLDER ALERT - The M&A Class Action Firm Is Investigating the Merger - AYTU, ADT, CCC and CBNK - IS IT A FAIR DEAL FOR YOU?",
+   "u": "https://www.prnewswire.com/news-releases/hareholder-alert---the-ma-class-action-firm-is-investigating-the-merger--aytu-adt-ccc-and-cbnk---is-it-a-fair-deal-for-you-302948408.html",
+   "d": "2026-11-24T00:00:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "ICSID Arbitration against the Republic of Tunisia - Proceedings Suspended Due to Tunisia's Non-Payment of Arbitration Costs, Opening Window for Settlement Discussions",
+   "u": "https://mfn.se/ob/a/zenith-energy/icsid-arbitration-against-the-republic-of-tunisia-proceedings-suspended-due-to-tunisias-non-payment-of-arbitration-costs-opening-window-for-settlement-discussions-6ab91db4",
+   "d": "2026-11-23T23:40:08.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "ICSID Arbitration against the Republic of Tunisia - Proceedings Suspended Due to Tunisia's Non-Payment of Arbitration Costs, Opening Window for Settlement Discussions",
+   "u": "https://mfn.se/cis/a/zenith-energy/icsid-arbitration-against-the-republic-of-tunisia-proceedings-suspended-due-to-tunisias-non-payment-of-arbitration-costs-opening-window-for-settlement-discussions-ac3e78d5",
+   "d": "2026-11-23T23:40:03.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Hugel marks 25th anniversary with global medical and academic exchange",
+   "u": "https://www.prnewswire.com/news-releases/hugel-marks-25th-anniversary-with-global-medical-and-academic-exchange-302948258.html",
+   "d": "2026-11-23T23:40:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Proximar Seafood AS: updated recapitalization plan",
+   "u": "https://mfn.se/ob/a/proximar-seafood/proximar-seafood-as-updated-recapitalization-plan-7417aa9f",
+   "d": "2026-11-23T23:15:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "mResell Holding AB (publ) har genomfört en riktad emission av 12 500 000 aktier, vilket tillför bolaget 25 MSEK",
+   "u": "https://mfn.se/cis/a/mresell-holding/mresell-holding-ab-publ-har-genomfort-en-riktad-emission-av-12-500-000-aktier-vilket-tillfor-bolaget-25-msek-93430274",
+   "d": "2026-11-23T22:45:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - Quantum Space, Inc. (0002145371) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2145371/000121390026123273/0001213900-26-123273-index.htm",
+   "d": "2026-11-23T22:29:14.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - NEVADA POWER CO (0000071180) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/71180/000110465926131199/0001104659-26-131199-index.htm",
+   "d": "2026-11-23T22:28:55.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Monroe Capital Enhanced Corporate Lending Fund (0002061670) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2061670/000206167026000112/0002061670-26-000112-index.htm",
+   "d": "2026-11-23T22:26:59.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Vertical Data Inc. (0002033264) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226053832/0001493152-26-053832-index.htm",
+   "d": "2026-11-23T22:26:30.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K12B - Inflection Point Acquisition Corp. VI (0002102041) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026123267/0001213900-26-123267-index.htm",
+   "d": "2026-11-23T22:25:09.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - HAWTHORN BANCSHARES, INC. (0000893847) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000104/0000893847-26-000104-index.htm",
+   "d": "2026-11-23T22:24:42.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K/A - XWELL, Inc. (0001410428) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1410428/000110465926131188/0001104659-26-131188-index.htm",
+   "d": "2026-11-23T22:23:20.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - FUELCELL ENERGY INC (0000886128) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/886128/000110465926131179/0001104659-26-131179-index.htm",
+   "d": "2026-11-23T22:21:37.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Gaming & Leisure Properties, Inc. (0001575965) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1575965/000119312526472645/0001193125-26-472645-index.htm",
+   "d": "2026-11-23T22:21:28.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - XCF Global, Inc. (0002019793) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2019793/000149315226053814/0001493152-26-053814-index.htm",
+   "d": "2026-11-23T22:20:12.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - SMITH MIDLAND CORP (0000924719) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/924719/000165495426010064/0001654954-26-010064-index.htm",
+   "d": "2026-11-23T22:20:06.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - FDCTECH, INC. (0001722731) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1722731/000149315226053806/0001493152-26-053806-index.htm",
+   "d": "2026-11-23T22:13:15.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Kairos Pharma, LTD. (0001962011) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1962011/000149315226053805/0001493152-26-053805-index.htm",
+   "d": "2026-11-23T22:13:00.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - EagleRock Land, LLC (0002104882) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2104882/000119312526472614/0001193125-26-472614-index.htm",
+   "d": "2026-11-23T22:10:57.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Cytosorbents Corp (0001175151) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1175151/000110465926131159/0001104659-26-131159-index.htm",
+   "d": "2026-11-23T22:10:38.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE (0000310522) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/310522/000031052226000117/0000310522-26-000117-index.htm",
+   "d": "2026-11-23T22:10:01.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - CNL Strategic Residential Credit, Inc. (0002066337) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2066337/000143774926038095/0001437749-26-038095-index.htm",
+   "d": "2026-11-23T22:08:48.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Awaysis Capital, Inc. (0001021917) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1021917/000149315226053802/0001493152-26-053802-index.htm",
+   "d": "2026-11-23T22:08:43.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Terreno Realty Corp (0001476150) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1476150/000119312526472600/0001193125-26-472600-index.htm",
+   "d": "2026-11-23T22:05:03.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "Linamar Corporation to Acquire Genie from Terex Corporation, Significantly Expanding its Access Work Platforms Group",
+   "u": "https://mfn.se/one/a/linamar-corporation/linamar-corporation-to-acquire-genie-from-terex-corporation-significantly-expanding-its-access-work-platforms-group-7f0f206a",
+   "d": "2026-11-23T22:05:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - NORWOOD FINANCIAL CORP (0001013272) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1013272/000101327226000029/0001013272-26-000029-index.htm",
+   "d": "2026-11-23T22:02:27.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "News Release Correction: Fairfax Announces Early Redemption of Senior Notes Due December 6, 2027",
+   "u": "https://mfn.se/one/a/fairfax-financial-holdings-ltd/news-release-correction-fairfax-announces-early-redemption-of-senior-notes-due-december-6-2027-3da0b5a8",
+   "d": "2026-11-23T22:02:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - Golub Capital Private Credit Fund (0001930087) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1930087/000193008726000135/0001930087-26-000135-index.htm",
+   "d": "2026-11-23T22:01:51.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Vivani Medical, Inc. (0001266806) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1266806/000175392626002226/0001753926-26-002226-index.htm",
+   "d": "2026-11-23T22:00:44.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - PINTEREST, INC. (0001506293) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1506293/000162828026075546/0001628280-26-075546-index.htm",
+   "d": "2026-11-23T22:00:23.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - First Eagle Private Credit Fund (0001890107) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1890107/000119312526472577/0001193125-26-472577-index.htm",
+   "d": "2026-11-23T22:00:13.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "Parker Scheduled to Present at the UBS Global Industrials and Transportation Conference on December 1 at 11:20 a.m. Eastern Time",
+   "u": "https://mfn.se/one/a/parker-hannifin/parker-scheduled-to-present-at-the-ubs-global-industrials-and-transportation-conference-on-december-1-at-11-20-a-m-eastern-time-90da4280",
+   "d": "2026-11-23T22:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - Conexeu Sciences Inc. (0002066836) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2066836/000106299326006229/0001062993-26-006229-index.htm",
+   "d": "2026-11-23T21:59:11.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Cottonwood Communities, Inc. (0001692951) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000222/0001692951-26-000222-index.htm",
+   "d": "2026-11-23T21:57:05.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "Oncoinvent ASA: Grant of share options to employees",
+   "u": "https://mfn.se/ob/a/oncoinvent-2/oncoinvent-asa-grant-of-share-options-to-employees-8e95b99a",
+   "d": "2026-11-23T21:55:34.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Oncoinvent ASA: Grant of share options to employees",
+   "u": "https://mfn.se/cis/a/oncoinvent-2/oncoinvent-asa-grant-of-share-options-to-employees-43cccbe9",
+   "d": "2026-11-23T21:55:22.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - Meta Platforms, Inc. (0001326801) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/0001628280-26-075541-index.htm",
+   "d": "2026-11-23T21:54:12.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "Crown Castle to Present at the 10th Annual Wells Fargo TMT Summit",
+   "u": "https://mfn.se/one/a/crown-castle/crown-castle-to-present-at-the-10th-annual-wells-fargo-tmt-summit-b5377c2e",
+   "d": "2026-11-23T21:50:05.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - BridgeBio Pharma, Inc. (0001743881) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1743881/000174388126000050/0001743881-26-000050-index.htm",
+   "d": "2026-11-23T21:49:59.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Lumentum Holdings Inc. (0001633978) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026075535/0001628280-26-075535-index.htm",
+   "d": "2026-11-23T21:49:39.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Gemini Space Station, Inc. (0002055592) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2055592/000205559226000079/0002055592-26-000079-index.htm",
+   "d": "2026-11-23T21:48:41.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "Finansinspektionen: Flaggningsmeddelande i LUNDIN MINING CORPORATION (PUBL)",
+   "u": "https://mfn.se/cis/a/fi-se/finansinspektionen-flaggningsmeddelande-i-lundin-mining-corporation-publ-8ea47a1d",
+   "d": "2026-11-23T21:35:37.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Induct AS - Notification of share purchase by CFO",
+   "u": "https://mfn.se/ob/a/induct/induct-as-notification-of-share-purchase-by-cfo-02a09e05",
+   "d": "2026-11-23T21:15:32.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Dentsply Sirona to Participate in the Piper Sandler 38th Annual Healthcare Conference",
+   "u": "https://mfn.se/one/a/dentsply-sirona/dentsply-sirona-to-participate-in-the-piper-sandler-38th-annual-healthcare-conference-d07de11b",
+   "d": "2026-11-23T21:15:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "GE Aerospace Defense & Systems Leadership Transition",
+   "u": "https://mfn.se/one/a/ge-aerospace/ge-aerospace-defense-and-systems-leadership-transition-13666c94",
+   "d": "2026-11-23T21:15:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Peloton Interactive, Inc. Authorizes $300 Million Share Repurchase Program Following Successful Debt Refinancing and Continued Strong Cash Flow",
+   "u": "https://mfn.se/one/a/peloton-interactive-inc/peloton-interactive-inc-authorizes-300-million-share-repurchase-program-following-successful-debt-refinancing-and-continued-strong-cash-flow-c7f0631e",
+   "d": "2026-11-23T21:05:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Inventiva publie ses informations financières non auditées du 3ème trimestre 2026¹",
+   "u": "https://mfn.se/one/a/inventivaca/inventiva-publie-ses-informations-financieres-non-auditees-du-3eme-trimestre-20261-f62af927",
+   "d": "2026-11-23T21:05:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Inventiva Reports Unaudited 2026 Third Quarter Financial Results¹",
+   "u": "https://mfn.se/one/a/inventivaca/inventiva-reports-unaudited-2026-third-quarter-financial-results1-5096840f",
+   "d": "2026-11-23T21:05:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Nyxoah Engage l’Exécution de la Décision de l’Unified Patent Court contre Inspire Medical Systems",
+   "u": "https://mfn.se/one/a/nyxoah/nyxoah-engage-lexecution-de-la-decision-de-lunified-patent-court-contre-inspire-medical-systems-7e9ae18c",
+   "d": "2026-11-23T21:05:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Nyxoah Initiates Enforcement of Unified Patent Court Decision Against Inspire Medical Systems",
+   "u": "https://mfn.se/one/a/nyxoah/nyxoah-initiates-enforcement-of-unified-patent-court-decision-against-inspire-medical-systems-40d578b6",
+   "d": "2026-11-23T21:05:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "BP p.l.c. Announces Offer Yields and Total Consideration for Cash Tender Offers for USD Notes for Aggregate Purchase Consideration of Up to $6 Billion",
+   "u": "https://mfn.se/one/a/bp/bp-p-l-c-announces-offer-yields-and-total-consideration-for-cash-tender-offers-for-usd-notes-for-aggregate-purchase-consideration-of-up-to-6-billion-1074b9a4",
+   "d": "2026-11-23T21:04:22.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Induct AS - Share purchase by a person closely associated with the CFO",
+   "u": "https://mfn.se/ob/a/induct/induct-as-share-purchase-by-a-person-closely-associated-with-the-cfo-fabaf0ce",
+   "d": "2026-11-23T21:04:17.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Clariant confirms talks regarding a potential acquisition of Ashland",
+   "u": "https://mfn.se/one/a/clariant/clariant-confirms-talks-regarding-a-potential-acquisition-of-ashland-aa9d559b",
+   "d": "2026-11-23T21:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Borgestad ASA: Mandatory notification of trade",
+   "u": "https://mfn.se/ob/a/borgestad/borgestad-asa-mandatory-notification-of-trade-74243a3d",
+   "d": "2026-11-23T20:37:39.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "2020: Financial calendar",
+   "u": "https://mfn.se/ob/a/2020-bulkers/2020-financial-calendar-6b094f1a",
+   "d": "2026-11-23T20:19:24.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "nVent to Participate in Upcoming Investor Events",
+   "u": "https://mfn.se/one/a/nvent-electric/nvent-to-participate-in-upcoming-investor-events-320e94b0",
+   "d": "2026-11-23T20:15:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Schouw & Co. share buy-back programme, week 47 2026",
+   "u": "https://mfn.se/one/a/schouw-and-co/schouw-and-co-share-buy-back-programme-week-47-2026-04598b8d",
+   "d": "2026-11-23T20:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Endúr ASA - Closure of ship maintenance operations",
+   "u": "https://mfn.se/ob/a/endur/endur-asa-closure-of-ship-maintenance-operations-66729a52",
+   "d": "2026-11-23T20:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Íslandsbanki hf.: Announcement on implementation of a share repurchase programme – new round of buybacks",
+   "u": "https://mfn.se/a/islandsbanki/islandsbanki-hf-announcement-on-implementation-of-a-share-repurchase-programme-new-round-of-buybacks-3",
+   "d": "2026-11-23T19:25:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Íslandsbanki hf.: Tilkynning um framkvæmd endurkaupaáætlunar – ný umferð endurkaupa",
+   "u": "https://mfn.se/a/islandsbanki/islandsbanki-hf-tilkynning-um-framkvaemd-endurkaupaaaetlunar-ny-umferd-endurkaupa-1",
+   "d": "2026-11-23T19:25:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "GAUMONT : Informations relatives au nombre total de droits de vote et d'actions du capital social au 20 novembre 2026",
+   "u": "https://mfn.se/one/a/gaumont/gaumont-informations-relatives-au-nombre-total-de-droits-de-vote-et-dactions-du-capital-social-au-20-novembre-2026-37b4d0ba",
+   "d": "2026-11-23T19:00:00.000Z",
    "src": "mfn"
   },
   {
@@ -59,34 +532,10 @@
    "src": "globenewswire"
   },
   {
-   "t": "Microchip AVR® SD MCUs Enable Simplified Development of IEC 60730 Class C-Compliant Systems",
-   "u": "https://mfn.se/one/a/microchip-technology/microchip-avr-r-sd-mcus-enable-simplified-development-of-iec-60730-class-c-compliant-systems-e63613c1",
-   "d": "2026-11-23T16:03:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Finansinspektionen: Flaggningsmeddelande i Ambea AB(publ)",
-   "u": "https://mfn.se/cis/a/fi-se/finansinspektionen-flaggningsmeddelande-i-ambea-ab-publ-d45aeb51",
-   "d": "2026-11-23T16:02:03.000Z",
-   "src": "mfn"
-  },
-  {
    "t": "Oversold Indices and Spiking Volatility Leave Markets Searching for Footing",
    "u": "https://www.prnewswire.com/news-releases/oversold-indices-and-spiking-volatility-leave-markets-searching-for-footing-302948396.html",
    "d": "2026-11-23T16:01:00.000Z",
    "src": "prnewswire"
-  },
-  {
-   "t": "Entra ASA: Status on share buy-back programme - week 47",
-   "u": "https://mfn.se/ob/a/entra/entra-asa-status-on-share-buy-back-programme-week-47-38039689",
-   "d": "2026-11-23T16:00:26.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Entra ASA: Status on share buy-back programme – week 47",
-   "u": "https://mfn.se/nir/a/entra/entra-asa-status-on-share-buy-back-programme-week-47-3afa3e05",
-   "d": "2026-11-23T16:00:07.000Z",
-   "src": "mfn"
   },
   {
    "t": "Axalta's Voltatex® 4440 Gelcoat Named Finalist for 2026 R&D 100 Award",
@@ -135,30 +584,6 @@
    "u": "https://www.prnewswire.com/news-releases/ellucians-president-and-ceo-laura-ipsen-wins-virginia-business-2026-women-in-leadership-award-302948394.html",
    "d": "2026-11-23T16:00:00.000Z",
    "src": "prnewswire"
-  },
-  {
-   "t": "Axalta's Voltatex® 4440 Gelcoat Named Finalist for 2026 R&D 100 Award",
-   "u": "https://mfn.se/one/a/axalta-coating-systems/axaltas-voltatex-r-4440-gelcoat-named-finalist-for-2026-randd-100-award-b8220e1a",
-   "d": "2026-11-23T16:00:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Embla Medical hf: Transactions in relation to Share Buyback Program",
-   "u": "https://mfn.se/cis/a/embla-medical/embla-medical-hf-transactions-in-relation-to-share-buyback-program-52765a99",
-   "d": "2026-11-23T16:00:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Nomination Committee Appointed Ahead of 2027 Annual General Meeting in Impact Coatings",
-   "u": "https://mfn.se/a/impact-coatings/nomination-committee-appointed-ahead-of-2027-annual-general-meeting-in-impact-coatings",
-   "d": "2026-11-23T16:00:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Valberedningen utsedd inför Impact Coatings årsstämma 2027",
-   "u": "https://mfn.se/a/impact-coatings/valberedningen-utsedd-infor-impact-coatings-arsstamma-2027",
-   "d": "2026-11-23T16:00:00.000Z",
-   "src": "mfn"
   },
   {
    "t": "HelloNation Article Explains the Appraisal Process, Featuring Real Estate Experts Ray and Peggy Pierce",
@@ -239,34 +664,10 @@
    "src": "prnewswire"
   },
   {
-   "t": "Matas share buy-back programme: Reporting of transactions in week 47",
-   "u": "https://mfn.se/a/matas-group/matas-share-buy-back-programme-reporting-of-transactions-in-week-47-1",
-   "d": "2026-11-23T15:43:00.000Z",
-   "src": "mfn"
-  },
-  {
    "t": "GEP RANKED WORLD'S #1 PROCUREMENT TRANSFORMATION PARTNER FOR SECOND CONSECUTIVE YEAR BY PROCUREMENT MAGAZINE",
    "u": "https://www.prnewswire.com/news-releases/gep-ranked-worlds-1-procurement-transformation-partner-for-second-consecutive-year-by-procurement-magazine-302948371.html",
    "d": "2026-11-23T15:42:00.000Z",
    "src": "prnewswire"
-  },
-  {
-   "t": "8-K/A - SOAR AI, Inc. (0001853070) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053685/0001493152-26-053685-index.htm",
-   "d": "2026-11-23T15:40:11.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "BibbInstruments AB: BiBB får klartecken för sitt andra patent i USA",
-   "u": "https://mfn.se/cis/a/bibbinstruments/bibbinstruments-ab-bibb-far-klartecken-for-sitt-andra-patent-i-usa-297a907c",
-   "d": "2026-11-23T15:35:50.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "BibbInstruments AB: BiBB Receives Green Light for Its Second US Patent",
-   "u": "https://mfn.se/cis/a/bibbinstruments/bibbinstruments-ab-bibb-receives-green-light-for-its-second-us-patent-4672be49",
-   "d": "2026-11-23T15:35:50.000Z",
-   "src": "mfn"
   },
   {
    "t": "Anmodning om suspension i enkelte afdelinger under Investeringsforeningen Danske Invest",
@@ -287,70 +688,10 @@
    "src": "globenewswire"
   },
   {
-   "t": "Kvika banki hf.: Transactions in relation to a share buy-back programme",
-   "u": "https://mfn.se/one/a/kvika-banki/kvika-banki-hf-transactions-in-relation-to-a-share-buy-back-programme-c16f7563",
-   "d": "2026-11-23T15:35:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Kvika banki hf.: Reglubundin tilkynning um kaup á eigin bréfum í samræmi við endurkaupaáætlun",
-   "u": "https://mfn.se/one/a/kvika-banki/kvika-banki-hf-reglubundin-tilkynning-um-kaup-a-eigin-brefum-i-samraemi-vid-endurkaupaaaetlun-9c4a6753",
-   "d": "2026-11-23T15:35:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "KOG: Tegningsperiode for aksjeprogram for ansatte fullført",
-   "u": "https://mfn.se/ob/a/kongsberg-gruppen/kog-tegningsperiode-for-aksjeprogram-for-ansatte-fullfort-00ca6d82",
-   "d": "2026-11-23T15:35:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "KOG: Subscription period for employee share programme completed",
-   "u": "https://mfn.se/ob/a/kongsberg-gruppen/kog-subscription-period-for-employee-share-programme-completed-7519dae0",
-   "d": "2026-11-23T15:35:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "8-K - ProText Mobility, Inc. (0001163573) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1163573/000114036126045176/0001140361-26-045176-index.htm",
-   "d": "2026-11-23T15:34:41.000Z",
-   "src": "sec-8k"
-  },
-  {
    "t": "Safe Pro’s AI-Powered Humanitarian Demining Work Featured in Ukrinform, the National News Agency of Ukraine",
    "u": "https://www.globenewswire.com/news-release/2026/11/23/3408627/0/en/safe-pro-s-ai-powered-humanitarian-demining-work-featured-in-ukrinform-the-national-news-agency-of-ukraine.html",
    "d": "2026-11-23T15:33:00.000Z",
    "src": "globenewswire"
-  },
-  {
-   "t": "AutoStore Holdings Ltd. - Transactions made under the share buy-back program",
-   "u": "https://mfn.se/cis/a/autostore/autostore-holdings-ltd-transactions-made-under-the-share-buy-back-program-111e9002",
-   "d": "2026-11-23T15:30:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Repurchase of shares in Storytel during week 47, 2026",
-   "u": "https://mfn.se/a/storytel/repurchase-of-shares-in-storytel-during-week-47-2026",
-   "d": "2026-11-23T15:30:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Återköp av aktier i Storytel under vecka 47, 2026",
-   "u": "https://mfn.se/a/storytel/aterkop-av-aktier-i-storytel-under-vecka-47-2026",
-   "d": "2026-11-23T15:30:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "I-Tech: Promising Acquisition of ECONEA Assets",
-   "u": "https://mfn.se/a/redeye/i-tech-promising-acquisition-of-econea-assets",
-   "d": "2026-11-23T15:23:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "New medical technologies and pharmaceutical advancements drive persistent global medical inflation, WTW survey finds",
-   "u": "https://mfn.se/one/a/willis-towers-watson/new-medical-technologies-and-pharmaceutical-advancements-drive-persistent-global-medical-inflation-wtw-survey-finds-e397cd0a",
-   "d": "2026-11-23T15:22:49.000Z",
-   "src": "mfn"
   },
   {
    "t": "New medical technologies and pharmaceutical advancements drive persistent global medical inflation, WTW survey finds",
@@ -365,88 +706,10 @@
    "src": "globenewswire"
   },
   {
-   "t": "Paxman (Q3 Review): US momentum intact despite slight sales miss",
-   "u": "https://mfn.se/a/redeye/paxman-q3-review-us-momentum-intact-despite-slight-sales-miss",
-   "d": "2026-11-23T15:14:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "8-K - PROCACCIANTI HOTEL REIT, INC. (0001692345) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1692345/000110465926130936/0001104659-26-130936-index.htm",
-   "d": "2026-11-23T15:10:10.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "Rättelse: Gotmic meddelar tidsplan för sammanläggning av aktier (omvänd split)",
-   "u": "https://mfn.se/a/gotmic-semiconductor/rattelse-gotmic-meddelar-tidsplan-for-sammanlaggning-av-aktier-omvand-split",
-   "d": "2026-11-23T15:10:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "GRONG: Grong Sparebank opprettholder A- kredittvurdering fra Nordic Credit Rating",
-   "u": "https://mfn.se/ob/a/grong-sparebank/grong-grong-sparebank-opprettholder-a-kredittvurdering-fra-nordic-credit-rating-d822aac2",
-   "d": "2026-11-23T15:02:07.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "8-K - Zscaler, Inc. (0001713683) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526471211/0001193125-26-471211-index.htm",
-   "d": "2026-11-23T15:01:16.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "EmbeddedArt Group AB (publ): EmbeddedArt erhåller nya beställningar från FMV om 4,7 MSEK",
-   "u": "https://mfn.se/cis/a/embeddedart-group/embeddedart-group-ab-publ-embeddedart-erhaller-nya-bestallningar-fran-fmv-om-4-7-msek-d5127f03",
-   "d": "2026-11-23T14:52:48.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "8-K - SOUTH DAKOTA SOYBEAN PROCESSORS LLC (0001163609) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1163609/000116360926000027/0001163609-26-000027-index.htm",
-   "d": "2026-11-23T14:52:18.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "Vend Marketplaces ASA (VEND) - Extraordinary General Meeting 23 November 2026",
-   "u": "https://mfn.se/ob/a/vend-marketplaces/vend-marketplaces-asa-vend-extraordinary-general-meeting-23-november-2026-55023ccb",
-   "d": "2026-11-23T14:51:29.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Vend Marketplaces ASA (VEND) – Extraordinary General Meeting 23 November 2026",
-   "u": "https://mfn.se/nir/a/vend-marketplaces/vend-marketplaces-asa-vend-extraordinary-general-meeting-23-november-2026-002f60fa",
-   "d": "2026-11-23T14:51:08.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Freetrailer secures production capacity and exclusive trailer models in agreement with Variant",
-   "u": "https://mfn.se/cis/a/freetrailer-group/freetrailer-secures-production-capacity-and-exclusive-trailer-models-in-agreement-with-variant-adce9fc3",
-   "d": "2026-11-23T14:48:16.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Freetrailer sikrer produktionskapacitet og eksklusive trailermodeller i aftale med Variant",
-   "u": "https://mfn.se/cis/a/freetrailer-group/freetrailer-sikrer-produktionskapacitet-og-eksklusive-trailermodeller-i-aftale-med-variant-c85dafca",
-   "d": "2026-11-23T14:48:16.000Z",
-   "src": "mfn"
-  },
-  {
    "t": "Infrastructure Dividend Split Corp. Class A Distributions",
    "u": "https://www.globenewswire.com/news-release/2026/11/23/3408530/0/en/infrastructure-dividend-split-corp-class-a-distributions.html",
    "d": "2026-11-23T14:47:00.000Z",
    "src": "globenewswire"
-  },
-  {
-   "t": "Valberedning utsedd inför dLabs årsstämma 2027",
-   "u": "https://mfn.se/a/dlaboratory-sweden/valberedning-utsedd-infor-dlabs-arsstamma-2027",
-   "d": "2026-11-23T14:45:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "8-K - BTCS Inc. (0001436229) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226053681/0001493152-26-053681-index.htm",
-   "d": "2026-11-23T14:30:13.000Z",
-   "src": "sec-8k"
   },
   {
    "t": "Fortrea to Participate in December Investor Conferences",
@@ -473,52 +736,16 @@
    "src": "globenewswire"
   },
   {
-   "t": "8-K - Imunon, Inc. (0000749647) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/749647/000149315226053680/0001493152-26-053680-index.htm",
-   "d": "2026-11-23T14:27:33.000Z",
-   "src": "sec-8k"
-  },
-  {
    "t": "IMUNON Announces Withdrawal of Form S-1 Registration Statement",
    "u": "https://www.globenewswire.com/news-release/2026/11/23/3408495/0/en/imunon-announces-withdrawal-of-form-s-1-registration-statement.html",
    "d": "2026-11-23T14:27:00.000Z",
    "src": "globenewswire"
   },
   {
-   "t": "8-K - Everli Global Holdings Inc. (0002016221) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/2016221/000121390026122973/0001213900-26-122973-index.htm",
-   "d": "2026-11-23T14:24:54.000Z",
-   "src": "sec-8k"
-  },
-  {
    "t": "Transaction in Own Shares",
    "u": "https://www.globenewswire.com/news-release/2026/11/23/3408482/0/en/transaction-in-own-shares.html",
    "d": "2026-11-23T14:19:00.000Z",
    "src": "globenewswire"
-  },
-  {
-   "t": "8-K - Life360, Inc. (0001581760) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1581760/000158176026000189/0001581760-26-000189-index.htm",
-   "d": "2026-11-23T14:17:06.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - New Fortress Energy Inc. (0001749723) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1749723/000174972326000189/0001749723-26-000189-index.htm",
-   "d": "2026-11-23T14:17:01.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - GRAHAM CORP (0000716314) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/716314/000119312526471087/0001193125-26-471087-index.htm",
-   "d": "2026-11-23T14:16:06.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - OLB GROUP, INC. (0001314196) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1314196/000118518526005585/0001185185-26-005585-index.htm",
-   "d": "2026-11-23T14:15:23.000Z",
-   "src": "sec-8k"
   },
   {
    "t": "BGSF Announces Notification of Noncompliance with NYSE Continued Listing Standard",
@@ -531,114 +758,6 @@
    "u": "https://www.globenewswire.com/news-release/2026/11/23/3408470/6948/en/delisting-of-securities-from-the-nasdaq-stock-market.html",
    "d": "2026-11-23T14:15:00.000Z",
    "src": "globenewswire"
-  },
-  {
-   "t": "8-K - Standard Nuclear, Inc. (0002086716) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026075381/0001628280-26-075381-index.htm",
-   "d": "2026-11-23T14:05:27.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - TPG Inc. (0001880661) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1880661/000188066126000063/0001880661-26-000063-index.htm",
-   "d": "2026-11-23T14:00:26.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - NOCERA, INC. (0001756180) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1756180/000168316826009032/0001683168-26-009032-index.htm",
-   "d": "2026-11-23T14:00:14.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Phio Pharmaceuticals Corp. (0001533040) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1533040/000143774926037987/0001437749-26-037987-index.htm",
-   "d": "2026-11-23T13:59:17.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - NVIDIA CORP (0001045810) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/0001045810-26-000090-index.htm",
-   "d": "2026-11-23T13:57:54.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Silexion Therapeutics Corp (0002022416) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/2022416/000117891326005321/0001178913-26-005321-index.htm",
-   "d": "2026-11-23T13:56:04.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Ondas Inc. (0001646188) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026122950/0001213900-26-122950-index.htm",
-   "d": "2026-11-23T13:52:13.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - PRUDENTIAL FINANCIAL INC (0001137774) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1137774/000119312526471012/0001193125-26-471012-index.htm",
-   "d": "2026-11-23T13:45:53.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Capstone Energy Plus, Inc. (0001009759) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1009759/000110465926130881/0001104659-26-130881-index.htm",
-   "d": "2026-11-23T13:45:50.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226053668/0001493152-26-053668-index.htm",
-   "d": "2026-11-23T13:45:27.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - MONRO, INC. (0000876427) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/876427/000119312526471010/0001193125-26-471010-index.htm",
-   "d": "2026-11-23T13:44:38.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Moleculin Biotech, Inc. (0001659617) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926037982/0001437749-26-037982-index.htm",
-   "d": "2026-11-23T13:36:14.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Arcus Biosciences, Inc. (0001724521) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1724521/000172452126000061/0001724521-26-000061-index.htm",
-   "d": "2026-11-23T13:34:27.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Invivyd, Inc. (0001832038) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1832038/000119312526471002/0001193125-26-471002-index.htm",
-   "d": "2026-11-23T13:32:45.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Empery Digital Inc. (0001829794) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826009031/0001683168-26-009031-index.htm",
-   "d": "2026-11-23T13:30:31.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - First Carolina Financial Services, Inc. (0001531193) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1531193/000110465926130875/0001104659-26-130875-index.htm",
-   "d": "2026-11-23T13:30:24.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - MOBIX LABS, INC (0001855467) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226053655/0001493152-26-053655-index.htm",
-   "d": "2026-11-23T13:30:18.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Personalis, Inc. (0001527753) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526470996/0001193125-26-470996-index.htm",
-   "d": "2026-11-23T13:30:16.000Z",
-   "src": "sec-8k"
   },
   {
    "t": "8-K/A - IMA Tech (0001980295) (Filer)",
@@ -4958,576 +5077,6 @@
    "t": "CodeROI Adds AI Development Costs to Software Capitalization Ahead of FASB's New Rule",
    "u": "https://www.prnewswire.com/news-releases/coderoi-adds-ai-development-costs-to-software-capitalization-ahead-of-fasbs-new-rule-302935888.html",
    "d": "2026-11-11T12:31:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "8-K - Spero Therapeutics, Inc. (0001701108) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1701108/000119312526455789/0001193125-26-455789-index.htm",
-   "d": "2026-11-10T22:30:46.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Aptera Motors Corp (0001786471) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1786471/000149315226051042/0001493152-26-051042-index.htm",
-   "d": "2026-11-10T22:30:39.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Star Equity Holdings, Inc. (0001210708) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1210708/000121070826000099/0001210708-26-000099-index.htm",
-   "d": "2026-11-10T22:30:09.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Sunrise Realty Trust, Inc. (0002012706) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/2012706/000162828026072851/0001628280-26-072851-index.htm",
-   "d": "2026-11-10T22:30:03.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - ASHFORD HOSPITALITY TRUST INC (0001232582) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1232582/000123258226000214/0001232582-26-000214-index.htm",
-   "d": "2026-11-10T22:28:33.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K/A - Cosmos Health Inc. (0001474167) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1474167/000147793226006823/0001477932-26-006823-index.htm",
-   "d": "2026-11-10T22:28:22.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Remora Capital Corp (0002045370) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/2045370/000143774926036239/0001437749-26-036239-index.htm",
-   "d": "2026-11-10T22:28:07.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Vivakor, Inc. (0001450704) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626012212/0001829126-26-012212-index.htm",
-   "d": "2026-11-10T22:27:56.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426009668/0001654954-26-009668-index.htm",
-   "d": "2026-11-10T22:26:29.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - AIR INDUSTRIES GROUP (0001009891) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1009891/000121390026118138/0001213900-26-118138-index.htm",
-   "d": "2026-11-10T22:26:05.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - National Healthcare Properties, Inc. (0001561032) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1561032/000114036126043079/0001140361-26-043079-index.htm",
-   "d": "2026-11-10T22:25:57.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Iron Horse Acquisition II Corp. (0002051985) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026118137/0001213900-26-118137-index.htm",
-   "d": "2026-11-10T22:25:34.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - REGENCY CENTERS LP (0001066247) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1066247/000119312526455774/0001193125-26-455774-index.htm",
-   "d": "2026-11-10T22:24:58.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - REGENCY CENTERS CORP (0000910606) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/910606/000119312526455774/0001193125-26-455774-index.htm",
-   "d": "2026-11-10T22:24:58.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - OCULUS INC. (0001107280) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1107280/000143774926036236/0001437749-26-036236-index.htm",
-   "d": "2026-11-10T22:24:04.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - GROUP 1 AUTOMOTIVE INC (0001031203) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000157/0001031203-26-000157-index.htm",
-   "d": "2026-11-10T22:21:34.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - CYABRA, INC. (0002032341) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/2032341/000121390026118128/0001213900-26-118128-index.htm",
-   "d": "2026-11-10T22:21:33.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Lakewood-Amedex Biotherapeutics Inc. (0002079272) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/2079272/000121390026118127/0001213900-26-118127-index.htm",
-   "d": "2026-11-10T22:20:52.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Regional Management Corp. (0001519401) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1519401/000119312526455761/0001193125-26-455761-index.htm",
-   "d": "2026-11-10T22:20:46.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Rallybio Corp (0001739410) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1739410/000119312526455762/0001193125-26-455762-index.htm",
-   "d": "2026-11-10T22:20:38.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K/A - Nuveen Farmland REIT (0002085428) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/2085428/000162828026072845/0001628280-26-072845-index.htm",
-   "d": "2026-11-10T22:20:23.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Ultra Clean Holdings, Inc. (0001275014) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1275014/000095010326017277/0000950103-26-017277-index.htm",
-   "d": "2026-11-10T22:20:21.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Live Oak Acquisition Corp. VI (0002115191) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/2115191/000121390026118124/0001213900-26-118124-index.htm",
-   "d": "2026-11-10T22:20:13.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - COTY INC. (0001024305) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1024305/000102430526000076/0001024305-26-000076-index.htm",
-   "d": "2026-11-10T22:19:38.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - ACTELIS NETWORKS INC (0001141284) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1141284/000121390026118118/0001213900-26-118118-index.htm",
-   "d": "2026-11-10T22:17:54.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - CorMedix Inc. (0001410098) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026118109/0001213900-26-118109-index.htm",
-   "d": "2026-11-10T22:15:38.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Our Bond, Inc. (0001756064) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1756064/000149315226051026/0001493152-26-051026-index.htm",
-   "d": "2026-11-10T22:14:19.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - GRACO INC (0000042888) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/42888/000119312526455736/0001193125-26-455736-index.htm",
-   "d": "2026-11-10T22:13:39.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Perma-Pipe International Holdings, Inc. (0000914122) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/914122/000143774926036229/0001437749-26-036229-index.htm",
-   "d": "2026-11-10T22:12:53.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - Forward Industries, Inc. (0000038264) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/38264/000168316826008510/0001683168-26-008510-index.htm",
-   "d": "2026-11-10T22:10:32.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "HelloNation Article Examines Home Improvements Before Selling, Featuring Real Estate Expert Rosa Stong",
-   "u": "https://www.prnewswire.com/news-releases/hellonation-article-examines-home-improvements-before-selling-featuring-real-estate-expert-rosa-stong-302911487.html",
-   "d": "2026-11-10T21:18:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Certain Aberdeen Investments U.S. Closed-End Funds Declare Distribution Dates and Amounts",
-   "u": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302935591.html",
-   "d": "2026-11-10T21:17:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "An Eagle Institution, Reimagined: Eagle Bank Club to Revive Historic Downtown Gathering Place",
-   "u": "https://www.prnewswire.com/news-releases/an-eagle-institution-reimagined-eagle-bank-club-to-revive-historic-downtown-gathering-place-302935593.html",
-   "d": "2026-11-10T21:16:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "BD to Host Investor Day on December 10, 2026",
-   "u": "https://www.prnewswire.com/news-releases/bd-to-host-investor-day-on-december-10-2026-302935368.html",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Clarivate Announces Pricing Terms of Offers to Purchase for Cash Certain of its Outstanding Debt Securities",
-   "u": "https://www.prnewswire.com/news-releases/clarivate-announces-pricing-terms-of-offers-to-purchase-for-cash-certain-of-its-outstanding-debt-securities-302935558.html",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Invesco Ltd. Announces October 31, 2026 Assets Under Management",
-   "u": "https://www.prnewswire.com/news-releases/invesco-ltd-announces-october-31-2026-assets-under-management-302935462.html",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Fidelity National Financial CEO Mike Nolan and CFO Tony Park to Speak at the Stephens Annual Investment Conference",
-   "u": "https://www.prnewswire.com/news-releases/fidelity-national-financial-ceo-mike-nolan-and-cfo-tony-park-to-speak-at-the-stephens-annual-investment-conference-302935542.html",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "ARES DYNAMIC CREDIT ALLOCATION FUND DECLARES A MONTHLY DISTRIBUTION OF $0.1125 PER SHARE",
-   "u": "https://www.prnewswire.com/news-releases/ares-dynamic-credit-allocation-fund-declares-a-monthly-distribution-of-0-1125-per-share-302934776.html",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Netlist Reports Third Quarter 2026 Results",
-   "u": "https://www.prnewswire.com/news-releases/netlist-reports-third-quarter-2026-results-302935534.html",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Clarivate Announces Pricing Terms of Offers to Purchase for Cash Certain of its Outstanding Debt Securities",
-   "u": "https://www.prnewswire.com/news-releases/clarivate-announces-pricing-terms-of-offers-to-purchase-for-cash-certain-of-its-outstanding-debt-securities-302935578.html",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "ManpowerGroup Declares $0.72 Dividend",
-   "u": "https://www.prnewswire.com/news-releases/manpowergroup-declares-0-72-dividend-302934805.html",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "DRW Energy Trading Closes Upsized $1 Billion Revolving Credit Facility",
-   "u": "https://www.prnewswire.com/news-releases/drw-energy-trading-closes-upsized-1-billion-revolving-credit-facility-302935576.html",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Costco Wholesale Corporation Declares $30 Special Cash Dividend and Reauthorizes Stock Repurchase Program",
-   "u": "https://mfn.se/one/a/costco/costco-wholesale-corporation-declares-30-special-cash-dividend-and-reauthorizes-stock-repurchase-program-49d6753b",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Burlington Stores, Inc. Announces Third Quarter Fiscal Year 2026 Earnings Release Date, Conference Call and Webcast",
-   "u": "https://mfn.se/one/a/burlington-stores/burlington-stores-inc-announces-third-quarter-fiscal-year-2026-earnings-release-date-conference-call-and-webcast-09db01d2",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Himalaya Shipping Ltd. (HSHP) – Commercial Update and Key Information Relating to the Cash Dividends for October 2026",
-   "u": "https://mfn.se/a/himalaya-shipping/himalaya-shipping-ltd-hshp-commercial-update-and-key-information-relating-to-the-cash-dividends-for-october-2026",
-   "d": "2026-11-10T21:15:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "EICMA 2026 supera los 600.000 visitantes: un +6 % en la mayor edición de su historia",
-   "u": "https://www.prnewswire.com/news-releases/eicma-2026-supera-los-600-000-visitantes-un-6--en-la-mayor-edicion-de-su-historia-302935589.html",
-   "d": "2026-11-10T21:14:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "University of Phoenix to host Bridging Perspectives webinar on maintaining career relevance in the age of AI",
-   "u": "https://www.prnewswire.com/news-releases/university-of-phoenix-to-host-bridging-perspectives-webinar-on-maintaining-career-relevance-in-the-age-of-ai-302935586.html",
-   "d": "2026-11-10T21:11:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "CC Capital and Motive Partners Reach Agreement to Sell Wilshire to Marsh",
-   "u": "https://www.prnewswire.com/news-releases/cc-capital-and-motive-partners-reach-agreement-to-sell-wilshire-to-marsh-302935572.html",
-   "d": "2026-11-10T21:10:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "MATSON TO PARTICIPATE AT STEPHENS 2026 ANNUAL INVESTMENT CONFERENCE",
-   "u": "https://www.prnewswire.com/news-releases/matson-to-participate-at-stephens-2026-annual-investment-conference-302934338.html",
-   "d": "2026-11-10T21:10:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Pismo Beach Sand Art Festival Brought International Artists to the Shoreline for Three-Day Open-Air Gallery",
-   "u": "https://www.prnewswire.com/news-releases/pismo-beach-sand-art-festival-brought-international-artists-to-the-shoreline-for-three-day-open-air-gallery-302935583.html",
-   "d": "2026-11-10T21:10:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Lean Focus Launches Asia Pacific: Local Expertise. Global Impact",
-   "u": "https://www.prnewswire.com/news-releases/lean-focus-launches-asia-pacific-local-expertise-global-impact-302935580.html",
-   "d": "2026-11-10T21:08:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "With Surplus Interconnection Service, Ohio and Pennsylvania Could Unlock Gigawatts of New Energy",
-   "u": "https://www.prnewswire.com/news-releases/with-surplus-interconnection-service-ohio-and-pennsylvania-could-unlock-gigawatts-of-new-energy-302935581.html",
-   "d": "2026-11-10T21:08:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "California Jury Awards $34.21 Million in Johnson & Johnson Talc-Asbestos Mesothelioma Case",
-   "u": "https://www.prnewswire.com/news-releases/california-jury-awards-34-21-million-in-johnson--johnson-talc-asbestos-mesothelioma-case-302935577.html",
-   "d": "2026-11-10T21:07:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "NextCure Provides Business Update and Reports Third Quarter 2026 Financial Results",
-   "u": "https://mfn.se/one/a/nextcure/nextcure-provides-business-update-and-reports-third-quarter-2026-financial-results-9f75a450",
-   "d": "2026-11-10T21:05:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Parsons Introduces iNET® Convergent Response, Combining Its iNET® and Team Awareness Kit Capabilities for Faster Operational Decision-Making",
-   "u": "https://mfn.se/one/a/parsons/parsons-introduces-inet-r-convergent-response-combining-its-inet-r-and-team-awareness-kit-capabilities-for-faster-operational-decision-making-0b5fc4f6",
-   "d": "2026-11-10T21:05:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Autolus Therapeutics Presents Longer-Term Follow Up Data from CARLYSLE Trial at the American College of Rheumatology Convergence 2026",
-   "u": "https://mfn.se/one/a/autolus-therapeutics/autolus-therapeutics-presents-longer-term-follow-up-data-from-carlysle-trial-at-the-american-college-of-rheumatology-convergence-2026-8308080c",
-   "d": "2026-11-10T21:05:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Nasdaq Announces End-of-Month Open Short Interest Positions in Nasdaq Stocks as of Settlement Date October 30, 2026",
-   "u": "https://mfn.se/one/a/nasdaq/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-of-settlement-date-october-30-2026-0144c91b",
-   "d": "2026-11-10T21:05:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Lakefront presenteert op de 2026 Jefferies Global Healthcare Conference in Londen",
-   "u": "https://mfn.se/one/a/lakefront-biotherapeutics/lakefront-presenteert-op-de-2026-jefferies-global-healthcare-conference-in-londen-a41f4c39",
-   "d": "2026-11-10T21:01:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Lakefront to Present at the 2026 Jefferies Global Healthcare Conference in London",
-   "u": "https://mfn.se/one/a/lakefront-biotherapeutics/lakefront-to-present-at-the-2026-jefferies-global-healthcare-conference-in-london-4fe46503",
-   "d": "2026-11-10T21:01:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Star Bulk Announces Publication Of 2025 Environmental, Social And Governance (ESG) Report",
-   "u": "https://mfn.se/one/a/star-bulk-carriers/star-bulk-announces-publication-of-2025-environmental-social-and-governance-esg-report-3e83da78",
-   "d": "2026-11-10T21:00:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Hansa Biopharma AB: Hansa Biopharma deltar i Jefferies Global Healthcare Conference i London",
-   "u": "https://mfn.se/cis/a/hansa-biopharma/hansa-biopharma-ab-hansa-biopharma-deltar-i-jefferies-global-healthcare-conference-i-london-7b67cf2c",
-   "d": "2026-11-10T21:00:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Hansa Biopharma AB: Hansa Biopharma to participate in Jefferies Global Healthcare Conference in London",
-   "u": "https://mfn.se/cis/a/hansa-biopharma/hansa-biopharma-ab-hansa-biopharma-to-participate-in-jefferies-global-healthcare-conference-in-london-f093d783",
-   "d": "2026-11-10T21:00:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Sunrun CEO Mary Powell Named to the 2026 TIME100 Climate List of Most Influential Leaders In Climate",
-   "u": "https://mfn.se/one/a/sunrun/sunrun-ceo-mary-powell-named-to-the-2026-time100-climate-list-of-most-influential-leaders-in-climate-4aee7acd",
-   "d": "2026-11-10T20:36:05.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Capital Increase in Genmab as a Result of Employee Warrant Exercise",
-   "u": "https://mfn.se/one/a/genmab/capital-increase-in-genmab-as-a-result-of-employee-warrant-exercise-eafd0e6c",
-   "d": "2026-11-10T20:32:18.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Fastator rättar härmed uppgifterna om Thomas Johnssons innehav",
-   "u": "https://mfn.se/a/fastator/fastator-rattar-harmed-uppgifterna-om-thomas-johnssons-innehav",
-   "d": "2026-11-10T20:30:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "TagMaster intends to acquire Kapsch TrafficCom’s North American 915MHz components business",
-   "u": "https://mfn.se/a/tagmaster/tagmaster-intends-to-acquire-kapsch-trafficcoms-north-american-915mhz-components-business",
-   "d": "2026-11-10T20:24:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "TagMaster har tecknat avtal om att förvärva Kapsch TrafficComs nordamerikanska komponentverksamhet inom 915MHz-teknik",
-   "u": "https://mfn.se/a/tagmaster/tagmaster-har-tecknat-avtal-om-att-forvarva-kapsch-trafficcoms-nordamerikanska-komponentverksamhet-inom-915mhz-teknik",
-   "d": "2026-11-10T20:24:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Qbim Aktiebolag beslutar om riktad nyemission om cirka 1,6 MSEK",
-   "u": "https://mfn.se/beq/a/qbim/qbim-aktiebolag-beslutar-om-riktad-nyemission-om-cirka-1-6-msek-96fd1b4d",
-   "d": "2026-11-10T19:27:37.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Statement from the Independent Members of the NVIDIA Board",
-   "u": "https://mfn.se/one/a/nvidia/statement-from-the-independent-members-of-the-nvidia-board-0349106b",
-   "d": "2026-11-10T19:07:46.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "De “Célébrer de petites occasions” à devenir des habitués : OpenTable dévoile comment les Québécois trouvent de nouvelles raisons de manger au restaurant en 2027",
-   "u": "https://mfn.se/one/a/booking-holdings/de-celebrer-de-petites-occasions-a-devenir-des-habitues-opentable-devoile-comment-les-quebecois-trouvent-de-nouvelles-raisons-de-manger-au-restaurant-en-2027-df409b6f",
-   "d": "2026-11-10T18:57:15.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "PLT: poLight ASA Capital Markets Day Highlights Accelerating Momentum in AR|MR, Industrial Imaging and Wearable Applications",
-   "u": "https://mfn.se/ob/a/polight/plt-polight-asa-capital-markets-day-highlights-accelerating-momentum-in-ar-mr-industrial-imaging-and-wearable-applications-7b9e0926",
-   "d": "2026-11-10T18:45:03.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "poLight ASA Capital Markets Day Highlights Accelerating Momentum in AR|MR, Industrial Imaging and Wearable Applications",
-   "u": "https://mfn.se/a/polight/polight-asa-capital-markets-day-highlights-accelerating-momentum-in-ar-mr-industrial-imaging-and-wearable-applications",
-   "d": "2026-11-10T18:45:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "EXEL Industries: Total number of voting rights and shares at 10.31.2026",
-   "u": "https://mfn.se/one/a/exel-industries/exel-industries-total-number-of-voting-rights-and-shares-at-10-31-2026-86bd2073",
-   "d": "2026-11-10T18:41:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "EXEL Industries : Nombre total de droits de vote et d’actions au 31.10.2026",
-   "u": "https://mfn.se/one/a/exel-industries/exel-industries-nombre-total-de-droits-de-vote-et-dactions-au-31-10-2026-6796a81f",
-   "d": "2026-11-10T18:41:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Flekkefjord Sparebank - Avholdt ekstraordinær generalforsamling",
-   "u": "https://mfn.se/ob/a/flekkefjord-sparebank/flekkefjord-sparebank-avholdt-ekstraordinaer-generalforsamling-a83da2da",
-   "d": "2026-11-10T18:30:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Exercise of Warrants",
-   "u": "https://mfn.se/one/a/reveille-resources/exercise-of-warrants-ed3d21cf",
-   "d": "2026-11-10T18:29:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Jæren Sparebank - Avholdt ekstraordinær generalforsamling",
-   "u": "https://mfn.se/ob/a/jaeren-sparebank/jaeren-sparebank-avholdt-ekstraordinaer-generalforsamling-555da5cc",
-   "d": "2026-11-10T18:07:42.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "INFORMATION RELATIVE AU NOMBRE TOTAL DE DROITS DE VOTE ET D’ACTIONS COMPOSANT LE CAPITAL DE KLÉPIERRE SA AU 31 OCTOBRE 2026",
-   "u": "https://mfn.se/one/a/klepierre/information-relative-au-nombre-total-de-droits-de-vote-et-dactions-composant-le-capital-de-klepierre-sa-au-31-octobre-2026-b8cb6a63",
-   "d": "2026-11-10T18:04:39.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "INFORMATION REGARDING THE TOTAL VOTING RIGHTS AND SHARES OF KLÉPIERRE SA AS OF OCTOBER 31, 2026",
-   "u": "https://mfn.se/one/a/klepierre/information-regarding-the-total-voting-rights-and-shares-of-klepierre-sa-as-of-october-31-2026-fc9b9591",
-   "d": "2026-11-10T18:04:39.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Dagens Börs intervjuar Henrik Jerner (VD) Northern CapSek Ventures",
-   "u": "https://mfn.se/a/dagensbors/dagens-bors-intervjuar-henrik-jerner-vd-northern-capsek-ventures",
-   "d": "2026-11-10T17:58:00.000Z",
-   "src": "mfn"
-  },
-  {
-   "t": "Peak Nano Expands U.S. Capacitor Film Production 20-Fold in Ohio, and Opens Hiring Across Three Shifts",
-   "u": "https://www.prnewswire.com/news-releases/peak-nano-expands-us-capacitor-film-production-20-fold-in-ohio-and-opens-hiring-across-three-shifts-302934944.html",
-   "d": "2026-11-10T13:29:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Girlie Vault Announces Four-Meal Giving Commitment for Its Take the Pledge T-Shirt Collection",
-   "u": "https://www.prnewswire.com/news-releases/girlie-vault-announces-four-meal-giving-commitment-for-its-take-the-pledge-t-shirt-collection-302934955.html",
-   "d": "2026-11-10T13:28:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "TriNetX Launches Human-Validated Fact Extraction from Clinical Notes Data Researchers Can Trust",
-   "u": "https://www.prnewswire.com/news-releases/trinetx-launches-human-validated-fact-extraction-from-clinical-notes-data-researchers-can-trust-302933657.html",
-   "d": "2026-11-10T13:27:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Morning Muze Gives Creators the One Slot No Feed Can: The Moment Their Audience Wakes Up",
-   "u": "https://www.prnewswire.com/news-releases/morning-muze-gives-creators-the-one-slot-no-feed-can-the-moment-their-audience-wakes-up-302934952.html",
-   "d": "2026-11-10T13:27:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Hispanic Scholarship Fund Will Open HSF Scholar Program To All Students",
-   "u": "https://www.prnewswire.com/news-releases/hispanic-scholarship-fund-will-open-hsf-scholar-program-to-all-students-302934949.html",
-   "d": "2026-11-10T13:25:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "New Huntsville Program to Connect Veterans and Military Spouses to In-Demand Careers",
-   "u": "https://www.prnewswire.com/news-releases/new-huntsville-program-to-connect-veterans-and-military-spouses-to-in-demand-careers-302934947.html",
-   "d": "2026-11-10T13:24:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety",
-   "u": "https://www.prnewswire.com/news-releases/auto-repair-expert-gerald-gillis-highlights-brake-health-warning-signs-that-affect-driving-safety-302934946.html",
-   "d": "2026-11-10T13:21:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "First-of-its-Kind Analysis 'From Bases to Baseload' Finds U.S. Military Bases Sit on Some of the Largest Untapped Geothermal Resources in the US",
-   "u": "https://www.prnewswire.com/news-releases/first-of-its-kind-analysis-from-bases-to-baseload-finds-us-military-bases-sit-on-some-of-the-largest-untapped-geothermal-resources-in-the-us-302934945.html",
-   "d": "2026-11-10T13:20:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Niagara Falls Teacher Britini D'Angelo Named Grand Prize Winner in Heroes of the Classroom Contest Presented by Kleenex®",
-   "u": "https://www.prnewswire.com/news-releases/niagara-falls-teacher-britini-dangelo-named-grand-prize-winner-in-heroes-of-the-classroom-contest-presented-by-kleenex-302933832.html",
-   "d": "2026-11-10T13:17:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Unbound at 45: International Development Organization Celebrates Families",
-   "u": "https://www.prnewswire.com/news-releases/unbound-at-45-international-development-organization-celebrates-families-302933913.html",
-   "d": "2026-11-10T13:17:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Greenberg Traurig Named Latin Builders Association Law Firm of the Year",
-   "u": "https://www.prnewswire.com/news-releases/greenberg-traurig-named-latin-builders-association-law-firm-of-the-year-302933963.html",
-   "d": "2026-11-09T23:45:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "PRIMEFLIGHT APPOINTS AMATH FALL AS CHIEF EXECUTIVE OFFICER, STRENGTHENING LEADERSHIP TEAM TO SUPPORT NEXT PHASE OF GROWTH",
-   "u": "https://www.prnewswire.com/news-releases/primeflight-appoints-amath-fall-as-chief-executive-officer-strengthening-leadership-team-to-support-next-phase-of-growth-302933976.html",
-   "d": "2026-11-09T23:43:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "The Health Museum Invites Houston to Experience Sound in a Whole New Way",
-   "u": "https://www.prnewswire.com/news-releases/the-health-museum-invites-houston-to-experience-sound-in-a-whole-new-way-302933975.html",
-   "d": "2026-11-09T23:42:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Craveworthy Brands Signs Definitive Agreement to Acquire New England Authentic Eats LLC, Accelerating Wing It On! Expansion",
-   "u": "https://www.prnewswire.com/news-releases/craveworthy-brands-signs-definitive-agreement-to-acquire-new-england-authentic-eats-llc-accelerating-wing-it-on-expansion-302933955.html",
-   "d": "2026-11-09T23:30:00.000Z",
-   "src": "prnewswire"
-  },
-  {
-   "t": "Nearly 4,000 Runners Take On the 51st Annual Phoenix Half Marathon & 10K on Sun., Nov. 8",
-   "u": "https://www.prnewswire.com/news-releases/nearly-4-000-runners-take-on-the-51st-annual-phoenix-half-marathon--10k-on-sun-nov-8--302933966.html",
-   "d": "2026-11-09T23:14:00.000Z",
    "src": "prnewswire"
   }
  ]
