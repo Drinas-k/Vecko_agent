@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:27:31.040Z",
+  "generatedAt": "2026-11-24T05:19:11.670Z",
   "source": "Yahoo Finance chart API via GitHub Actions",
   "schemaVersion": "2026-08-02-prevclose",
   "wideAt": "2026-11-24T03:06:36.216Z",
@@ -100,7 +100,7 @@
       "source": "Yahoo Finance (chart API)",
       "extendedPrice": 377.6,
       "extendedTime": "2026-11-24T00:57:39.000Z",
-      "extendedSession": "post"
+      "extendedSession": "pre"
     },
     "ADSK": {
       "symbol": "ADSK",
@@ -116,7 +116,7 @@
       "source": "Yahoo Finance (chart API)",
       "extendedPrice": 255.33,
       "extendedTime": "2026-11-23T21:00:15.000Z",
-      "extendedSession": "post"
+      "extendedSession": "pre"
     },
     "AESI": {
       "symbol": "AESI",
@@ -561,7 +561,7 @@
       "source": "Yahoo Finance (chart API)",
       "extendedPrice": 96.5645,
       "extendedTime": "2026-11-24T00:59:15.000Z",
-      "extendedSession": "post"
+      "extendedSession": "pre"
     },
     "BE": {
       "symbol": "BE",
@@ -728,15 +728,15 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 60426.72,
+      "price": 60508.53,
       "currency": "USD",
       "exchange": "CCC",
-      "marketTime": "2026-11-24T04:25:59.000Z",
+      "marketTime": "2026-11-24T05:17:44.000Z",
       "marketState": null,
       "previousClose": 61161.91015625,
       "dayHigh": 61502.664,
       "dayLow": 59587.184,
-      "volume": 46067277824,
+      "volume": 46175010816,
       "source": "Yahoo Finance (chart API)"
     },
     "BWE.OL": {
@@ -948,7 +948,7 @@
       "source": "Yahoo Finance (chart API)",
       "extendedPrice": 5.548,
       "extendedTime": "2026-11-24T00:58:37.000Z",
-      "extendedSession": "post"
+      "extendedSession": "pre"
     },
     "CNC": {
       "symbol": "CNC",
@@ -1159,7 +1159,7 @@
       "source": "Yahoo Finance (chart API)",
       "extendedPrice": 634,
       "extendedTime": "2026-11-23T23:44:25.000Z",
-      "extendedSession": "post"
+      "extendedSession": "pre"
     },
     "DELL": {
       "symbol": "DELL",
@@ -1175,7 +1175,7 @@
       "source": "Yahoo Finance (chart API)",
       "extendedPrice": 338.491,
       "extendedTime": "2026-11-24T00:59:58.000Z",
-      "extendedSession": "post"
+      "extendedSession": "pre"
     },
     "DEMANT.CO": {
       "symbol": "DEMANT.CO",
@@ -1390,15 +1390,15 @@
     },
     "ETH-USD": {
       "symbol": "ETH-USD",
-      "price": 1697.48,
+      "price": 1702.76,
       "currency": "USD",
       "exchange": "CCC",
-      "marketTime": "2026-11-24T04:26:15.000Z",
+      "marketTime": "2026-11-24T05:18:04.000Z",
       "marketState": null,
       "previousClose": 1721.07568359375,
       "dayHigh": 1718.785,
       "dayLow": 1672.382,
-      "volume": 16382934016,
+      "volume": 16583872512,
       "source": "Yahoo Finance (chart API)"
     },
     "EVCM": {
@@ -1740,7 +1740,7 @@
       "source": "Yahoo Finance (chart API)",
       "extendedPrice": 28.5,
       "extendedTime": "2026-11-24T00:59:33.000Z",
-      "extendedSession": "post"
+      "extendedSession": "pre"
     },
     "HSHP.OL": {
       "symbol": "HSHP.OL",
@@ -2198,7 +2198,7 @@
       "source": "Yahoo Finance (chart API)",
       "extendedPrice": 100.3,
       "extendedTime": "2026-11-24T00:55:11.000Z",
-      "extendedSession": "post"
+      "extendedSession": "pre"
     },
     "META": {
       "symbol": "META",
@@ -3545,10 +3545,10 @@
     },
     "USDSEK=X": {
       "symbol": "USDSEK=X",
-      "price": 10.2706,
+      "price": 10.2726,
       "currency": "SEK",
       "exchange": "CCY",
-      "marketTime": "2026-11-24T04:27:20.000Z",
+      "marketTime": "2026-11-24T05:19:02.000Z",
       "marketState": null,
       "previousClose": 10.22449016571045,
       "dayHigh": 10.2887,
@@ -3726,7 +3726,7 @@
       "source": "Yahoo Finance (chart API)",
       "extendedPrice": 176,
       "extendedTime": "2026-11-23T22:35:33.000Z",
-      "extendedSession": "post"
+      "extendedSession": "pre"
     },
     "WFC": {
       "symbol": "WFC",
