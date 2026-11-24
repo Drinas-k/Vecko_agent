@@ -2596,11 +2596,11 @@
       "sourceRef": "HPE 8-K ex. 99.1 (SEC 2026-11-23); Investing.com, Yahoo Finance 2026-11-23 (efterhandel), websok 2026-11-24. Kurs: prices.json/Yahoo chart API.",
       "price": null,
       "priceAsOf": null,
-      "status": "new",
+      "status": "rejected",
       "expiresAt": "2026-12-02",
-      "decidedBy": null,
-      "decidedAt": null,
-      "decisionReason": null
+      "decidedBy": "reports/us_daily/us-daglig-261124.md",
+      "decidedAt": "2026-11-24",
+      "decisionReason": "kurs ej verifierbar – stangningen 23/11 ar pre-event och ingen utokad kurs finns i prices.json; aven regimen av – inga nya positioner (^GSPC -1,54 % under MA200)"
     },
     {
       "id": "261124-ZM",
@@ -2615,11 +2615,11 @@
       "sourceRef": "Zoom via GlobeNewswire 2026-11-23 (Q3 FY27); Investing.com 2026-11-23 (efterhandel), websok 2026-11-24. Kurs: prices.json/Yahoo chart API.",
       "price": null,
       "priceAsOf": null,
-      "status": "new",
+      "status": "rejected",
       "expiresAt": "2026-12-02",
-      "decidedBy": null,
-      "decidedAt": null,
-      "decisionReason": null
+      "decidedBy": "reports/us_daily/us-daglig-261124.md",
+      "decidedAt": "2026-11-24",
+      "decisionReason": "kurs ej verifierbar – stangningen 23/11 ar pre-event och ingen utokad kurs finns i prices.json; aven regimen av – inga nya positioner (^GSPC -1,54 % under MA200)"
     }
   ]
 }
