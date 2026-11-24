@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-24T06:45:12.868Z",
+ "generatedAt": "2026-11-24T13:22:15.801Z",
  "horizons": [
   5,
   20
  ],
  "minN": 8,
  "counts": {
-  "decisions": 1234,
-  "measurable": 1234,
+  "decisions": 1237,
+  "measurable": 1237,
   "missing": 0,
-  "pending": 63
+  "pending": 66
  },
  "missingSymbols": [],
  "byHorizon": {
@@ -26797,6 +26797,36 @@
    "action": "AVVAKTA",
    "catalystType": "earnings",
    "sector": "Offshore vind",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-24",
+   "ticker": "CBOE",
+   "book": "us",
+   "action": "SÄLJ",
+   "catalystType": "earnings",
+   "sector": "Borser/finansiell infrastruktur",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-24",
+   "ticker": "HPE",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "IT-hardvara",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-24",
+   "ticker": "ZM",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Mjukvara",
    "reconstructed": false,
    "fwd": {}
   }
