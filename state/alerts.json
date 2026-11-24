@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23T18:59:14.565Z",
-  "checkedAt": "2026-11-24T04:15:21.232Z",
+  "generatedAt": "2026-11-24T18:39:56.936Z",
+  "checkedAt": "2026-11-24T18:39:56.936Z",
   "watched": [
     "BOOZT.ST",
     "MORLD.OL",
     "HNSA.ST",
-    "SPY",
-    "CBOE"
+    "SPY"
   ],
-  "active": [
+  "active": [],
+  "history": [
     {
       "ticker": "CBOE",
       "type": "SÄLJ",
@@ -18,10 +18,9 @@
       "currency": "USD",
       "marketTime": "2026-11-23T21:00:00.000Z",
       "basis": "intraday",
-      "hitPrice": 350.55
-    }
-  ],
-  "history": [
+      "hitPrice": 350.55,
+      "expiredAt": "2026-11-24T18:39:56.936Z"
+    },
     {
       "ticker": "NORBT.OL",
       "type": "KÖP",
