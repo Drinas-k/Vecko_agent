@@ -649,3 +649,5 @@ SNDK
 # Sandisk – 8-K 2026-11-19 (innehåll ej verifierat), AVVAKTA-rad i decisions.json.
 TSN
 # Tyson Foods – 8-K 2026-11-20 (innehåll ej verifierat), AVVAKTA-rad i decisions.json.
+ASH
+# Ashland – Clariant bekräftade uppköpssamtal 2026-11-23 (inget avtal), scout rapport-261124, bevakning.

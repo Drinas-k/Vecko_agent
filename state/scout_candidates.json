@@ -2582,6 +2582,44 @@
       "decidedBy": "reports/us_weekly/us-veckorapport-261123.md",
       "decidedAt": "2026-11-23",
       "decisionReason": "kurs ej verifierbar (PAYO saknas i prices.json); aven spärr c: regimen av - inga nya positioner. Tillfalligt datavillkor (L-4): provas om nar kurs finns."
+    },
+    {
+      "id": "261124-HPE",
+      "date": "2026-11-24",
+      "ticker": "HPE",
+      "book": "us",
+      "source": "scout",
+      "catalystType": "earnings",
+      "catalystDate": "2026-11-23",
+      "confirmed": true,
+      "thesis": "Bekraftad Q4 FY26 (23/11 efter stangning): intakt 14,5 mdr (+50 %) mot ca 14,3 vantat, just. EPS 1,43 mot guide 1,20-1,30, FY27-guide EPS 5,05-5,35, +5 mdr aterkop. Pris null: stangning 48,02 ar pre-event. Bear: Q1-guide under konsensus, efterhandel ca -7 %; regim av.",
+      "sourceRef": "HPE 8-K ex. 99.1 (SEC 2026-11-23); Investing.com, Yahoo Finance 2026-11-23 (efterhandel), websok 2026-11-24. Kurs: prices.json/Yahoo chart API.",
+      "price": null,
+      "priceAsOf": null,
+      "status": "new",
+      "expiresAt": "2026-12-02",
+      "decidedBy": null,
+      "decidedAt": null,
+      "decisionReason": null
+    },
+    {
+      "id": "261124-ZM",
+      "date": "2026-11-24",
+      "ticker": "ZM",
+      "book": "us",
+      "source": "scout",
+      "catalystType": "earnings",
+      "catalystDate": "2026-11-23",
+      "confirmed": true,
+      "thesis": "Bekraftad Q3 FY27 (23/11 efter stangning): intakt 1 290,6 MUSD (+4,9 %), enterprise +8,6 %, just. EPS 1,59 mot 1,49 vantat, helarsguide EPS 6,24-6,25, forsta utdelning 0,25/kv. Pris null: stangning 86,03 ar pre-event. Bear: under MA200 (-6,8 %), svag tillvaxt; regim av.",
+      "sourceRef": "Zoom via GlobeNewswire 2026-11-23 (Q3 FY27); Investing.com 2026-11-23 (efterhandel), websok 2026-11-24. Kurs: prices.json/Yahoo chart API.",
+      "price": null,
+      "priceAsOf": null,
+      "status": "new",
+      "expiresAt": "2026-12-02",
+      "decidedBy": null,
+      "decidedAt": null,
+      "decisionReason": null
     }
   ]
 }
