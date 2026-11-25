@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-25T06:44:36.410Z",
+ "generatedAt": "2026-11-25T13:19:53.646Z",
  "horizons": [
   5,
   20
  ],
  "minN": 8,
  "counts": {
-  "decisions": 1241,
-  "measurable": 1241,
+  "decisions": 1246,
+  "measurable": 1246,
   "missing": 0,
-  "pending": 65
+  "pending": 70
  },
  "missingSymbols": [],
  "byHorizon": {
@@ -26956,6 +26956,56 @@
    "action": "AVVAKTA",
    "catalystType": "earnings",
    "sector": "Offshore vind",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-25",
+   "ticker": "DELL",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "IT-hardvara",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-25",
+   "ticker": "WDAY",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Mjukvara",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-25",
+   "ticker": "ADSK",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Mjukvara",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-25",
+   "ticker": "BBY",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "earnings",
+   "sector": "Detaljhandel",
+   "reconstructed": false,
+   "fwd": {}
+  },
+  {
+   "date": "2026-11-25",
+   "ticker": "PAYO",
+   "book": "us",
+   "action": "AVVAKTA",
+   "catalystType": "regulatory",
+   "sector": "Fintech",
    "reconstructed": false,
    "fwd": {}
   }
