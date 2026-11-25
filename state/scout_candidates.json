@@ -2634,8 +2634,11 @@
       "sourceRef": "Dell 8-K ex. 99.1 (SEC 2026-11-24); CNBC 2026-11-24; Investing.com 2026-11-24, websok 2026-11-25. Kurs: prices.json/Yahoo chart API.",
       "price": null,
       "priceAsOf": null,
-      "status": "new",
-      "expiresAt": "2026-12-03"
+      "status": "rejected",
+      "expiresAt": "2026-12-03",
+      "decidedBy": "reports/us_daily/us-daglig-261125.md",
+      "decidedAt": "2026-11-25",
+      "decisionReason": "kurs ej verifierbar – stangningen 24/11 (295,28) ar pre-event och ingen utokad kurs finns i prices.json; aven regimen av – inga nya positioner (^GSPC -2,04 % under MA200)"
     },
     {
       "id": "261125-WDAY",
@@ -2650,8 +2653,11 @@
       "sourceRef": "Workday 8-K ex. 99.1 (SEC 2026-11-24); StockTitan 2026-11-24; Investing.com 2026-11-24, websok 2026-11-25. Kurs: prices.json/Yahoo chart API.",
       "price": null,
       "priceAsOf": null,
-      "status": "new",
-      "expiresAt": "2026-12-03"
+      "status": "rejected",
+      "expiresAt": "2026-12-03",
+      "decidedBy": "reports/us_daily/us-daglig-261125.md",
+      "decidedAt": "2026-11-25",
+      "decisionReason": "kurs ej verifierbar – stangningen 24/11 (179,23) ar pre-event och ingen utokad kurs finns i prices.json; aven regimen av – inga nya positioner (^GSPC -2,04 % under MA200)"
     },
     {
       "id": "261125-ADSK",
@@ -2666,8 +2672,11 @@
       "sourceRef": "Autodesk via PR Newswire 2026-11-24 (Q3 FY27); StockTitan 2026-11-24; Investing.com 2026-11-24, websok 2026-11-25. Kurs: prices.json/Yahoo chart API.",
       "price": null,
       "priceAsOf": null,
-      "status": "new",
-      "expiresAt": "2026-12-03"
+      "status": "rejected",
+      "expiresAt": "2026-12-03",
+      "decidedBy": "reports/us_daily/us-daglig-261125.md",
+      "decidedAt": "2026-11-25",
+      "decisionReason": "kurs ej verifierbar – stangningen 24/11 (255,70) ar pre-event och ingen utokad kurs finns i prices.json; aven regimen av – inga nya positioner (^GSPC -2,04 % under MA200)"
     },
     {
       "id": "261125-BBY",
@@ -2682,8 +2691,11 @@
       "sourceRef": "Investing.com 2026-11-24 (Best Buy stock climbs on earnings beat, raised outlook), websok 2026-11-25. Kurs: prices.json/Yahoo chart API.",
       "price": null,
       "priceAsOf": null,
-      "status": "new",
-      "expiresAt": "2026-12-03"
+      "status": "rejected",
+      "expiresAt": "2026-12-03",
+      "decidedBy": "reports/us_daily/us-daglig-261125.md",
+      "decidedAt": "2026-11-25",
+      "decisionReason": "kurs ej verifierbar – price null, rapporttiden ej verifierad sa 99,62 kan vara pre-event; aven regimen av – inga nya positioner (^GSPC -2,04 % under MA200)"
     }
   ]
 }
