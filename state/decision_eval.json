@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T06:45:22.159Z",
+ "generatedAt": "2026-11-26T15:05:04.893Z",
  "horizons": [
   5,
   20
@@ -9,17 +9,17 @@
   "decisions": 1250,
   "measurable": 1250,
   "missing": 0,
-  "pending": 67
+  "pending": 64
  },
  "missingSymbols": [],
  "byHorizon": {
   "5": {
    "all": {
-    "n": 1183,
+    "n": 1186,
     "meanAlphaPct": 0.49,
     "medianAlphaPct": 0.27,
     "meanPct": 0.27,
-    "beatIndexPct": 52.75
+    "beatIndexPct": 52.7
    },
    "byAction": {
     "KÖP": {
@@ -37,11 +37,11 @@
      "beatIndexPct": 61.54
     },
     "BEHÅLL": {
-     "n": 62,
-     "meanAlphaPct": 0.12,
-     "medianAlphaPct": -0.31,
-     "meanPct": -0.6,
-     "beatIndexPct": 46.77
+     "n": 65,
+     "meanAlphaPct": 0.17,
+     "medianAlphaPct": -0.29,
+     "meanPct": -0.51,
+     "beatIndexPct": 46.15
     },
     "AVVAKTA": {
      "n": 1084,
@@ -53,11 +53,11 @@
    },
    "byBook": {
     "nordic": {
-     "n": 612,
-     "meanAlphaPct": 0.25,
+     "n": 615,
+     "meanAlphaPct": 0.26,
      "medianAlphaPct": 0.2,
      "meanPct": 0.24,
-     "beatIndexPct": 51.63
+     "beatIndexPct": 51.54
     },
     "us": {
      "n": 571,
@@ -69,11 +69,11 @@
    },
    "byCatalyst": {
     "earnings": {
-     "n": 374,
-     "meanAlphaPct": 0.82,
-     "medianAlphaPct": 0.9,
-     "meanPct": 0.34,
-     "beatIndexPct": 56.42
+     "n": 377,
+     "meanAlphaPct": 0.83,
+     "medianAlphaPct": 0.88,
+     "meanPct": 0.35,
+     "beatIndexPct": 56.23
     },
     "macro": {
      "n": 63,
@@ -160,35 +160,35 @@
     "effectiveN": 12
    },
    "clustered": {
-    "n": 1183,
-    "nDates": 81,
-    "effectiveN": 18,
+    "n": 1186,
+    "nDates": 82,
+    "effectiveN": 19,
     "meanAlphaPct": 0.49,
     "clusterMeanAlphaPct": 0.98,
     "medianAlphaPct": 0.27,
-    "beatIndexPct": 52.75
+    "beatIndexPct": 52.7
    },
    "poolAlpha": {
     "horizon": 5,
-    "n": 1183,
-    "nDates": 81,
-    "effectiveN": 18,
+    "n": 1186,
+    "nDates": 82,
+    "effectiveN": 19,
     "meanAlphaPct": 0.49,
     "clusterMeanAlphaPct": 0.98,
     "medianAlphaPct": 0.27,
-    "beatIndexPct": 52.75,
+    "beatIndexPct": 52.7,
     "verdict": "kandidatflödet skiljer sig inte från index"
    },
    "holdRule": {
     "horizon": 5,
     "held": {
-     "n": 62,
-     "nDates": 41,
+     "n": 65,
+     "nDates": 42,
      "effectiveN": 11,
-     "meanAlphaPct": 0.12,
-     "clusterMeanAlphaPct": 0.11,
-     "medianAlphaPct": -0.31,
-     "beatIndexPct": 46.77
+     "meanAlphaPct": 0.17,
+     "clusterMeanAlphaPct": 0.14,
+     "medianAlphaPct": -0.29,
+     "beatIndexPct": 46.15
     },
     "pool": {
      "n": 1084,
@@ -199,7 +199,7 @@
      "medianAlphaPct": 0.3,
      "beatIndexPct": 52.95
     },
-    "gapPct": -0.36,
+    "gapPct": -0.31,
     "verdict": "ingen skillnad utöver brus mellan innehav och kandidatpool"
    },
    "convergence": {
@@ -26486,7 +26486,14 @@
    "catalystType": "earnings",
    "sector": "E-handel",
    "reconstructed": false,
-   "fwd": {}
+   "fwd": {
+    "5": {
+     "pct": -4.13,
+     "benchPct": -0.02,
+     "alphaPct": -4.11,
+     "toDate": "2026-11-26"
+    }
+   }
   },
   {
    "date": "2026-11-19",
@@ -26496,7 +26503,14 @@
    "catalystType": "earnings",
    "sector": "Oljeservice",
    "reconstructed": false,
-   "fwd": {}
+   "fwd": {
+    "5": {
+     "pct": 7.98,
+     "benchPct": -0.02,
+     "alphaPct": 8,
+     "toDate": "2026-11-26"
+    }
+   }
   },
   {
    "date": "2026-11-19",
@@ -26506,7 +26520,14 @@
    "catalystType": "earnings",
    "sector": "Bioteknik",
    "reconstructed": false,
-   "fwd": {}
+   "fwd": {
+    "5": {
+     "pct": -0.13,
+     "benchPct": -0.02,
+     "alphaPct": -0.11,
+     "toDate": "2026-11-26"
+    }
+   }
   },
   {
    "date": "2026-11-19",
