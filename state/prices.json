@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:46:46.223Z",
+  "generatedAt": "2026-11-26T17:42:23.602Z",
   "source": "Yahoo Finance chart API via GitHub Actions",
   "schemaVersion": "2026-08-02-prevclose",
   "wideAt": "2026-11-26T00:44:15.646Z",
@@ -18,7 +18,7 @@
       "previousClose": 169,
       "dayHigh": 171.7,
       "dayLow": 168.1,
-      "volume": 471818,
+      "volume": 470640,
       "source": "Yahoo Finance (chart API)"
     },
     "AAPL": {
@@ -94,7 +94,7 @@
       "marketTime": "2026-11-25T21:00:02.000Z",
       "marketState": null,
       "previousClose": 312.95001220703125,
-      "dayHigh": 333.23,
+      "dayHigh": 333.22,
       "dayLow": 300.25,
       "volume": 8602252,
       "source": "Yahoo Finance (chart API)"
@@ -146,7 +146,7 @@
       "marketTime": "2026-11-25T21:00:02.000Z",
       "marketState": null,
       "previousClose": 89.31999969482422,
-      "dayHigh": 89,
+      "dayHigh": 88.99,
       "dayLow": 85.32,
       "volume": 3830258,
       "source": "Yahoo Finance (chart API)"
@@ -187,7 +187,7 @@
       "previousClose": 1212,
       "dayHigh": 1237,
       "dayLow": 1224,
-      "volume": 30514,
+      "volume": 30606,
       "source": "Yahoo Finance (chart API)"
     },
     "ALLEI.ST": {
@@ -200,7 +200,7 @@
       "previousClose": 83.9000015258789,
       "dayHigh": 86.2,
       "dayLow": 84.75,
-      "volume": 319593,
+      "volume": 319677,
       "source": "Yahoo Finance (chart API)"
     },
     "ALVO-SDB.ST": {
@@ -213,7 +213,7 @@
       "previousClose": 42,
       "dayHigh": 42.85,
       "dayLow": 36.05,
-      "volume": 99501,
+      "volume": 99494,
       "source": "Yahoo Finance (chart API)"
     },
     "AMAT": {
@@ -343,7 +343,7 @@
       "previousClose": 37.279998779296875,
       "dayHigh": 37.5,
       "dayLow": 36.96,
-      "volume": 308242,
+      "volume": 309118,
       "source": "Yahoo Finance (chart API)"
     },
     "ASA.OL": {
@@ -382,7 +382,7 @@
       "previousClose": 385.79998779296875,
       "dayHigh": 393.4,
       "dayLow": 387.7,
-      "volume": 975942,
+      "volume": 975910,
       "source": "Yahoo Finance (chart API)"
     },
     "ASTS": {
@@ -421,7 +421,7 @@
       "previousClose": 15.069999694824219,
       "dayHigh": 15.72,
       "dayLow": 15.26,
-      "volume": 4825332,
+      "volume": 4838490,
       "source": "Yahoo Finance (chart API)"
     },
     "AVGO": {
@@ -484,9 +484,9 @@
       "marketTime": "2026-11-26T16:29:45.000Z",
       "marketState": null,
       "previousClose": 1876,
-      "dayHigh": 1888,
+      "dayHigh": 1888.5,
       "dayLow": 1849,
-      "volume": 260790,
+      "volume": 260869,
       "source": "Yahoo Finance (chart API)"
     },
     "BA": {
@@ -538,7 +538,7 @@
       "previousClose": 52.880001068115234,
       "dayHigh": 54.66,
       "dayLow": 52.32,
-      "volume": 1892940,
+      "volume": 1884575,
       "source": "Yahoo Finance (chart API)"
     },
     "BAVA.CO": {
@@ -603,7 +603,7 @@
       "previousClose": 16.399999618530273,
       "dayHigh": 16.96,
       "dayLow": 16,
-      "volume": 1238507,
+      "volume": 1242914,
       "source": "Yahoo Finance (chart API)"
     },
     "BIIB": {
@@ -629,7 +629,7 @@
       "previousClose": 353,
       "dayHigh": 366,
       "dayLow": 343.4,
-      "volume": 329872,
+      "volume": 329719,
       "source": "Yahoo Finance (chart API)"
     },
     "BK": {
@@ -698,7 +698,7 @@
       "previousClose": 447.1000061035156,
       "dayHigh": 466.8,
       "dayLow": 457.5,
-      "volume": 1157998,
+      "volume": 1158098,
       "source": "Yahoo Finance (chart API)"
     },
     "BOOZT.ST": {
@@ -729,15 +729,15 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 60443.11,
+      "price": 60373.17,
       "currency": "USD",
       "exchange": "CCC",
-      "marketTime": "2026-11-26T16:45:16.000Z",
+      "marketTime": "2026-11-26T17:40:49.000Z",
       "marketState": null,
       "previousClose": 60378.19921875,
       "dayHigh": 61040.945,
       "dayLow": 60040.082,
-      "volume": 29577082880,
+      "volume": 27416715264,
       "source": "Yahoo Finance (chart API)"
     },
     "BWE.OL": {
@@ -927,12 +927,12 @@
       "price": 520,
       "currency": "SEK",
       "exchange": "Stockholm",
-      "marketTime": "2026-11-26T16:29:39.000Z",
+      "marketTime": "2026-11-26T16:29:38.000Z",
       "marketState": null,
       "previousClose": 519,
       "dayHigh": 526,
       "dayLow": 518.5,
-      "volume": 59455,
+      "volume": 59831,
       "source": "Yahoo Finance (chart API)"
     },
     "CLSK": {
@@ -982,9 +982,9 @@
       "marketTime": "2026-11-26T16:29:46.000Z",
       "marketState": null,
       "previousClose": 20.424999237060547,
-      "dayHigh": 21.05,
+      "dayHigh": 21.1,
       "dayLow": 20.505,
-      "volume": 665614,
+      "volume": 663018,
       "source": "Yahoo Finance (chart API)"
     },
     "COHR": {
@@ -1023,7 +1023,7 @@
       "previousClose": 507,
       "dayHigh": 513.8,
       "dayLow": 505.4,
-      "volume": 389636,
+      "volume": 389870,
       "source": "Yahoo Finance (chart API)"
     },
     "COO": {
@@ -1234,7 +1234,7 @@
       "previousClose": 22.459999084472656,
       "dayHigh": 23.02,
       "dayLow": 22.66,
-      "volume": 273620,
+      "volume": 271344,
       "source": "Yahoo Finance (chart API)"
     },
     "DSV.CO": {
@@ -1273,7 +1273,7 @@
       "previousClose": 45.349998474121094,
       "dayHigh": 46.65,
       "dayLow": 45.35,
-      "volume": 262883,
+      "volume": 263441,
       "source": "Yahoo Finance (chart API)"
     },
     "EG7.ST": {
@@ -1299,7 +1299,7 @@
       "previousClose": 11.140000343322754,
       "dayHigh": 11.16,
       "dayLow": 11.1,
-      "volume": 1101516,
+      "volume": 1106528,
       "source": "Yahoo Finance (chart API)"
     },
     "EKTA-B.ST": {
@@ -1312,7 +1312,7 @@
       "previousClose": 60.599998474121094,
       "dayHigh": 61.75,
       "dayLow": 59.35,
-      "volume": 2219606,
+      "volume": 2231165,
       "source": "Yahoo Finance (chart API)"
     },
     "ELUX-B.ST": {
@@ -1325,7 +1325,7 @@
       "previousClose": 29.260000228881836,
       "dayHigh": 30.08,
       "dayLow": 29.58,
-      "volume": 1653295,
+      "volume": 1658531,
       "source": "Yahoo Finance (chart API)"
     },
     "EMBRAC-B.ST": {
@@ -1364,7 +1364,7 @@
       "previousClose": 289.20001220703125,
       "dayHigh": 303.2,
       "dayLow": 294.4,
-      "volume": 1213490,
+      "volume": 1213993,
       "source": "Yahoo Finance (chart API)"
     },
     "ERIC-B.ST": {
@@ -1377,20 +1377,20 @@
       "previousClose": 103.0999984741211,
       "dayHigh": 105.65,
       "dayLow": 104.7,
-      "volume": 3000351,
+      "volume": 2998134,
       "source": "Yahoo Finance (chart API)"
     },
     "ETH-USD": {
       "symbol": "ETH-USD",
-      "price": 1689.74,
+      "price": 1689.65,
       "currency": "USD",
       "exchange": "CCC",
-      "marketTime": "2026-11-26T16:45:35.000Z",
+      "marketTime": "2026-11-26T17:41:08.000Z",
       "marketState": null,
       "previousClose": 1690.76904296875,
       "dayHigh": 1708.4446,
       "dayLow": 1672.7664,
-      "volume": 9851102208,
+      "volume": 9306150912,
       "source": "Yahoo Finance (chart API)"
     },
     "EVCM": {
@@ -1416,7 +1416,7 @@
       "previousClose": 877.4000244140625,
       "dayHigh": 893,
       "dayLow": 874.8,
-      "volume": 309296,
+      "volume": 310008,
       "source": "Yahoo Finance (chart API)"
     },
     "FITB": {
@@ -1455,7 +1455,7 @@
       "previousClose": 23.700000762939453,
       "dayHigh": 25.1,
       "dayLow": 23.9,
-      "volume": 14798,
+      "volume": 14568,
       "source": "Yahoo Finance (chart API)"
     },
     "FN": {
@@ -1481,7 +1481,7 @@
       "previousClose": 21.809999465942383,
       "dayHigh": 22.14,
       "dayLow": 21.68,
-      "volume": 863713,
+      "volume": 863369,
       "source": "Yahoo Finance (chart API)"
     },
     "FRO.OL": {
@@ -1520,7 +1520,7 @@
       "previousClose": 281.20001220703125,
       "dayHigh": 285,
       "dayLow": 281.8,
-      "volume": 188088,
+      "volume": 188288,
       "source": "Yahoo Finance (chart API)"
     },
     "GMAB.CO": {
@@ -1533,7 +1533,7 @@
       "previousClose": 3771,
       "dayHigh": 3886,
       "dayLow": 3822,
-      "volume": 89417,
+      "volume": 89683,
       "source": "Yahoo Finance (chart API)"
     },
     "GOOGL": {
@@ -1559,7 +1559,7 @@
       "previousClose": 18,
       "dayHigh": 18.42,
       "dayLow": 17.82,
-      "volume": 60361,
+      "volume": 59978,
       "source": "Yahoo Finance (chart API)"
     },
     "GS": {
@@ -1598,7 +1598,7 @@
       "previousClose": 85.55000305175781,
       "dayHigh": 87.5,
       "dayLow": 86.35,
-      "volume": 340907,
+      "volume": 344321,
       "source": "Yahoo Finance (chart API)"
     },
     "HAYPP.ST": {
@@ -1611,7 +1611,7 @@
       "previousClose": 140.1999969482422,
       "dayHigh": 144,
       "dayLow": 140.4,
-      "volume": 11015,
+      "volume": 11017,
       "source": "Yahoo Finance (chart API)"
     },
     "HD": {
@@ -1689,7 +1689,7 @@
       "previousClose": 46.7400016784668,
       "dayHigh": 48.38,
       "dayLow": 46.72,
-      "volume": 629579,
+      "volume": 629808,
       "source": "Yahoo Finance (chart API)"
     },
     "HOFI.ST": {
@@ -1768,9 +1768,9 @@
       "marketTime": "2026-11-26T16:29:35.000Z",
       "marketState": null,
       "previousClose": 57.5,
-      "dayHigh": 59,
+      "dayHigh": 58.9,
       "dayLow": 56.8,
-      "volume": 21638,
+      "volume": 21546,
       "source": "Yahoo Finance (chart API)"
     },
     "INGM": {
@@ -1913,7 +1913,7 @@
       "previousClose": 281,
       "dayHigh": 289,
       "dayLow": 281,
-      "volume": 5782,
+      "volume": 5700,
       "source": "Yahoo Finance (chart API)"
     },
     "KAR.ST": {
@@ -2056,7 +2056,7 @@
       "previousClose": 281,
       "dayHigh": 287.2,
       "dayLow": 284.8,
-      "volume": 272427,
+      "volume": 272210,
       "source": "Yahoo Finance (chart API)"
     },
     "LOGI-B.ST": {
@@ -2069,7 +2069,7 @@
       "previousClose": 15.539999961853027,
       "dayHigh": 16.2,
       "dayLow": 15.54,
-      "volume": 1761864,
+      "volume": 1759092,
       "source": "Yahoo Finance (chart API)"
     },
     "LOOMIS.ST": {
@@ -2147,7 +2147,7 @@
       "previousClose": 18995,
       "dayHigh": 19500,
       "dayLow": 19060,
-      "volume": 13511,
+      "volume": 13555,
       "source": "Yahoo Finance (chart API)"
     },
     "MARA": {
@@ -2185,7 +2185,7 @@
       "marketState": null,
       "previousClose": 96.12999725341797,
       "dayHigh": 97.155,
-      "dayLow": 94.14,
+      "dayLow": 94.125,
       "volume": 11495929,
       "source": "Yahoo Finance (chart API)"
     },
@@ -2197,7 +2197,7 @@
       "marketTime": "2026-11-25T21:00:02.000Z",
       "marketState": null,
       "previousClose": 589.8200073242188,
-      "dayHigh": 611.055,
+      "dayHigh": 611.03,
       "dayLow": 567.75,
       "volume": 18558019,
       "source": "Yahoo Finance (chart API)"
@@ -2314,7 +2314,7 @@
       "marketTime": "2026-11-25T21:00:02.000Z",
       "marketState": null,
       "previousClose": 629.7899780273438,
-      "dayHigh": 604.945,
+      "dayHigh": 604.94,
       "dayLow": 548.13,
       "volume": 52310650,
       "source": "Yahoo Finance (chart API)"
@@ -2329,7 +2329,7 @@
       "previousClose": 33.79999923706055,
       "dayHigh": 35.2,
       "dayLow": 34.25,
-      "volume": 364942,
+      "volume": 364240,
       "source": "Yahoo Finance (chart API)"
     },
     "NBIS": {
@@ -2355,7 +2355,7 @@
       "previousClose": 177.1999969482422,
       "dayHigh": 181.5,
       "dayLow": 180.15,
-      "volume": 1449427,
+      "volume": 1448693,
       "source": "Yahoo Finance (chart API)"
     },
     "NEL.OL": {
@@ -2367,7 +2367,7 @@
       "marketState": null,
       "previousClose": 1.74399995803833,
       "dayHigh": 1.78,
-      "dayLow": 1.728,
+      "dayLow": 1.73,
       "volume": 844122,
       "source": "Yahoo Finance (chart API)"
     },
@@ -2433,7 +2433,7 @@
       "previousClose": 44.060001373291016,
       "dayHigh": 45.42,
       "dayLow": 44.58,
-      "volume": 3646595,
+      "volume": 3647501,
       "source": "Yahoo Finance (chart API)"
     },
     "NKE": {
@@ -2467,12 +2467,12 @@
       "price": 10.596,
       "currency": "SEK",
       "exchange": "Stockholm",
-      "marketTime": "2026-11-26T16:29:46.000Z",
+      "marketTime": "2026-11-26T16:29:45.000Z",
       "marketState": null,
       "previousClose": 10.281999588012695,
       "dayHigh": 10.726,
       "dayLow": 10.334,
-      "volume": 297686,
+      "volume": 297989,
       "source": "Yahoo Finance (chart API)"
     },
     "NOKIA.HE": {
@@ -2540,7 +2540,7 @@
       "previousClose": 235,
       "dayHigh": 242,
       "dayLow": 235.5,
-      "volume": 27961,
+      "volume": 27753,
       "source": "Yahoo Finance (chart API)"
     },
     "NRS.OL": {
@@ -2674,7 +2674,7 @@
       "previousClose": 3.190000057220459,
       "dayHigh": 3.3,
       "dayLow": 3.2,
-      "volume": 93794,
+      "volume": 93907,
       "source": "Yahoo Finance (chart API)"
     },
     "OXY": {
@@ -3051,7 +3051,7 @@
       "previousClose": 1.659999966621399,
       "dayHigh": 1.665,
       "dayLow": 1.66,
-      "volume": 126600,
+      "volume": 126631,
       "source": "Yahoo Finance (chart API)"
     },
     "SALM.OL": {
@@ -3103,7 +3103,7 @@
       "previousClose": 180,
       "dayHigh": 181.8,
       "dayLow": 176,
-      "volume": 75342,
+      "volume": 75165,
       "source": "Yahoo Finance (chart API)"
     },
     "SF.ST": {
@@ -3116,7 +3116,7 @@
       "previousClose": 6.105000019073486,
       "dayHigh": 6.39,
       "dayLow": 6.065,
-      "volume": 668608,
+      "volume": 672934,
       "source": "Yahoo Finance (chart API)"
     },
     "SINCH.ST": {
@@ -3129,7 +3129,7 @@
       "previousClose": 39.220001220703125,
       "dayHigh": 41.07,
       "dayLow": 39.78,
-      "volume": 1086669,
+      "volume": 1081440,
       "source": "Yahoo Finance (chart API)"
     },
     "SITE": {
@@ -3140,7 +3140,7 @@
       "marketTime": "2026-11-25T21:00:02.000Z",
       "marketState": null,
       "previousClose": 113.2300033569336,
-      "dayHigh": 116.802,
+      "dayHigh": 116.81,
       "dayLow": 111.52,
       "volume": 572654,
       "source": "Yahoo Finance (chart API)"
@@ -3168,7 +3168,7 @@
       "previousClose": 263.3999938964844,
       "dayHigh": 263.3,
       "dayLow": 254.9,
-      "volume": 2439382,
+      "volume": 2437815,
       "source": "Yahoo Finance (chart API)"
     },
     "SKHY": {
@@ -3220,7 +3220,7 @@
       "previousClose": 494.3999938964844,
       "dayHigh": 505.5,
       "dayLow": 496.2,
-      "volume": 734354,
+      "volume": 732186,
       "source": "Yahoo Finance (chart API)"
     },
     "SOFI": {
@@ -3285,7 +3285,7 @@
       "previousClose": 0.09070000052452087,
       "dayHigh": 0.0911,
       "dayLow": 0.0892,
-      "volume": 1026370,
+      "volume": 1026049,
       "source": "Yahoo Finance (chart API)"
     },
     "SUBC.OL": {
@@ -3311,7 +3311,7 @@
       "previousClose": 397.1000061035156,
       "dayHigh": 406.8,
       "dayLow": 403.7,
-      "volume": 832122,
+      "volume": 831468,
       "source": "Yahoo Finance (chart API)"
     },
     "SYNA": {
@@ -3388,7 +3388,7 @@
       "marketState": null,
       "previousClose": 176.05999755859375,
       "dayHigh": 175.76,
-      "dayLow": 170.36,
+      "dayLow": 170.43,
       "volume": 5077383,
       "source": "Yahoo Finance (chart API)"
     },
@@ -3402,7 +3402,7 @@
       "previousClose": 209,
       "dayHigh": 213.2,
       "dayLow": 210.6,
-      "volume": 140978,
+      "volume": 141472,
       "source": "Yahoo Finance (chart API)"
     },
     "TLX": {
@@ -3519,7 +3519,7 @@
       "previousClose": 21.65999984741211,
       "dayHigh": 22.06,
       "dayLow": 21.68,
-      "volume": 670421,
+      "volume": 672503,
       "source": "Yahoo Finance (chart API)"
     },
     "USB": {
@@ -3537,10 +3537,10 @@
     },
     "USDSEK=X": {
       "symbol": "USDSEK=X",
-      "price": 10.2227,
+      "price": 10.2144,
       "currency": "SEK",
       "exchange": "CCY",
-      "marketTime": "2026-11-26T16:46:36.000Z",
+      "marketTime": "2026-11-26T17:42:13.000Z",
       "marketState": null,
       "previousClose": 10.244239807128906,
       "dayHigh": 10.247,
@@ -3597,7 +3597,7 @@
       "previousClose": 9.85200023651123,
       "dayHigh": 10.405,
       "dayLow": 10.005,
-      "volume": 5519221,
+      "volume": 5519218,
       "source": "Yahoo Finance (chart API)"
     },
     "VOW.OL": {
@@ -3623,7 +3623,7 @@
       "previousClose": 1.0770000219345093,
       "dayHigh": 1.11,
       "dayLow": 1.085,
-      "volume": 2889140,
+      "volume": 2877988,
       "source": "Yahoo Finance (chart API)"
     },
     "VRT": {
