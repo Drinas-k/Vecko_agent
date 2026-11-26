@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:46:31.229Z",
+  "generatedAt": "2026-11-26T03:31:56.683Z",
   "source": "Yahoo Finance chart API via GitHub Actions",
   "schemaVersion": "2026-08-02-prevclose",
   "wideAt": "2026-11-26T00:44:15.646Z",
@@ -729,15 +729,15 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 60685.62,
+      "price": 60588.46,
       "currency": "USD",
       "exchange": "CCC",
-      "marketTime": "2026-11-26T01:45:02.000Z",
+      "marketTime": "2026-11-26T03:30:35.000Z",
       "marketState": null,
       "previousClose": 59747.765625,
       "dayHigh": 61040.945,
       "dayLow": 60324.977,
-      "volume": 41726296064,
+      "volume": 41015676928,
       "source": "Yahoo Finance (chart API)"
     },
     "BWE.OL": {
@@ -1379,15 +1379,15 @@
     },
     "ETH-USD": {
       "symbol": "ETH-USD",
-      "price": 1698.78,
+      "price": 1691.78,
       "currency": "USD",
       "exchange": "CCC",
-      "marketTime": "2026-11-26T01:45:17.000Z",
+      "marketTime": "2026-11-26T03:30:50.000Z",
       "marketState": null,
       "previousClose": 1677.69482421875,
       "dayHigh": 1708.4446,
       "dayLow": 1689.4456,
-      "volume": 13906533376,
+      "volume": 13579161600,
       "source": "Yahoo Finance (chart API)"
     },
     "EVCM": {
@@ -3531,13 +3531,13 @@
     },
     "USDSEK=X": {
       "symbol": "USDSEK=X",
-      "price": 10.2416,
+      "price": 10.2414,
       "currency": "SEK",
       "exchange": "CCY",
-      "marketTime": "2026-11-26T01:46:21.000Z",
+      "marketTime": "2026-11-26T03:31:47.000Z",
       "marketState": null,
       "previousClose": 10.244239807128906,
-      "dayHigh": 10.243,
+      "dayHigh": 10.2432,
       "dayLow": 10.2066,
       "volume": 0,
       "source": "Yahoo Finance (chart API)"
@@ -3862,8 +3862,8 @@
       "marketTime": "2026-11-25T16:35:01.000Z",
       "marketState": null,
       "previousClose": 3214.139892578125,
-      "dayHigh": 3241.3313,
-      "dayLow": 3187.9673,
+      "dayHigh": 0,
+      "dayLow": 0,
       "volume": 0,
       "source": "Yahoo Finance (chart API)"
     }
