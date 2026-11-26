@@ -2696,6 +2696,44 @@
       "decidedBy": "reports/us_daily/us-daglig-261125.md",
       "decidedAt": "2026-11-25",
       "decisionReason": "kurs ej verifierbar – price null, rapporttiden ej verifierad sa 99,62 kan vara pre-event; aven regimen av – inga nya positioner (^GSPC -2,04 % under MA200)"
+    },
+    {
+      "id": "261126-HPQ",
+      "date": "2026-11-26",
+      "ticker": "HPQ",
+      "book": "us",
+      "source": "scout",
+      "catalystType": "earnings",
+      "catalystDate": "2026-11-24",
+      "confirmed": true,
+      "thesis": "Bekraftad Q4 FY26 (24/11 AMC): just. EPS 0,83 over egen guide 0,69-0,79, intakt 16,0 mdr (+9,3 %), FY27-guide EPS 3,15-3,45, FCF 2,9-3,1 mdr. Reaktion 25/11 +11,49 % pa 2,72x volym, 22,8 % over MA200. Bear: 0,15 kr/aktie av slaget var tullaterbetalning; regim av.",
+      "sourceRef": "HP Inc Q4 FY26 (2026-11-24); Benzinga, Proactive Investors, Quantisnow 2026-11-25, websok 2026-11-26. Kurs: prices.json/Yahoo chart API.",
+      "price": 31.15,
+      "priceAsOf": "2026-11-25T21:00:03.000Z",
+      "status": "new",
+      "expiresAt": "2026-12-03",
+      "decidedBy": null,
+      "decidedAt": null,
+      "decisionReason": null
+    },
+    {
+      "id": "261126-DE",
+      "date": "2026-11-26",
+      "ticker": "DE",
+      "book": "us",
+      "source": "scout",
+      "catalystType": "earnings",
+      "catalystDate": "2026-11-25",
+      "confirmed": true,
+      "thesis": "Bekraftad Q4 FY26 (25/11 fore oppning): nettovinst 1,051 mdr (3,89/aktie mot 3,93), intakt -2 %, FY27-guide nettovinst 4,5-5,25 mdr mot vantade 5,91. Vande fran ca -6 % fore oppning till +4,44 % (641,02, 1,79x volym), 4,1 % over MA200. Bear: svag guide, under MA50; regim av.",
+      "sourceRef": "Deere via StockAnalysis, Kalkine, Yahoo Finance 2026-11-25, websok 2026-11-26. Kurs: prices.json/Yahoo chart API (reguljar stangning efter rapport fore oppning).",
+      "price": 641.02,
+      "priceAsOf": "2026-11-25T21:00:02.000Z",
+      "status": "new",
+      "expiresAt": "2026-12-03",
+      "decidedBy": null,
+      "decidedAt": null,
+      "decisionReason": null
     }
   ]
 }
