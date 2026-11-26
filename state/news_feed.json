@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-11-26T01:00:14.411Z",
+ "generatedAt": "2026-11-26T15:23:45.377Z",
  "feeds": {
-  "globenewswire": "20 poster",
-  "globenewswire-earnings": "20 poster",
+  "globenewswire": "HTTP 403 – båda försöken (0.1 s)",
+  "globenewswire-earnings": "HTTP 403 – båda försöken (0.1 s)",
   "prnewswire": "20 poster",
   "mfn": "48 poster",
   "sec-8k": "40 poster",
   "fed-press": "20 poster"
  },
- "count": 890,
+ "count": 938,
  "window": {
   "tradingDays": 10,
-  "oldest": "2026-11-12",
+  "oldest": "2026-11-13",
   "newest": "2026-11-26",
-  "distinctDays": 12,
+  "distinctDays": 11,
   "tradingDaysCovered": 10,
   "missingDays": [],
   "perDay": {
-   "2026-11-26": 9,
+   "2026-11-26": 59,
    "2026-11-25": 114,
    "2026-11-24": 97,
    "2026-11-23": 101,
@@ -27,19 +27,318 @@
    "2026-11-17": 90,
    "2026-11-16": 90,
    "2026-11-14": 4,
-   "2026-11-13": 91,
-   "2026-11-12": 2
+   "2026-11-13": 91
   },
   "perSource": {
+   "prnewswire": 292,
+   "mfn": 300,
    "globenewswire": 38,
-   "prnewswire": 272,
-   "mfn": 270,
-   "sec-8k": 272,
+   "sec-8k": 270,
    "fed-press": 8,
    "globenewswire-earnings": 30
   }
  },
  "items": [
+  {
+   "t": "Pharmaceutical Membrane Filtration Market worth $21.65 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+   "u": "https://www.prnewswire.com/news-releases/pharmaceutical-membrane-filtration-market-worth-21-65-billion-by-2031---exclusive-report-by-marketsandmarkets-302951164.html",
+   "d": "2026-11-26T15:16:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Families of Babies Sickened in ByHeart Botulism Outbreak Move to Sue Founders Ron Belldegrun and Mia Funt Personally",
+   "u": "https://www.prnewswire.com/news-releases/families-of-babies-sickened-in-byheart-botulism-outbreak-move-to-sue-founders-ron-belldegrun-and-mia-funt-personally-302951042.html",
+   "d": "2026-11-26T15:15:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Jæren Sparebank: Godkjennelse og publisering av prospekt og beslutning om lansering av reparasjonsemisjon og ansatteemisjon",
+   "u": "https://mfn.se/ob/a/jaeren-sparebank/jaeren-sparebank-godkjennelse-og-publisering-av-prospekt-og-beslutning-om-lansering-av-reparasjonsemisjon-og-ansatteemisjon-d12ab55c",
+   "d": "2026-11-26T15:12:47.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Columbia University's Japanese Culture Center Rebuilds Website With Digital Silk to Open Three Decades of Lectures to the Public",
+   "u": "https://www.prnewswire.com/news-releases/columbia-universitys-japanese-culture-center-rebuilds-website-with-digital-silk-to-open-three-decades-of-lectures-to-the-public-302951221.html",
+   "d": "2026-11-26T15:09:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Black Friday Cruise Deals: Up to 40% off and Kids Sail Free With MSC Cruises",
+   "u": "https://www.prnewswire.com/news-releases/black-friday-cruise-deals-up-to-40-off-and-kids-sail-free-with-msc-cruises-302950539.html",
+   "d": "2026-11-26T15:06:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "L'aile China World Summit de l'hôtel Shangri-La à Pékin marque un nouveau chapitre pour la marque avec son projet de construction verticale jusqu'en 2026.",
+   "u": "https://www.prnewswire.com/news-releases/laile-china-world-summit-de-lhotel-shangri-la-a-pekin-marque-un-nouveau-chapitre-pour-la-marque-avec-son-projet-de-construction-verticale-jusquen-2026-302951300.html",
+   "d": "2026-11-26T15:06:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "China World Summit Wing, Peking, ein Shangri-La Hotel, markiert ein neues Markenkapitel mit dem Vertical Run 2026",
+   "u": "https://www.prnewswire.com/news-releases/china-world-summit-wing-peking-ein-shangri-la-hotel-markiert-ein-neues-markenkapitel-mit-dem-vertical-run-2026-302951301.html",
+   "d": "2026-11-26T15:06:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "LSEG Finance plc announces increase in Maximum Acceptance Amount and results of its tender offer",
+   "u": "https://www.prnewswire.com/news-releases/lseg-finance-plc-announces-increase-in-maximum-acceptance-amount-and-results-of-its-tender-offer-302951299.html",
+   "d": "2026-11-26T15:05:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Ionis Pharmaceuticals, Inc. - IONS",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-ionis-pharmaceuticals-inc---ions-302949042.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of ServiceNow, Inc. - NOW",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-servicenow-inc---now-302949107.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Aurora Innovation, Inc. - AUR",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-aurora-innovation-inc---aur-302949043.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Securitize Corp. - SECZ",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-securitize-corp--secz-302949048.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Once Upon a Farm, PBC - OFRM",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-once-upon-a-farm-pbc---ofrm-302949058.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Krystal Biotech, Inc. - KRYS",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-krystal-biotech-inc---krys-302949069.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of LKQ Corporation - LKQ",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-lkq-corporation---lkq-302949051.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Alnylam Pharmaceuticals, Inc. - ALNY",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-alnylam-pharmaceuticals-inc---alny-302949037.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of TriNet Group, Inc. - TNET",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-trinet-group-inc---tnet-302949052.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Babcock & Wilcox Enterprises, Inc. of Class Action Lawsuit - BW",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-babcock--wilcox-enterprises-inc-of-class-action-lawsuit---bw-302949045.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Iovance Biotherapeutics, Inc. - IOVA",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-iovance-biotherapeutics-inc---iova-302949034.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Caterpillar Inc. - CAT",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-caterpillar-inc---cat-302949047.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of HCA Healthcare, Inc. - HCA",
+   "u": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-hca-healthcare-inc--hca-302949039.html",
+   "d": "2026-11-26T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Changes to the maximum number of shares payable as rewards under Revenio Group Corporation’s share-based incentive plans",
+   "u": "https://mfn.se/a/revenio-group/changes-to-the-maximum-number-of-shares-payable-as-rewards-under-revenio-group-corporations-share-based-incentive-plans",
+   "d": "2026-11-26T15:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Muutoksia Revenio Group Oyj:n osakepalkkiojärjestelmien perusteella maksettavien osakepalkkioiden enimmäismäärissä",
+   "u": "https://mfn.se/a/revenio-group/muutoksia-revenio-group-oyj-n-osakepalkkiojarjestelmien-perusteella-maksettavien-osakepalkkioiden-enimmaismaarissa",
+   "d": "2026-11-26T15:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Notice of Extraordinary General Meeting in K33 AB (publ)",
+   "u": "https://mfn.se/a/k33/notice-of-extraordinary-general-meeting-in-k33-ab-publ-3",
+   "d": "2026-11-26T14:58:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "GreenMobility: Transactions under share buy-back programme",
+   "u": "https://mfn.se/ind/a/greenmobility/greenmobility-transactions-under-share-buy-back-programme-b06c27de",
+   "d": "2026-11-26T14:45:45.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Gabather AB: First patient dosed in Gabather's Phase II TOTEMS study of GT-002",
+   "u": "https://mfn.se/cis/a/gabather/gabather-ab-first-patient-dosed-in-gabathers-phase-ii-totems-study-of-gt-002-29608da2",
+   "d": "2026-11-26T14:45:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Aira lanserar Aira för Visma Spiris och växer från en till två av Sveriges största ekonomiplattformar",
+   "u": "https://mfn.se/a/aira/aira-lanserar-aira-for-visma-spiris-och-vaxer-fran-en-till-tva-av-sveriges-storsta-ekonomiplattformar",
+   "d": "2026-11-26T14:45:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Aira launches Aira for Visma Spiris, expanding from one to two of Sweden's largest accounting platforms",
+   "u": "https://mfn.se/a/aira/aira-launches-aira-for-visma-spiris-expanding-from-one-to-two-of-swedens-largest-accounting-platforms",
+   "d": "2026-11-26T14:45:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Magle Chemoswed Holding AB (publ) announces successful completion of the written procedure in relation to its super senior secured fixed rate bonds",
+   "u": "https://mfn.se/a/magle-chemoswed/magle-chemoswed-holding-ab-publ-announces-successful-completion-of-the-written-procedure-in-relation-to-its-super-senior-secured-fixed-rate-bonds",
+   "d": "2026-11-26T14:45:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Insplorion AB: Insplorion fastställer avstämningsdag för sakutdelning av aktier i Insplorion RTO AB och Altera Invest AB",
+   "u": "https://mfn.se/cis/a/insplorion/insplorion-ab-insplorion-faststaller-avstamningsdag-for-sakutdelning-av-aktier-i-insplorion-rto-ab-och-altera-invest-ab-4b637555",
+   "d": "2026-11-26T14:41:22.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "PPI PUBLIC PROPERTY INVEST AB (PUBL) OFFENTLIGGÖR TILLÄGG TILL ERBJUDANDEHANDLINGEN AVSEENDE DET OFFENTLIGA UPPKÖPSERBJUDANDET TILL AKTIEÄGARNA I PRESERVIUM PROPERTY AB",
+   "u": "https://mfn.se/a/ppi-public-property-invest/ppi-public-property-invest-ab-publ-offentliggor-tillagg-till-erbjudandehandlingen-avseende-det-offentliga-uppkopserbjudandet-till-aktieagarna-i-preservium-property-ab",
+   "d": "2026-11-26T14:40:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "PPI PUBLIC PROPERTY INVEST AB (PUBL) PUBLISHES SUPPLEMENT TO THE OFFER DOCUMENT REGARDING THE PUBLIC OFFER TO THE SHAREHOLDERS OF PRESERVIUM PROPERTY AB",
+   "u": "https://mfn.se/a/ppi-public-property-invest/ppi-public-property-invest-ab-publ-publishes-supplement-to-the-offer-document-regarding-the-public-offer-to-the-shareholders-of-preservium-property-ab",
+   "d": "2026-11-26T14:40:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "INDEXO akciju publiskais piedāvājums Baltijā sāksies 27. novembrī",
+   "u": "https://mfn.se/a/indexo/indexo-akciju-publiskais-piedavajums-baltija-saksies-27-novembri",
+   "d": "2026-11-26T14:38:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "INDEXO’s public share offering in the Baltics will begin on 27 November",
+   "u": "https://mfn.se/a/indexo/indexos-public-share-offering-in-the-baltics-will-begin-on-27-november",
+   "d": "2026-11-26T14:38:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Egnsinvest Ejendomme Tyskland begynder et strategisk frasalg af ejendomme",
+   "u": "https://mfn.se/ind/a/egnsinvest-ejendomme-tyskland/egnsinvest-ejendomme-tyskland-begynder-et-strategisk-frasalg-af-ejendomme-fdafe888",
+   "d": "2026-11-26T14:36:51.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Toivo Group Oyj on käynnistänyt noin 13 miljoonan euron omistusasuntohankkeen Helsingin Verkkosaaressa",
+   "u": "https://mfn.se/ind/a/toivo-group/toivo-group-oyj-on-kaynnistanyt-noin-13-miljoonan-euron-omistusasuntohankkeen-helsingin-verkkosaaressa-80e8bd7f",
+   "d": "2026-11-26T14:30:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Toivo Group Plc has launched an approximately EUR 13 million owner-occupied housing project in Verkkosaari, Helsinki",
+   "u": "https://mfn.se/ind/a/toivo-group/toivo-group-plc-has-launched-an-approximately-eur-13-million-owner-occupied-housing-project-in-verkkosaari-helsinki-bf4f8317",
+   "d": "2026-11-26T14:30:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Scandinavian Enviro Systems applies for a further extension of its company reorganisation",
+   "u": "https://mfn.se/a/scandinavian-enviro-systems/scandinavian-enviro-systems-applies-for-a-further-extension-of-its-company-reorganisation-1",
+   "d": "2026-11-26T14:14:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Scandinavian Enviro Systems ansöker om ytterligare förlängning av företagsrekonstruktionen",
+   "u": "https://mfn.se/a/scandinavian-enviro-systems/scandinavian-enviro-systems-ansoker-om-ytterligare-forlangning-av-foretagsrekonstruktionen-1",
+   "d": "2026-11-26T14:14:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Danske Andelskassers Bank A/S udsteder Supplerende Kapital (Tier 2)",
+   "u": "https://mfn.se/one/a/danske-andelskassers-bank/danske-andelskassers-bank-a-s-udsteder-supplerende-kapital-tier-2-4f710411",
+   "d": "2026-11-26T14:13:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Fjord Defence Group ASA - Mandatory notification of trade",
+   "u": "https://mfn.se/ob/a/fjord-defence-group/fjord-defence-group-asa-mandatory-notification-of-trade-d2ad4e40",
+   "d": "2026-11-26T14:11:49.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Subsea7 awarded contract extension offshore Norway",
+   "u": "https://mfn.se/one/a/subsea-7/subsea7-awarded-contract-extension-offshore-norway-86b20109",
+   "d": "2026-11-26T14:08:50.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "EgnsINVEST Ejendomme Tyskland A/S - Successivt salg af ejendomme – ny strategi",
+   "u": "https://mfn.se/ind/a/egnsinvest-ejendomme-tyskland/egnsinvest-ejendomme-tyskland-a-s-successivt-salg-af-ejendomme-ny-strategi-356ed94d",
+   "d": "2026-11-26T14:02:06.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Oma Savings Bank Plc will not publish Sustainability Report in accordance with the CSRD",
+   "u": "https://mfn.se/one/a/oma-saastopankki/oma-savings-bank-plc-will-not-publish-sustainability-report-in-accordance-with-the-csrd-910c4aa6",
+   "d": "2026-11-26T14:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Oma Säästöpankki Oyj ei julkaise CSRD:n mukaista kestävyysraporttia",
+   "u": "https://mfn.se/one/a/oma-saastopankki/oma-saastopankki-oyj-ei-julkaise-csrd-n-mukaista-kestavyysraporttia-3f2b24a3",
+   "d": "2026-11-26T14:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "BNOR: NOTIFICATION OF MAJOR HOLDINGS",
+   "u": "https://mfn.se/ob/a/bluenord/bnor-notification-of-major-holdings-2a1bd95e",
+   "d": "2026-11-26T13:58:04.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Gentoo Media - Notification of trade",
+   "u": "https://mfn.se/cis/a/gentoo-media/gentoo-media-notification-of-trade-3d99601b",
+   "d": "2026-11-26T13:48:16.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "DPM Metals to Host Investor Day on December 8, 2026",
+   "u": "https://mfn.se/one/a/dpm-metals/dpm-metals-to-host-investor-day-on-december-8-2026-01ebb997",
+   "d": "2026-11-26T13:47:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Kommuniké från extra bolagsstämma i Tourn International AB (publ)",
+   "u": "https://mfn.se/cis/a/tourn-international/kommunike-fran-extra-bolagsstamma-i-tourn-international-ab-publ-bba61c0e",
+   "d": "2026-11-26T13:34:44.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Fable Media Group: Notice of Extraordinary General Meeting",
+   "u": "https://mfn.se/cis/a/fable-media-group/fable-media-group-notice-of-extraordinary-general-meeting-f176cb11",
+   "d": "2026-11-26T13:34:32.000Z",
+   "src": "mfn"
+  },
   {
    "t": "Celularity Provides Update Regarding Nasdaq Listing Compliance",
    "u": "https://www.globenewswire.com/news-release/2026/11/26/3410644/0/en/celularity-provides-update-regarding-nasdaq-listing-compliance.html",
@@ -5367,18 +5666,6 @@
    "u": "https://mfn.se/one/a/klepierre/klepierre-disclosure-of-transactions-in-own-shares-from-november-6-to-13-2026-fa5a20c8",
    "d": "2026-11-13T17:08:31.000Z",
    "src": "mfn"
-  },
-  {
-   "t": "8-K - MOODYS CORP /DE/ (0001059556) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1059556/000162828026073528/0001628280-26-073528-index.htm",
-   "d": "2026-11-12T23:23:04.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K - IMMUCELL CORP /DE/ (0000811641) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/811641/000143774926036629/0001437749-26-036629-index.htm",
-   "d": "2026-11-12T23:15:30.000Z",
-   "src": "sec-8k"
   }
  ]
 }
