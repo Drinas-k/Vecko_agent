@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T01:01:56.325Z",
+ "generatedAt": "2026-11-27T15:11:19.860Z",
  "feeds": {
   "globenewswire": "HTTP 403 – båda försöken (0.1 s)",
   "globenewswire-earnings": "HTTP 403 – båda försöken (0.1 s)",
@@ -8,7 +8,7 @@
   "sec-8k": "40 poster",
   "fed-press": "20 poster"
  },
- "count": 850,
+ "count": 912,
  "window": {
   "tradingDays": 10,
   "oldest": "2026-11-16",
@@ -17,8 +17,8 @@
   "tradingDaysCovered": 10,
   "missingDays": [],
   "perDay": {
-   "2026-11-27": 4,
-   "2026-11-26": 62,
+   "2026-11-27": 64,
+   "2026-11-26": 64,
    "2026-11-25": 114,
    "2026-11-24": 97,
    "2026-11-23": 101,
@@ -29,26 +29,386 @@
    "2026-11-16": 90
   },
   "perSource": {
-   "prnewswire": 264,
-   "mfn": 271,
+   "prnewswire": 284,
+   "mfn": 300,
+   "sec-8k": 253,
    "globenewswire": 38,
-   "sec-8k": 240,
    "fed-press": 7,
    "globenewswire-earnings": 30
   }
  },
  "items": [
   {
+   "t": "D-Wave Quantum Inc. (QBTS) Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - Kessler Topaz Meltzer & Check, LLP",
+   "u": "https://www.prnewswire.com/news-releases/d-wave-quantum-inc-qbts-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit---kessler-topaz-meltzer--check-llp-302950587.html",
+   "d": "2026-11-27T15:10:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Lane Capital Group AB: Innehavet Virtual Gym har beslutat om företrädesemission om 2,8 Mkr för att lösa skulden till Norrlandsfonden",
+   "u": "https://mfn.se/cis/a/lane-capital-group/lane-capital-group-ab-innehavet-virtual-gym-har-beslutat-om-foretradesemission-om-2-8-mkr-for-att-losa-skulden-till-norrlandsfonden-8e0dd93b",
+   "d": "2026-11-27T15:09:56.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - Naploy Corp. (0001978111) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1978111/000168316826009153/0001683168-26-009153-index.htm",
+   "d": "2026-11-27T15:08:10.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "System Integration Services Market worth $802.09 billion by 2031 - Report by MarketsandMarkets™",
+   "u": "https://www.prnewswire.com/news-releases/system-integration-services-market-worth-802-09-billion-by-2031--report-by-marketsandmarkets-302951628.html",
+   "d": "2026-11-27T15:01:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Alligator Bioscience provides an update on the company's financial position",
+   "u": "https://mfn.se/a/alligator-bioscience/alligator-bioscience-provides-an-update-on-the-companys-financial-position",
+   "d": "2026-11-27T15:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Alligator Bioscience uppdaterar om bolagets finansiella situation",
+   "u": "https://mfn.se/a/alligator-bioscience/alligator-bioscience-uppdaterar-om-bolagets-finansiella-situation",
+   "d": "2026-11-27T15:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Trionas ansökan om avnotering har godkänts",
+   "u": "https://mfn.se/a/triona/trionas-ansokan-om-avnotering-har-godkants",
+   "d": "2026-11-27T15:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "SpareBank 1 Helgeland - Transaksjoner under og avslutning av tilbakekjøpsprogram for egne egenkapitalbevis",
+   "u": "https://mfn.se/ob/a/sparebank-1-helgeland/sparebank-1-helgeland-transaksjoner-under-og-avslutning-av-tilbakekjopsprogram-for-egne-egenkapitalbevis-18ef8a6c",
+   "d": "2026-11-27T14:57:53.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "BioArctic (Q3 review): Iqlik sets the stage for 2027",
+   "u": "https://mfn.se/a/redeye/bioarctic-q3-review-iqlik-sets-the-stage-for-2027",
+   "d": "2026-11-27T14:55:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1330399/000133039926000167/0001330399-26-000167-index.htm",
+   "d": "2026-11-27T14:53:02.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "China and New Zealand Renew Their 'Kiwi' Bond",
+   "u": "https://www.prnewswire.com/news-releases/china-and-new-zealand-renew-their-kiwi-bond-302951805.html",
+   "d": "2026-11-27T14:50:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Zoomlion presenta equipos eléctricos avanzados y soluciones energéticas integradas en bauma CHINA 2026",
+   "u": "https://www.prnewswire.com/news-releases/zoomlion-presenta-equipos-electricos-avanzados-y-soluciones-energeticas-integradas-en-bauma-china-2026-302951804.html",
+   "d": "2026-11-27T14:48:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Alligator Bioscience completes sale of mitazalimab to Biossil",
+   "u": "https://mfn.se/a/alligator-bioscience/alligator-bioscience-completes-sale-of-mitazalimab-to-biossil",
+   "d": "2026-11-27T14:45:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Alligator Bioscience slutför försäljningen av mitazalimab till Biossil",
+   "u": "https://mfn.se/a/alligator-bioscience/alligator-bioscience-slutfor-forsaljningen-av-mitazalimab-till-biossil",
+   "d": "2026-11-27T14:45:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000216/0001331465-26-000216-index.htm",
+   "d": "2026-11-27T14:44:27.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "Le cinquième Forum de Yan'an sur le développement rural explore le rôle de l'IA dans l'agriculture et les industries rurales.",
+   "u": "https://www.prnewswire.com/news-releases/le-cinquieme-forum-de-yanan-sur-le-developpement-rural-explore-le-role-de-lia-dans-lagriculture-et-les-industries-rurales-302951802.html",
+   "d": "2026-11-27T14:43:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "27 Jahre Erfahrung im Mobilbereich: TCL P80 Ultra wurde mit dem CES Innovation Award 2027 ausgezeichnet",
+   "u": "https://www.prnewswire.com/news-releases/27-jahre-erfahrung-im-mobilbereich-tcl-p80-ultra-wurde-mit-dem-ces-innovation-award-2027-ausgezeichnet-302951800.html",
+   "d": "2026-11-27T14:38:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "\"Panyu Action\" Delivers: Overseas Business Becomes GAC's Leading Growth Engine with Sixfold Growth in Three Years",
+   "u": "https://www.prnewswire.com/news-releases/panyu-action-delivers-overseas-business-becomes-gacs-leading-growth-engine-with-sixfold-growth-in-three-years-302951796.html",
+   "d": "2026-11-27T14:32:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "NeuroSense to Participate in the 9th Annual Evercore Healthcare Conference",
+   "u": "https://www.prnewswire.com/news-releases/neurosense-to-participate-in-the-9th-annual-evercore-healthcare-conference-302951797.html",
+   "d": "2026-11-27T14:32:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "OUTLT: Financial calendar",
+   "u": "https://mfn.se/ob/a/outlet-group-holding/outlt-financial-calendar-eedb7955",
+   "d": "2026-11-27T14:31:22.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Countdown to Cheer Returns to Mohegan Sun with a Month of Holiday Magic, Entertainment and Festive Experiences",
+   "u": "https://www.prnewswire.com/news-releases/countdown-to-cheer-returns-to-mohegan-sun-with-a-month-of-holiday-magic-entertainment-and-festive-experiences-302951757.html",
+   "d": "2026-11-27T14:30:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "El Quinto Foro de Yan'an sobre Desarrollo Rural explora el papel de la IA en agricultura e industria rural",
+   "u": "https://www.prnewswire.com/news-releases/el-quinto-foro-de-yanan-sobre-desarrollo-rural-explora-el-papel-de-la-ia-en-agricultura-e-industria-rural-302951794.html",
+   "d": "2026-11-27T14:30:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Smart Eye successfully places SEK 60,000,000 subsequent senior unsecured bonds",
+   "u": "https://mfn.se/a/smart-eye/smart-eye-successfully-places-sek-60-000-000-subsequent-senior-unsecured-bonds",
+   "d": "2026-11-27T14:30:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Smart Eye Aktiebolag (publ) genomför framgångsrikt placering av ytterligare icke-säkerställda seniora obligationer om 60 000 000 kronor",
+   "u": "https://mfn.se/a/smart-eye/smart-eye-aktiebolag-publ-genomfor-framgangsrikt-placering-av-ytterligare-icke-sakerstallda-seniora-obligationer-om-60-000-000-kronor",
+   "d": "2026-11-27T14:30:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "WeSports: Största förvärvet hittills tar WeSports närmare målen",
+   "u": "https://mfn.se/a/kalqyl/wesports-storsta-forvarvet-hittills-tar-wesports-narmare-malen",
+   "d": "2026-11-27T14:30:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Inside Information: European Commission's Directorate-General for Competition indicates UPM's proposed graphic paper Joint Venture with Sappi unlikely to proceed despite remedies",
+   "u": "https://www.prnewswire.com/news-releases/inside-information-european-commissions-directorate-general-for-competition-indicates-upms-proposed-graphic-paper-joint-venture-with-sappi-unlikely-to-proceed-despite-remedies-302951793.html",
+   "d": "2026-11-27T14:27:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Toolchanger - jetzt Standard: Bambu Lab präsentiert den P3C und macht echten Multimaterial-3D-Druck für alle Creator zugänglich",
+   "u": "https://www.prnewswire.com/news-releases/toolchanger--jetzt-standard-bambu-lab-prasentiert-den-p3c-und-macht-echten-multimaterial-3d-druck-fur-alle-creator-zuganglich-302951792.html",
+   "d": "2026-11-27T14:27:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Lifco acquires EG Medical in Italy",
+   "u": "https://mfn.se/a/lifco/lifco-acquires-eg-medical-in-italy",
+   "d": "2026-11-27T14:25:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Lifco förvärvar EG Medical i Italien",
+   "u": "https://mfn.se/a/lifco/lifco-forvarvar-eg-medical-i-italien",
+   "d": "2026-11-27T14:25:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Analyst Group Comment on Circio’s Q4-26 R&D Update: circVec Validated in Engineered Capsids and Human Heart Cells",
+   "u": "https://mfn.se/a/analyst-group/analyst-group-comment-on-circios-q4-26-randd-update-circvec-validated-in-engineered-capsids-and-human-heart-cells",
+   "d": "2026-11-27T14:25:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "BibbInstruments AB: Valberedning utsedd inför årsstämma 2027 i BiBBInstruments AB",
+   "u": "https://mfn.se/cis/a/bibbinstruments/bibbinstruments-ab-valberedning-utsedd-infor-arsstamma-2027-i-bibbinstruments-ab-8cf5dff9",
+   "d": "2026-11-27T14:24:37.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "BibbInstruments AB: Nomination Committee appointed for the 2027 AGM of BiBBInstruments AB",
+   "u": "https://mfn.se/cis/a/bibbinstruments/bibbinstruments-ab-nomination-committee-appointed-for-the-2027-agm-of-bibbinstruments-ab-f7e659d2",
+   "d": "2026-11-27T14:24:37.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "27 ans de savoir-faire en technologie mobile : le smartphone TCL P80 Ultra lauréat des prix 2027 de l'innovation du salon CES (Consumer Electronics Show)",
+   "u": "https://www.prnewswire.com/news-releases/27-ans-de-savoir-faire-en-technologie-mobile--le-smartphone-tcl-p80-ultra-laureat-des-prix-2027-de-linnovation-du-salon-ces-consumer-electronics-show-302951790.html",
+   "d": "2026-11-27T14:24:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Solar A/S: Nr. 17 2026 Storaktionærmeddelelse",
+   "u": "https://mfn.se/one/a/solar/solar-a-s-nr-17-2026-storaktionaermeddelelse-c62158a3",
+   "d": "2026-11-27T14:23:08.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Solar A/S: No. 17 2026 Major shareholder announcement",
+   "u": "https://mfn.se/one/a/solar/solar-a-s-no-17-2026-major-shareholder-announcement-8d87b950",
+   "d": "2026-11-27T14:23:08.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "SciBase presents at the Skin cancer: What's new in 2026 congress in Bologna",
+   "u": "https://www.prnewswire.com/news-releases/scibase-presents-at-the-skin-cancer-whats-new-in-2026-congress-in-bologna-302951789.html",
+   "d": "2026-11-27T14:21:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Fórum o rozvoji venkova v Jen-anu se v pátém ročníku zaměřuje na využití umělé inteligence v zemědělství a venkovském hospodářství",
+   "u": "https://www.prnewswire.com/news-releases/forum-o-rozvoji-venkova-v-jen-anu-se-v-patem-roniku-zamuje-na-vyuiti-umle-inteligence-v-zemdlstvi-a-venkovskem-hospodastvi-302951787.html",
+   "d": "2026-11-27T14:19:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Kesla Oyj:n osakesarjojen yhdistäminen, yhtiöjärjestyksen muutos ja maksuton osakeanti on rekisteröity",
+   "u": "https://mfn.se/ind/a/kesla/kesla-oyj-n-osakesarjojen-yhdistaminen-yhtiojarjestyksen-muutos-ja-maksuton-osakeanti-on-rekisteroity-8b9480ab",
+   "d": "2026-11-27T14:15:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Change in the composition of Evli Plc’s Board of Directors",
+   "u": "https://mfn.se/ind/a/evli/change-in-the-composition-of-evli-plcs-board-of-directors-337c6b3a",
+   "d": "2026-11-27T14:15:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Muutos Evli Oyj:n hallituksen kokoonpanossa",
+   "u": "https://mfn.se/ind/a/evli/muutos-evli-oyj-n-hallituksen-kokoonpanossa-37f5805b",
+   "d": "2026-11-27T14:15:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Inside Information: European Commission's Directorate-General for Competition indicates UPM's proposed graphic paper Joint Venture with Sappi unlikely to proceed despite remedies",
+   "u": "https://mfn.se/cis/a/upm-kymmene/inside-information-european-commissions-directorate-general-for-competition-indicates-upms-proposed-graphic-paper-joint-venture-with-sappi-unlikely-to-proceed-despite-remedies-a05cadb9",
+   "d": "2026-11-27T14:15:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Sisäpiiritieto: Euroopan komission kilpailun pääosasto indikoi UPM:n Sappin kanssa suunnitteleman graafisten paperien yhteisyrityksen etenemisen olevan epätodennäköistä sitoumuksista huolimatta",
+   "u": "https://mfn.se/cis/a/upm-kymmene/sisapiiritieto-euroopan-komission-kilpailun-paaosasto-indikoi-upm-n-sappin-kanssa-suunnitteleman-graafisten-paperien-yhteisyrityksen-etenemisen-olevan-epatodennakoista-sitoumuksista-huolimatta-dc22f953",
+   "d": "2026-11-27T14:15:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "El TCL P80 Ultra obtiene el premio CES Innovation Awards 2027",
+   "u": "https://www.prnewswire.com/news-releases/el-tcl-p80-ultra-obtiene-el-premio-ces-innovation-awards-2027-302951785.html",
+   "d": "2026-11-27T14:11:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "NetEase Lingdong Showcases Field-Validated Physical AI for Heavy Machinery at bauma CHINA 2026",
+   "u": "https://www.prnewswire.com/news-releases/netease-lingdong-showcases-field-validated-physical-ai-for-heavy-machinery-at-bauma-china-2026-302951784.html",
+   "d": "2026-11-27T14:11:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "EgnsINVEST Ejd. Tyskland to sell its properties to close the discount to net asset value",
+   "u": "https://mfn.se/a/vaekstaktier/egnsinvest-ejd-tyskland-to-sell-its-properties-to-close-the-discount-to-net-asset-value",
+   "d": "2026-11-27T14:10:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "EgnsINVEST Ejd. Tyskland vil sælge ejendommene for at lukke rabatten til indre værdi",
+   "u": "https://mfn.se/a/vaekstaktier/egnsinvest-ejd-tyskland-vil-saelge-ejendommene-for-at-lukke-rabatten-til-indre-vaerdi",
+   "d": "2026-11-27T14:10:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Finansinspektionen: Flaggningsmeddelande i NCC Aktiebolag",
+   "u": "https://mfn.se/cis/a/fi-se/finansinspektionen-flaggningsmeddelande-i-ncc-aktiebolag-00dadc25",
+   "d": "2026-11-27T14:02:54.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "2020 Bulkers Ltd. (Euronext Oslo Børs “2020” and Euronext NOTC “2020T”): Mandatory notification of trade",
+   "u": "https://mfn.se/a/2020-bulkers/2020-bulkers-ltd-euronext-oslo-bors-2020-and-euronext-notc-2020t-mandatory-notification-of-trade",
+   "d": "2026-11-27T14:02:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "Webbsändning med Bioextrax torsdag 3 december",
+   "u": "https://mfn.se/a/bioextrax/webbsandning-med-bioextrax-torsdag-3-december",
+   "d": "2026-11-27T14:02:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - BioNexus Gene Lab Corp (0001737523) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1737523/000147793226007329/0001477932-26-007329-index.htm",
+   "d": "2026-11-27T14:00:47.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Navitas Semiconductor Corp (0001821769) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1821769/000110465926132343/0001104659-26-132343-index.htm",
+   "d": "2026-11-27T14:00:41.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "UNice Hair Announces Black Friday Sale with Up to $150 Off and a Free Wig Offer",
+   "u": "https://www.prnewswire.com/news-releases/unice-hair-announces-black-friday-sale-with-up-to-150-off-and-a-free-wig-offer-302951596.html",
+   "d": "2026-11-27T14:00:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Printing Limitless Offers Custom Event Branding Products for Corporate Celebrations and Year-End Events",
+   "u": "https://www.prnewswire.com/news-releases/printing-limitless-offers-custom-event-branding-products-for-corporate-celebrations-and-year-end-events-302951627.html",
+   "d": "2026-11-27T14:00:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Target's Cyber Monday Sale Helps Families Save Big on Thousands of Must-Have Gifts",
+   "u": "https://www.prnewswire.com/news-releases/targets-cyber-monday-sale-helps-families-save-big-on-thousands-of-must-have-gifts-302950727.html",
+   "d": "2026-11-27T14:00:00.000Z",
+   "src": "prnewswire"
+  },
+  {
+   "t": "Millicom (Tigo) Announces Voluntary Redemption in Full of its SEK 2.25 Billion Sustainability Notes due 2027",
+   "u": "https://mfn.se/one/a/millicom/millicom-tigo-announces-voluntary-redemption-in-full-of-its-sek-2-25-billion-sustainability-notes-due-2027-a5388a1e",
+   "d": "2026-11-27T14:00:00.000Z",
+   "src": "mfn"
+  },
+  {
+   "t": "8-K - PETMED EXPRESS INC (0001040130) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1040130/000104013026000079/0001040130-26-000079-index.htm",
+   "d": "2026-11-27T13:43:11.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Skydance Corp (0002041610) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926132332/0001104659-26-132332-index.htm",
+   "d": "2026-11-27T13:33:35.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Columbia Financial, Inc./MD/ (0002115119) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2115119/000119312526479217/0001193125-26-479217-index.htm",
+   "d": "2026-11-27T12:59:37.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - WW INTERNATIONAL, INC. (0000105319) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/105319/000119312526479191/0001193125-26-479191-index.htm",
+   "d": "2026-11-27T12:40:07.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Mediaco Holding Inc. (0001784254) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1784254/000178425426000056/0001784254-26-000056-index.htm",
+   "d": "2026-11-27T12:15:39.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Chaince Digital Holdings Inc. (0001527762) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226054333/0001493152-26-054333-index.htm",
+   "d": "2026-11-27T11:10:06.000Z",
+   "src": "sec-8k"
+  },
+  {
    "t": "SDLG Group Holds Global Brand Launch Event in Shanghai",
    "u": "https://www.prnewswire.com/news-releases/sdlg-group-holds-global-brand-launch-event-in-shanghai-302951411.html",
    "d": "2026-11-27T00:40:00.000Z",
    "src": "prnewswire"
-  },
-  {
-   "t": "RomReal Ltd Third Quarter 2026",
-   "u": "https://mfn.se/a/romreal/romreal-ltd-third-quarter-2026",
-   "d": "2026-11-27T00:25:00.000Z",
-   "src": "mfn"
   },
   {
    "t": "Are SGRY, GFR, PAG Obtaining Fair Deals for their Shareholders?",
@@ -423,6 +783,18 @@
    "src": "prnewswire"
   },
   {
+   "t": "8-K - Apollo Asset Backed Credit Co LLC (0002000597) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/2000597/000119312526478899/0001193125-26-478899-index.htm",
+   "d": "2026-11-26T02:12:13.000Z",
+   "src": "sec-8k"
+  },
+  {
+   "t": "8-K - Applied Digital Corp. (0001144879) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1144879/000114487926000069/0001144879-26-000069-index.htm",
+   "d": "2026-11-26T01:54:45.000Z",
+   "src": "sec-8k"
+  },
+  {
    "t": "Celularity Provides Update Regarding Nasdaq Listing Compliance",
    "u": "https://www.globenewswire.com/news-release/2026/11/26/3410644/0/en/celularity-provides-update-regarding-nasdaq-listing-compliance.html",
    "d": "2026-11-26T00:55:00.000Z",
@@ -505,6 +877,12 @@
    "u": "https://www.prnewswire.com/news-releases/deka-lash-centennial-hills-highlights-lash-extension-intro-offer-starting-at-99-99--302950819.html",
    "d": "2026-11-25T22:50:00.000Z",
    "src": "prnewswire"
+  },
+  {
+   "t": "8-K - Vishay Precision Group, Inc. (0001487952) (Filer)",
+   "u": "https://www.sec.gov/Archives/edgar/data/1487952/000143774926038325/0001437749-26-038325-index.htm",
+   "d": "2026-11-25T22:49:20.000Z",
+   "src": "sec-8k"
   },
   {
    "t": "CHARBONE CORPORATION CHARBONE Reports Q3 2026 Financial Results with Gas Income and Margin Growth",
@@ -786,12 +1164,6 @@
    "t": "8-K - KEWAUNEE SCIENTIFIC CORP /DE/ (0000055529) (Filer)",
    "u": "https://www.sec.gov/Archives/edgar/data/55529/000005552926000039/0000055529-26-000039-index.htm",
    "d": "2026-11-25T21:54:20.000Z",
-   "src": "sec-8k"
-  },
-  {
-   "t": "8-K/A - FF EAI Robotics Ecosystem Inc. (0001460702) (Filer)",
-   "u": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226054272/0001493152-26-054272-index.htm",
-   "d": "2026-11-25T21:50:22.000Z",
    "src": "sec-8k"
   },
   {
